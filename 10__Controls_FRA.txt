@@ -3,561 +3,561 @@
 # Keep [section] headers and keys exactly as-is.
 
 [ThrottleForward]
-Label=Avancer
+Label=Áfram
 
 [ThrottleReverse]
-Label=Reculer
+Label=Afturábak
 
 [SteerRight]
-Label=Tourner à droite
+Label=Beygja til hægri
 
 [SteerLeft]
-Label=Tourner à gauche
+Label=Beygja til vinstri
 
 [Jump]
-Label=Sauter
+Label=Stökkva
 
 [Boost]
-Label=Turbo
+Label=Hröðun
 
 [HandbrakeRoll]
-Label=Dérapage/tonneau
+Label=Skrik/velta
 
 [Handbrake]
-Label=Dérapage
+Label=Skrik
 
 [ReadyUp]
-Label=Passer le replay
+Label=Sleppa endursýningu
 
 [YawRight]
-Label=Tourner à droite (dans les airs)
+Label=Snúa til hægri (í loftinu)
 
 [YawLeft]
-Label=Tourner à gauche (dans les airs)
+Label=Snúa til vinstri (í loftinu)
 
 [PitchUp]
-Label=Monter (dans les airs)
+Label=Halla upp (í loftinu)
 
 [PitchDown]
-Label=Descendre (dans les airs)
+Label=Halla niður (í loftinu)
 
 [ToggleRoll]
-Label=Tonneau aérien
+Label=Loftvelta
 
 [LookUp]
-Label=Regarder en haut (spectateur)
+Label=Horfa upp (áhorfandi)
 
 [LookDown]
-Label=Regarder en bas (spectateur)
+Label=Horfa niður (áhorfandi)
 
 [LookLeft]
-Label=Regarder à gauche (spectateur)
+Label=Horfa til vinstri (áhorfandi)
 
 [LookRight]
-Label=Regarder à droite (spectateur)
+Label=Horfa til hægri (áhorfandi)
 
 [SwivelUp]
-Label=Faire pivoter la caméra vers le haut
+Label=Snúa myndavélinni upp
 
 [SwivelDown]
-Label=Faire pivoter la caméra vers le bas
+Label=Snúa myndavélinni niður
 
 [SwivelRight]
-Label=Faire pivoter la caméra vers la droite
+Label=Snúa myndavélinni til hægri
 
 [SwivelLeft]
-Label=Faire pivoter la caméra vers la gauche
+Label=Snúa myndavélinni til vinstri
 
 [SecondaryCamera]
-Label=Viser le ballon
+Label=Miða á boltann
 
 [RearCamera]
-Label=Vue arrière
+Label=Afturábaksýn
 
 [ToggleMidGameMenu]
-Label=Pause
+Label=Hlé
 
 [ToggleScoreboard]
-Label=Score
+Label=Stig
 
 [MusicNextTrack]
-Label=Passer le morceau
+Label=Sleppa lagi
 
 [PushToTalk]
-Label=Chat vocal (appuyer pour parler/basculer)
+Label=Raddspjall (halda til að tala/skipta)
 
 [Chat]
-Label=Chat écrit
+Label=Textaspjall
 
 [TeamChat]
-Label=Chat d'équipe
+Label=Liðsspjall
 
 [ReplayMoveForward]
-Label=Avancer
+Label=Áfram
 
 [ReplayMoveBackward]
-Label=Reculer
+Label=Afturábak
 
 [ReplayMoveRight]
-Label=Déplacer à droite
+Label=Færa til hægri
 
 [ReplayMoveLeft]
-Label=Déplacer à gauche
+Label=Færa til vinstri
 
 [ReplayMoveUp]
-Label=Déplacer vers le haut
+Label=Færa upp
 
 [ReplayMoveDown]
-Label=Déplacer vers le bas
+Label=Færa niður
 
 [ReplayRollRight]
-Label=Tonneau droit
+Label=Velta til hægri
 
 [ReplayRollLeft]
-Label=Tonneau gauche
+Label=Velta til vinstri
 
 [ReplayResetView]
-Label=Réinitialiser tonneau
+Label=Endurstilla veltu
 
 [ReplayToggleRoll]
-Label=Maintenir pour faire un tonneau
+Label=Halda til að velta
 
 [ReplayZoomIn]
-Label=Zoomer
+Label=Auka aðdrátt
 
 [ReplayZoomOut]
-Label=Dézoomer
+Label=Minnka aðdrátt
 
 [ReplayViewT0P0]
-Label=Vue joueur 1
+Label=Sýn leikmanns 1
 
 [ReplayViewT0P1]
-Label=Vue joueur 2
+Label=Sýn leikmanns 2
 
 [ReplayViewT0P2]
-Label=Vue joueur 3
+Label=Sýn leikmanns 3
 
 [ReplayViewT0P3]
-Label=Vue joueur 4
+Label=Sýn leikmanns 4
 
 [ReplayViewT1P0]
-Label=Vue joueur 5
+Label=Sýn leikmanns 5
 
 [ReplayViewT1P1]
-Label=Vue joueur 6
+Label=Sýn leikmanns 6
 
 [ReplayViewT1P2]
-Label=Vue joueur 7
+Label=Sýn leikmanns 7
 
 [ReplayViewT1P3]
-Label=Vue joueur 8
+Label=Sýn leikmanns 8
 
 [ReplayViewBall]
 Label=AutoCam
 
 [ReplayViewNone]
-Label=Caméra libre
+Label=Frjáls myndavél
 
 [ReplayViewNext]
-Label=Vue joueur suivant
+Label=Sýn næsta leikmanns
 
 [ReplayViewPrev]
-Label=Vue joueur précédent
+Label=Sýn fyrri leikmanns
 
 [ReplayAddKeyframe]
-Label=Ajouter une image-clé
+Label=Bæta við lykilramma
 
 [ReplayRemoveKeyframe]
-Label=Retirer une image-clé
+Label=Fjarlægja lykilramma
 
 [ReplayNextKeyframe]
-Label=Image-clé suivante
+Label=Næsti lykilrammi
 
 [ReplayPrevKeyframe]
-Label=Image-clé précédente
+Label=Fyrri lykilrammi
 
 [ReplayScrubBackward]
-Label=Retour rapide
+Label=Spóla til baka
 
 [ReplayScrubForward]
-Label=Avance rapide
+Label=Spóla áfram
 
 [ReplayCycleHUD]
-Label=Affichage IU
+Label=Birting viðmóts
 
 [ReplayPause]
-Label=Pause
+Label=Hlé
 
 [ReplaySpeedMenu]
-Label=Menu vitesse
+Label=Hraðavalmynd
 
 [ReplayCycleFocus]
-Label=Changement d'orientation
+Label=Skipta um áherslu
 
 [ReplayFocusMenu]
-Label=Menu orientation
+Label=Áherslvalmynd
 
 [ReplayCycleCamera]
-Label=Changer de caméra
+Label=Skipta um myndavél
 
 [ReplayCameraMenu]
-Label=Menu caméra
+Label=Myndavélavalmynd
 
 [ChatPreset1]
-Label=Chat Rapide - Informations
+Label=Snögghröð spjall - Upplýsingar
 
 [ChatPreset2]
-Label=Chat Rapide - Compliments
+Label=Snögghröð spjall - Hrós
 
 [ChatPreset3]
-Label=Chat Rapide - Réactions
+Label=Snögghröð spjall - Viðbrögð
 
 [ChatPreset4]
-Label=Chat Rapide - Excuses
+Label=Snögghröð spjall - Afsökun
 
 [Categories]
-Driving=Conduite
-AirControl=Commandes aériennes
-Camera=Caméra
-Misc=Divers
-Replay=Replay
+Driving=Akstur
+AirControl=Loftstýringar
+Camera=Myndavél
+Misc=Ýmislegt
+Replay=Endursýning
 
 [ResetTraining]
-Label=réinitialiser le tir
+Label=endurstilla skot
 
 [AutoSaveReplay]
-Label=Sauvegarder le replay
+Label=Vista endursýningu
 
 [RollRight]
-Label=Tonneau droit
+Label=Velta til hægri
 
 [RollLeft]
-Label=Tonneau gauche
+Label=Velta til vinstri
 
 [ResetMouseCenter]
-Label=Réinitialiser centrage souris
+Label=Endurstilla miðjun músar
 
 [PartyChat]
-Label=Chat de groupe
+Label=Hópspjall
 
 [UsePickup]
-Label=Utiliser article
+Label=Nota hlut
 
 [Presets]
-None=Personnalisé
-Preset1=Preset1
-Preset2=Paramètres prédéfinis 2
-Preset3=Paramètres prédéfinis 3
-Preset4=Paramètres prédéfinis 4
-Preset5=Paramètres prédéfinis 5
-Preset6=Paramètres prédéfinis 6
-Preset7=Paramètres prédéfinis 7
-Preset8=Paramètres prédéfinis 8
-Preset9=Paramètres prédéfinis 9
-Legacy=Classique
-Standard=Standard
-Modern=Moderne
+None=Sérsniðið
+Preset1=Forstilling1
+Preset2=Forstilling 2
+Preset3=Forstilling 3
+Preset4=Forstilling 4
+Preset5=Forstilling 5
+Preset6=Forstilling 6
+Preset7=Forstilling 7
+Preset8=Forstilling 8
+Preset9=Forstilling 9
+Legacy=Klassískt
+Standard=Staðlað
+Modern=Nútímalegt
 
 [EditorTestShot]
-Label=Test de tir
+Label=Prófa skot
 
 [EditorPreviewTrajectory]
-Label=Aperçu de la trajectoire
+Label=Forskoða feril
 
 [EditorToggleCamera]
-Label=Changer la position de la caméra
+Label=Skipta um staðsetningu myndavélar
 
 [EditorReleaseActor]
-Label=Caméra libre
+Label=Frjáls myndavél
 
 [EditorCycleActor]
-Label=Modifier l'objet
+Label=Breyta hlut
 
 [EditorIncreasePower]
-Label=Augmenter la puissance de tir
+Label=Auka skotkraft
 
 [EditorDecreasePower]
-Label=Diminuer la puissance de tir
+Label=Minnka skotkraft
 
 [EditorIncreasePowerToggle]
-Label=Augmenter la puissance de tir
+Label=Auka skotkraft
 
 [EditorDecreasePowerToggle]
-Label=Diminuer la puissance de tir
+Label=Minnka skotkraft
 
 [StopEditing]
-Label=Retour à la liste de tir
+Label=Til baka í skotlistann
 
 [EditorNextRound]
-Label=Tir suivant
+Label=Næsta skot
 
 [EditorPrevRound]
-Label=Tir précédent
+Label=Fyrra skot
 
 [EditorIncreaseTime]
-Label=Augmenter la limite de temps
+Label=Auka tímamörk
 
 [EditorDecreaseTime]
-Label=Diminuer la limite de temps
+Label=Minnka tímamörk
 
 [EditorShowControls]
-Label=Montrer les commandes
+Label=Sýna stýringar
 
 [EditorUndo]
-Label=Annuler
+Label=Afturkalla
 
 [EditorRedo]
-Label=Restaurer
+Label=Endurgera
 
 [MouseThrottleForward]
-Label=Avancer avec la souris
+Label=Áfram með músinni
 
 [MouseThrottleReverse]
-Label=Reculer avec la souris
+Label=Afturábak með músinni
 
 [MouseSteerRight]
-Label=Tourner à droite avec la souris
+Label=Beygja til hægri með músinni
 
 [MouseSteerLeft]
-Label=Tourner à gauche avec la souris
+Label=Beygja til vinstri með músinni
 
 [DodgeForward]
-Label=Esquiver vers l'avant
+Label=Víkja sér áfram
 
 [DodgeReverse]
-Label=Esquiver vers l'arrière
+Label=Víkja sér afturábak
 
 [DodgeRight]
-Label=Esquiver vers la droite
+Label=Víkja sér til hægri
 
 [DodgeLeft]
-Label=Esquiver vers la gauche
+Label=Víkja sér til vinstri
 
 [MusicTogglePlaylistSelection]
-Label=Sélectionner des listes de lecture
+Label=Velja spilunarlista
 
 [SkipTutorial]
-Label=Passer le tutoriel
+Label=Sleppa kennslu
 
 [TutorialHelper]
-Label=Aide au didacticiel !
+Label=Kennsluhjálp!
 
 [ShiftGarageRowUp]
-Label=Monter de rangée de garage
+Label=Færast upp um röð í bílskúr
 
 [ShiftGarageRowDown]
-Label=Descendre de rangée de garage
+Label=Færast niður um röð í bílskúr
 
 [ReplayCycleNameplate]
-Label=Activer/désactiver les raccourcis joueur
+Label=Kveikja/slökkva á flýtileiðum leikmanns
 
 [ResetPlayer]
-Label=Réinitialiser le joueur
+Label=Endurstilla leikmann
 
 [ShowControllerApplet]
-Label=Afficher la console de commandes
+Label=Sýna stýriborð
 
 [ShowAccountPicker]
-Label=Afficher le sélectionneur de compte
+Label=Sýna aðgangsval
 
 [ToggleStatGraphs]
-Label=Activer/désactiver les statistiques
+Label=Kveikja/slökkva á tölfræði
 
 [Steer]
-Label=Tourner/Tourner dans les airs
+Label=Beygja/Beygja í loftinu
 
 [JoinGame]
-Label=Rejoindre partie
+Label=Taka þátt í viðureign
 
 [Yaw]
-Label=Tourner dans les airs
+Label=Snúa í loftinu
 
 [Look]
-Label=Regarder
+Label=Horfa
 
 [CameraLookUp]
-Label=Regarder en haut
+Label=Horfa upp
 
 [CameraLookDown]
-Label=Regarder en bas
+Label=Horfa niður
 
 [CameraLookLeft]
-Label=Regarder à gauche
+Label=Horfa til vinstri
 
 [CameraLookRight]
-Label=Regarder à droite
+Label=Horfa til hægri
 
 [MenuBack]
-Label=Retour/Annuler
+Label=Til baka/Hætta við
 
 [MenuForward]
-Label=Avancer/Accepter
+Label=Áfram/Samþykkja
 
 [MenuInteract_00]
-Label=Interaction 1
+Label=Samskipti 1
 
 [MenuInteract_01]
-Label=Interaction 2
+Label=Samskipti 2
 
 [MenuInteract_02]
-Label=Interaction 3
+Label=Samskipti 3
 
 [MenuInteract_03]
-Label=Interaction 4
+Label=Samskipti 4
 
 [MenuMoveDown]
-Label=Vers le bas (menu)
+Label=Niður (valmynd)
 
 [MenuMoveLeft]
-Label=Vers la gauche (menu)
+Label=Til vinstri (valmynd)
 
 [MenuMoveRight]
-Label=Vers la droite (menu)
+Label=Til hægri (valmynd)
 
 [MenuMoveUp]
-Label=Vers le haut (menu)
+Label=Upp (valmynd)
 
 [MenuSecondaryInteract_00]
-Label=Interaction secondaire 1
+Label=Aukasamskipti 1
 
 [MenuSecondaryInteract_01]
-Label=Interaction secondaire 2
+Label=Aukasamskipti 2
 
 [MenuTabLeft]
-Label=Onglet de gauche
+Label=Flipi til vinstri
 
 [MenuTabRight]
-Label=Onglet de droite
+Label=Flipi til hægri
 
 [Swivel]
-Label=Rotation de la caméra
+Label=Snúningur myndavélar
 
 [MenuSecondaryInteract_02]
-Label=Interaction secondaire 3
+Label=Aukasamskipti 3
 
 [MenuSecondaryInteract_03]
-Label=Interaction secondaire 4
+Label=Aukasamskipti 4
 
 [InGame]
-Label=En jeu
+Label=Í leik
 
 [Menus]
-Label=Menus
+Label=Valmyndir
 
 [ReplayViewer]
-Label=Lecteur de replay
+Label=Endursýningarspilari
 
 [TrainingEditor]
-Label=Éditeur d'entraînement
+Label=Æfingaritill
 
 [StartEditing]
-Label=Éditer le tir
+Label=Breyta skoti
 
 [SteamControlsTitle]
-Label=Commandes standard de Rocket League
+Label=Staðlaðar stýringar Rocket League
 
 [SteamControlsTitle_Legacy]
-Label=(HÉRITAGE) Contrôles standard de Rocket League
+Label=(ARFUR) Staðlaðar stýringar Rocket League
 
 [SteamControlsDescription]
-Label=Commandes recommandées pour Rocket League.
+Label=Ráðlagðar stýringar fyrir Rocket League.
 
 [ToggleReplayFXMenu]
-Label=Menu des effets du replay
+Label=Valmynd endursýningaráhrifa
 
 [NextPickup]
-Label=Objet suivant
+Label=Næsti hlutur
 
 [FreeplayPopBallUp]
-Label=Lancer le ballon
+Label=Kasta boltanum
 
 [FreeplayBallOnCar]
-Label=Commencer à dribbler
+Label=Byrja að rekja
 
 [FreeplayRedirectPass]
-Label=Passer le ballon
+Label=Senda boltann
 
 [FreeplayDefendShot]
-Label=Intercepter un tir
+Label=Verjast skoti
 
 [FreeplayBallInFront]
-Label=S'emparer du ballon
+Label=Ná boltanum
 
 [Block]
-Label=Bloquer
+Label=Hindra
 
 [PostMatchRequeue]
-Label=Rejouer
+Label=Spila aftur
 
 [TargetSelectRight]
-Label=Changer de cible (droite)
+Label=Skipta um skotmark (hægri)
 
 [TargetSelectLeft]
-Label=Changer de cible (gauche)
+Label=Skipta um skotmark (vinstri)
 
 [ClipInGoalReplay]
-Label=Enregistrer le replay de but
+Label=Taka upp endursýningu marks
 
 [ClipInGameplay]
-Label=Enregistrer une vidéo (maintenir)
+Label=Taka upp myndband (halda)
 
 [TrainingPreviousShot]
-Label=Tir précédent
+Label=Fyrra skot
 
 [TrainingNextShot]
-Label=Tir suivant
+Label=Næsta skot
 
 [TrainingMirrorShot]
-Label=Tir miroir
+Label=Spegilskot
 
 [Grab]
-Label=Chopper (KO)
+Label=Grípa (KO)
 
 [TrainingOpenShotSelectionMenu]
-Label=Menu de sélection de tir
+Label=Valmynd skotvals
 
 [TrainingToggleShuffle]
-Label=Activer/Désactiver le mélange
+Label=Kveikja/slökkva á stokkun
 
 [ButtonMash]
-Label=Reprendre ses esprits (KO)
+Label=Ná áttum aftur (KO)
 
 [DanceForward]
-Label=Danser en avant
+Label=Dansa áfram
 
 [DanceBackward]
-Label=Danser en arrière
+Label=Dansa afturábak
 
 [DanceRight]
-Label=Danser vers la droite
+Label=Dansa til hægri
 
 [DanceLeft]
-Label=Danser vers la gauche
+Label=Dansa til vinstri
 
 [TargetSelectNext]
-Label=Cible suivante
+Label=Næsta skotmark
 
 [FastFreeplay]
-Label=Jeu libre d'après-partie
+Label=Frjáls leikur eftir viðureign
 
 [SelectDemoSpawnLeft]
-Label=Apparition à gauche après démolition
+Label=Endurkoma til vinstri eftir eyðileggingu
 
 [SelectDemoSpawnRight]
-Label=Apparition à droite après démolition
+Label=Endurkoma til hægri eftir eyðileggingu
 
 [JumpAlternative]
-Label=Sauter (alternative)
+Label=Stökkva (annað)
 
 [ToggleScoreView]
-Label=Activer/Désactiver l'affichage du score
+Label=Kveikja/slökkva á birtingu stiga
 
 [LookAtBall]
-Label=Regarder le ballon
+Label=Horfa á boltann
 
 [EditorToggleRotatePitch]
-Label=Débloquer/Bloquer le tangage de la voiture
+Label=Aflæsa/læsa halla bílsins
 
 [EditorResetPitch]
-Label=Réinitialiser la rotation de la voiture
+Label=Endurstilla snúning bílsins
 

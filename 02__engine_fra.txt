@@ -8,214 +8,214 @@ Object[1]=(Name=Engine.MasterMD5Commandlet,Class=Class,MetaClass=Core.Commandlet
 Object[2]=(Name=Engine.SmokeTestCommandlet,Class=Class,MetaClass=Core.Commandlet)
 
 [Errors]
-NetOpen=Err. ouv. fichier
-NetWrite=Err. écr. fichier
-NetRefused=Refus env. '`~' par serv.
-NetClose=Err. ferm. fich.
-NetSize=Diff. taille fich.
-NetMove=Err. dépl. fich.
-NetInvalid=Dem. fich. incorr. reçue
-NoDownload=Vous ne pouvez pas rejoindre la partie car il vous manque un contenu téléchargeable que l'hôte possède.
-DownloadFailed=Downloading package '`~' failed: `~
-RequestDenied=Dem. fich. niveau en cours par serveur : rejet
-ConnectionFailed=Vous avez perdu la connexion au jeu.
-ChAllocate=Alloc. canal impossible
-NetAlready=Déjà en réseau
-NetListen=Échec écoute : auc. contexte liais. dispo.
-LoadEntry=Can't load Entry: `~
-InvalidUrl=Vous ne pouvez pas rejoindre la partie car il vous manque un contenu téléchargeable que l'hôte possède.
-InvalidLink=Invalid Link: `~
-FailedBrowse=Failed to enter `~: `~. Please check the log for errors.
-Listen=Listen failed: `~
-AbortToEntry=Echec ; retour à l'entrée
-ServerOpen=Ouv. URL réseau par serv. imp.
-ServerListen=Dedicated server can't listen: `~
-Pending=Pending connect to '`~' failed; `~
-LoadPlayerClass=Échec charg. classe joueur
-ClientOutdated=Appliquer les derniers patches
-ServerOutdated=Version de serveur périmée
-FailedMapload_NotFound=The map specified on the commandline '`~' could not be found. Would you like to load the default map instead?
-DebuggerPresentError=The game has detected that you are currently running a user-mode or kernel-mode debugger and cannot continue.  Please exit all debugging utilities and restart the game.
-NetworkInit=Error initializing network layer.
-CreateMatchError=Erreur création match
-UsedCheatCommands=Console commands were used which are disallowed in netplay.  You must restart the game to create a match.
-FailedFindPackage=Failed to find required package '`~'
-ConnectionTimeout=Délai de connexion au match dépassé. (Erreur : 71)
-NegativeDeltaTime=CPU time drift detected! Please consult release notes on how to address this.
-NetHDSpace=There is not enough space on your HDD to download the package. You will need to free some space to download packages.
-ConnectionFailed_Title=Connexion perdue
-SteamClientRequired=Host is running Steam, so you should too. Please launch the game from Steam.
-SteamAuthFailed=Steam decided that you are not authorized to connect to this server.
-ServerHostingDifferentGame=Server is hosting a different game. You cannot connect to this server.
-PeerListen=Peer listen socket failed: `~
-PeerConnection=Peer connection failed: `~
+NetOpen=Villa við að opna skrá
+NetWrite=Villa við að skrifa skrá
+NetRefused=Sending '`~' hafnað af þjóni
+NetClose=Villa við að loka skrá
+NetSize=Munur á skráarstærð
+NetMove=Villa við að færa skrá
+NetInvalid=Ógild skráarbeiðni móttekin
+NoDownload=Þú getur ekki tekið þátt í viðureigninni því þig vantar niðurhalanlegt efni sem hýsillinn hefur.
+DownloadFailed=Niðurhal pakkans '`~' mistókst: `~
+RequestDenied=Beiðni um yfirstandandi borðskrá frá þjóni: hafnað
+ConnectionFailed=Þú hefur misst tengingu við leikinn.
+ChAllocate=Ekki hægt að úthluta rás
+NetAlready=Þegar á neti
+NetListen=Hlustun mistókst: engin tengingarhulstur tiltæk.
+LoadEntry=Ekki hægt að hlaða Entry: `~
+InvalidUrl=Þú getur ekki tekið þátt í viðureigninni því þig vantar niðurhalanlegt efni sem hýsillinn hefur.
+InvalidLink=Ógildur tengill: `~
+FailedBrowse=Tókst ekki að fara inn í `~: `~. Vinsamlegast athugaðu annálinn fyrir villur.
+Listen=Hlustun mistókst: `~
+AbortToEntry=Mistókst; aftur að inngangi
+ServerOpen=Þjónn gat ekki opnað netvefslóð
+ServerListen=Hollur þjónn getur ekki hlustað: `~
+Pending=Bíðandi tenging við '`~' mistókst; `~
+LoadPlayerClass=Tókst ekki að hlaða leikmannaflokki
+ClientOutdated=Settu upp nýjustu plástrana
+ServerOutdated=Útgáfa þjóns er úrelt
+FailedMapload_NotFound=Borðið sem tilgreint var á skipanalínunni '`~' fannst ekki. Viltu hlaða sjálfgefna borðinu í staðinn?
+DebuggerPresentError=Leikurinn hefur greint að þú ert að keyra notenda- eða kjarnahams-aflúsara og getur ekki haldið áfram.  Vinsamlegast lokaðu öllum aflúsunarverkfærum og endurræstu leikinn.
+NetworkInit=Villa við frumstillingu netlags.
+CreateMatchError=Villa við að búa til viðureign
+UsedCheatCommands=Stjórnborðsskipanir voru notaðar sem eru ekki leyfðar í netleik.  Þú verður að endurræsa leikinn til að búa til viðureign.
+FailedFindPackage=Tókst ekki að finna nauðsynlega pakkann '`~'
+ConnectionTimeout=Tími til tengingar við viðureign rann út. (Villa: 71)
+NegativeDeltaTime=Tímarek örgjörva greint! Vinsamlegast skoðaðu útgáfunóturnar um hvernig á að bregðast við þessu.
+NetHDSpace=Það er ekki nóg pláss á harða disknum þínum til að hlaða niður pakkanum. Þú þarft að losa eitthvert pláss til að hlaða niður pökkum.
+ConnectionFailed_Title=Tenging týnd
+SteamClientRequired=Hýsillinn keyrir Steam, svo þú ættir líka að gera það. Vinsamlegast ræstu leikinn frá Steam.
+SteamAuthFailed=Steam ákvað að þú sért ekki heimilt að tengjast þessum þjóni.
+ServerHostingDifferentGame=Þjónninn hýsir annan leik. Þú getur ekki tengst þessum þjóni.
+PeerListen=Hlustunarhulstur jafningja mistókst: `~
+PeerConnection=Tenging jafningja mistókst: `~
 
 [Progress]
-CancelledConnect=Essai connexion annulé
-RunningNet=`~: `~ (`~ players)
-NetReceiving=Receiving '`~': `~/`~
-NetReceiveOk=Successfully received '`~'
-NetSend=Sending '`~'
-NetSending=Sending '`~': `~/`~
-Connecting=Connexion
-Listening=Écoute des clients...
-Loading=Charg.
-Saving=Sauv.
-Paused=Paused by `~
-ReceiveFile=Récep. '`~'
-ReceiveOptionalFile=Récep. fichier optionnel '`~'
-ReceiveSize=Taille `~K, Complete `3.1~`~
-ConnectingText=Connexion :
+CancelledConnect=Hætt við tengitilraun
+RunningNet=`~: `~ (`~ leikmenn)
+NetReceiving=Móttek '`~': `~/`~
+NetReceiveOk=Tókst að taka á móti '`~'
+NetSend=Sendi '`~'
+NetSending=Sendi '`~': `~/`~
+Connecting=Tengist
+Listening=Hlusta eftir biðlurum...
+Loading=Hleð
+Saving=Vista
+Paused=Gert hlé af `~
+ReceiveFile=Móttek '`~'
+ReceiveOptionalFile=Móttek valfrjálsa skrá '`~'
+ReceiveSize=Stærð `~K, Lokið `3.1~`~
+ConnectingText=Tengist:
 ConnectingURL=unreal://`~/`~
-Success=Success
-PeerConnecting=Peer connecting
-PeerDisconnecting=Peer disconnecting
+Success=Tókst
+PeerConnecting=Jafningi tengist
+PeerDisconnecting=Jafningi aftengist
 
 [Console]
-ClassCaption=Standard Unreal Console
+ClassCaption=Staðlað Unreal stjórnborð
 
 [GameViewportClient]
-LoadingMessage=LOADING
-SavingMessage=SAVING
-ConnectingMessage=CONNECTING
-PausedMessage=PAUSED
-PrecachingMessage=PRECACHING
+LoadingMessage=HLEÐ
+SavingMessage=VISTA
+ConnectingMessage=TENGIST
+PausedMessage=Í BIÐ
+PrecachingMessage=FORHLEÐ
 
 [MasterMD5Commandlet]
 HelpCmd=mastermd5
-HelpOneLiner=Manipulate the Master MD5 database
+HelpOneLiner=Vinna með Master MD5 gagnagrunninn
 HelpUsage=mastermd5 [-option..] <params>
 HelpWebLink=http://unreal.epicgames.com/servertips.htm
 HelpParm[0]=-c
-HelpDesc[0]=Creates a new MD5 database
+HelpDesc[0]=Býr til nýjan MD5 gagnagrunn
 HelpParm[1]=-a
-HelpDesc[1]=Adds new packages to the database
+HelpDesc[1]=Bætir nýjum pökkum við gagnagrunninn
 HelpParm[2]=-s
-HelpDesc[2]=Show the current database.
+HelpDesc[2]=Sýnir núverandi gagnagrunn.
 HelpParm[3]=-r
-HelpDesc[3]=Force the revision of all entries to <param>
+HelpDesc[3]=Þvinga endurskoðun allra færslna í <param>
 
 [General]
-Upgrade=Entrer sur ce serveur exige la dern. mise à jour gratuite d'Unreal dispo. sur le site d'Epic :
+Upgrade=Til að komast inn á þennan þjón þarf nýjustu ókeypis Unreal uppfærsluna sem er fáanleg á vef Epic:
 UpgradeURL=http://www.unreal.com/upgrade
-UpgradeQuestion=Lancer votre navigateur et rejoindre la page de mise à jour ?
-Version=Version `~
+UpgradeQuestion=Ræsa vafrann þinn og fara á uppfærslusíðuna?
+Version=Útgáfa `~
 SplashScreen_CopyrightInfo=Copyright © 1998-2010   Epic Games, Inc.   All rights reserved.
 SplashScreen_ThirdPartyCopyrightInfo=Uses Bink Video, Copyright © 1997-2011 by RAD Game Tools, Inc.
 
 [Menu]
 HelpMessage=
 MenuList=
-LeftString=Left
-RightString=Right
-CenterString=Center
-EnabledString=Enabled
-DisabledString=Disabled
-HelpMessage[1]=This menu has not yet been implemented.
-YesString=yes
-NoString=no
+LeftString=Vinstri
+RightString=Hægri
+CenterString=Miðja
+EnabledString=Virkt
+DisabledString=Óvirkt
+HelpMessage[1]=Þessi valmynd hefur ekki enn verið útfærð.
+YesString=já
+NoString=nei
 
 [GameInfo]
-DefaultPlayerName=Joueur
-GameName=Game
+DefaultPlayerName=Leikmaður
+GameName=Leikur
 
 [HUD]
-LoadingMessage=LOADING
-SavingMessage=SAVING
-ConnectingMessage=CONNECTING
-PausedMessage=PAUSED
+LoadingMessage=HLEÐ
+SavingMessage=VISTA
+ConnectingMessage=TENGIST
+PausedMessage=Í BIÐ
 
 [Inventory]
-PickupMessage=Snagged an item.
+PickupMessage=Náði í hlut.
 
 [LevelInfo]
-Title=Untitled
+Title=Ónefnt
 
 [PlayerReplicationInfo]
-StringSpectating=Spectateur
-StringUnknown=Inconnue
+StringSpectating=Áhorfandi
+StringUnknown=Óþekkt
 
 [TeamInfo]
-TeamName=Team
+TeamName=Lið
 
 [Weapon]
-ItemName=Weapon
+ItemName=Vopn
 
 [GameMessage]
-SwitchLevelMessage=a changé de niveau.
-LeftMessage=a quitté la partie.
-FailedTeamMessage=Impossible de trouver équipe joueur
-FailedPlaceMessage=Imposs. trouver pt de départ
-FailedSpawnMessage=Imposible de faire réapparaître joueur
-EnteredMessage=a rejoint la partie.
-MaxedOutMessage=Serveur déjà à pleine capacité.
-OvertimeMessage=Ex-aequo en fin d'épreuve. Prolongation pour mort subite !
-GlobalNameChange=a pour nouveau nom
-NewTeamMessage=est sur
-NoNameChange=Nom déjà employé.
-VoteStarted=a lancé un vote.
-VotePassed=Vote effectué.
-MustHaveStats=Stats requises pour rejoindre ce serveur.
-CantBeSpectator=Désolé, vous ne pouvez pas devenir spectateur pour l'instant.
-CantBePlayer=Désolé, vous ne pouvez pas devenir joueur actif pour l'instant.
-BecameSpectator=devenu spectateur.
-NewPlayerMessage=Nouveau joueur dans la partie.
-KickWarning=Vous traînez et allez bientôt être éjecté !
-NewSpecMessage=Un spectateur a rejoint la partie.
-SpecEnteredMessage= a rejoint la partie en tant que spectateur.
-ArbitrationMessage=The session has already started.
+SwitchLevelMessage=skipti um borð.
+LeftMessage=yfirgaf viðureignina.
+FailedTeamMessage=Tókst ekki að finna lið leikmanns
+FailedPlaceMessage=Tókst ekki að finna upphafsstað
+FailedSpawnMessage=Tókst ekki að endurvekja leikmann
+EnteredMessage=tók þátt í viðureigninni.
+MaxedOutMessage=Þjónn þegar í fullri afkastagetu.
+OvertimeMessage=Jafntefli í lok keppni. Framlenging fyrir bráðabana!
+GlobalNameChange=hefur nýtt nafn
+NewTeamMessage=er á
+NoNameChange=Nafn þegar í notkun.
+VoteStarted=hóf atkvæðagreiðslu.
+VotePassed=Atkvæðagreiðslu lokið.
+MustHaveStats=Tölfræði krafist til að taka þátt í þessum þjóni.
+CantBeSpectator=Því miður geturðu ekki orðið áhorfandi í augnablikinu.
+CantBePlayer=Því miður geturðu ekki orðið virkur leikmaður í augnablikinu.
+BecameSpectator=varð áhorfandi.
+NewPlayerMessage=Nýr leikmaður í viðureigninni.
+KickWarning=Þú ert aðgerðalaus og verður brátt sparkað út!
+NewSpecMessage=Áhorfandi tók þátt í viðureigninni.
+SpecEnteredMessage= tók þátt í viðureigninni sem áhorfandi.
+ArbitrationMessage=Þessi seta er þegar hafin.
 
 [FailedConnect]
-FailMessage[0]=FAILED TO JOIN GAME.  NEED PASSWORD.
-FailMessage[1]=FAILED TO JOIN GAME.  WRONG PASSWORD.
-FailMessage[2]=FAILED TO JOIN GAME.  GAME HAS STARTED.
-FailMessage[3]=FAILED TO JOIN GAME.
+FailMessage[0]=TÓKST EKKI AÐ TAKA ÞÁTT Í LEIK.  ÞARF LYKILORÐ.
+FailMessage[1]=TÓKST EKKI AÐ TAKA ÞÁTT Í LEIK.  RANGT LYKILORÐ.
+FailMessage[2]=TÓKST EKKI AÐ TAKA ÞÁTT Í LEIK.  LEIKUR ER HAFINN.
+FailMessage[3]=TÓKST EKKI AÐ TAKA ÞÁTT Í LEIK.
 
 [AccessControl]
-IPBanned=Votre adresse IP a été bannie de ce serveur.
-WrongPassword=Le code saisi est incorrect.
-NeedPassword=Code exigé pour rejoindre cette partie.
-SessionBanned=Votre adresse IP a été bannie de la séance de jeu en cours.
-KickedMsg=Vous avez été expulsé de la partie.
-DefaultKickReason=Non spécifié
+IPBanned=IP-tölu þinni hefur verið bannað aðgangur að þessum þjóni.
+WrongPassword=Kóðinn sem sleginn var inn er rangur.
+NeedPassword=Kóða krafist til að taka þátt í þessari viðureign.
+SessionBanned=IP-tölu þinni hefur verið bannað aðgangur að yfirstandandi leiksetu.
+KickedMsg=Þér hefur verið sparkað úr viðureigninni.
+DefaultKickReason=Ótilgreint
 IdleKickReason=
-ACDisplayText[0]=Code partie
-ACDisplayText[1]=Polit. d'accès
-ACDisplayText[2]=Code admin
-ACDescText[0]=Si ce code est défini, les joueurs doivent le saisir pour accéder au serveur.
-ACDescText[1]=Indique les adresses IP ou gammes d'adresses bannies.
-ACDescText[2]=Code requis pour connexion avec privilèges administrateur sur ce serveur.
+ACDisplayText[0]=Viðureignarkóði
+ACDisplayText[1]=Aðgangsstefna
+ACDisplayText[2]=Stjórnandakóði
+ACDescText[0]=Ef þessi kóði er stilltur verða leikmenn að slá hann inn til að komast inn á þjóninn.
+ACDescText[1]=Tilgreinir bannaðar IP-tölur eða svið IP-talna.
+ACDescText[2]=Kóði krafist fyrir tengingu með stjórnandaréttindum á þessum þjóni.
 
 [ServerCommandlet]
-HelpDescription=Network game server
+HelpDescription=Netleikjaþjónn
 HelpUsage=server map.unr[?game=gametype] [-option…] [parm=value]…
 HelpWebLink=http://unreal.epicgames.com/servertips.htm
 HelpParamNames[0]=Log
-HelpParamDescriptions[0]=Specify the log file to generate
+HelpParamDescriptions[0]=Tilgreindu annálaskrána sem á að búa til
 HelpParamNames[1]=AllAdmin
-HelpParamDescriptions[1]=Give all players admin privelages
+HelpParamDescriptions[1]=Gefa öllum leikmönnum stjórnandaréttindi
 
 [SmokeTestCommandlet]
-HelpDescription=This commandlet runs a series of tests to validate a build
+HelpDescription=Þessi skipanalína keyrir röð prófa til að staðfesta byggingu
 HelpUsage=gamename.exe smoketest <SERVER | CHECK_NATIVE_CLASS_SIZES>
 HelpWebLink=
 HelpParamNames[0]=SERVER
-HelpParamDescriptions[0]=Runs the game as a server for one tick to validate startup and first frame code
+HelpParamDescriptions[0]=Keyrir leikinn sem þjón í eitt tikk til að staðfesta ræsingu og kóða fyrsta ramma
 HelpParamNames[1]=CHECK_NATIVE_CLASS_SIZES
-HelpParamDescriptions[1]=Validates that all native classes match their script classes in member layout
+HelpParamDescriptions[1]=Staðfestir að allir innbyggðir flokkar samsvari skriftarflokkum sínum í uppbyggingu meðlima
 
 [ExampleGameMenu]
-CancelButtonText=Return To Game
-RespawnButtonText=Respawn Player
-ReloadButtonText=Reload Map
-InlineFontSampleText=These words are small… <Fonts:EngineFonts.LargeFont>these words are big,<Fonts:/> and these words are back to normal.
-InlineStyleSampleText=These words are normal… <Styles:ConsoleStyle>these words are green<Styles:/> and these words are normal too.
-SplitscreenButtonText=Splitscreen Test Scene
+CancelButtonText=Aftur í leikinn
+RespawnButtonText=Endurvekja leikmann
+ReloadButtonText=Endurhlaða borði
+InlineFontSampleText=Þessi orð eru lítil… <Fonts:EngineFonts.LargeFont>þessi orð eru stór,<Fonts:/> og þessi orð eru aftur eðlileg.
+InlineStyleSampleText=Þessi orð eru eðlileg… <Styles:ConsoleStyle>þessi orð eru græn<Styles:/> og þessi orð eru líka eðlileg.
+SplitscreenButtonText=Skiptiskjás prófunarsena
 
 [TestMenuStrings]
-ButtonTestText=The button has been clicked <SceneData:ButtonClickCount> times.
-PlayerIndexText=The propagated PlayerIndex is: <SceneData:PlayerIndex>.
-WrapStringTest=This is just some nonsense text that will be used for testing various string auto-sizing features. This really long string is a great one to use for testing the wrapping functionality of a UIString.  In fact, there are so many characters in this string that it is great for testing many different features of a UIString.
+ButtonTestText=Það hefur verið smellt á hnappinn <SceneData:ButtonClickCount> sinnum.
+PlayerIndexText=Útbreiddi PlayerIndex er: <SceneData:PlayerIndex>.
+WrapStringTest=Þetta er bara einhver vitleysutexti sem verður notaður til að prófa ýmsa sjálfvirka stærðaraðlögun strengja. Þessi virkilega langi strengur er frábær til að prófa línuskiptingarvirkni UIString. Reyndar eru svo margir stafir í þessum streng að hann er frábær til að prófa marga mismunandi eiginleika UIString.
 
 [OnlineProfileSettings]
 OwnerMappings[0]=(Name="None")
@@ -238,57 +238,57 @@ ProfileMappings[14]=(ValueMappings=((Name="Trigger"),(Name="Button")))
 ProfileMappings[15]=(ValueMappings=((Name="Trigger"),(Name="Button")))
 
 [ViewportStatus]
-RenderingFrozenE=Rendering frozen…
-OcclusionChild=Occlusion Child
+RenderingFrozenE=Myndgerð fryst…
+OcclusionChild=Hyljunarbarn
 
 [UIDataProvider_OnlineFriendMessages]
-SendingPlayerNameCol=Sender's Name
-bIsFriendInviteCol=Friend Invitation
-bWasAcceptedCol=Friend Was Accepted
-bWasDeniedCol=Friend Was Denied
-MessageCol=Message
+SendingPlayerNameCol=Nafn sendanda
+bIsFriendInviteCol=Vinaboð
+bWasAcceptedCol=Vinur var samþykktur
+bWasDeniedCol=Vini var hafnað
+MessageCol=Skilaboð
 
 [UIDataProvider_OnlineFriends]
-NickNameCol=Name
-PresenceInfoCol=Online Status
-bIsOnlineCol=Is Online
-bIsPlayingCol=Is Playing
-bIsPlayingThisGameCol=Is Playing This Game
-bIsJoinableCol=Is Joinable
-bHasVoiceSupportCol=Has Voice Support
-OfflineText=Offline
-OnlineText=Online
-AwayText=Away
-BusyText=Busy
+NickNameCol=Nafn
+PresenceInfoCol=Nettengistaða
+bIsOnlineCol=Er nettengdur
+bIsPlayingCol=Er að spila
+bIsPlayingThisGameCol=Er að spila þennan leik
+bIsJoinableCol=Hægt að taka þátt
+bHasVoiceSupportCol=Hefur raddstuðning
+OfflineText=Ótengdur
+OnlineText=Nettengdur
+AwayText=Fjarverandi
+BusyText=Upptekinn
 
 [OnlineGameSettings]
-NumPublicConnections.FriendlyName=Max Public Slots
-NumPrivateConnections.FriendlyName=Fentes Privées Maximum
-NumOpenPublicConnections.FriendlyName=Open Public Slots
-NumOpenPrivateConnections.FriendlyName=Open Private Slots
-bShouldAdvertise.FriendlyName=Advertise
-bIsLanMatch.FriendlyName=Lan Match
-bUsesStats.FriendlyName=Uses Stats
-bAllowJoinInProgress.FriendlyName=Join In Progress Allowed
-bAllowInvites.FriendlyName=Invites Allowed
-bUsesPresence.FriendlyName=Presence Enabled
-bAllowJoinViaPresence.FriendlyName=Join Via Presence Allowed
-bUsesArbitration.FriendlyName=Arbitration
-OwningPlayerName.FriendlyName=Server
-PingInMs.FriendlyName=Ping
-bIsDedicated.FriendlyName=Dédié
-bIsListPlay.FriendlyName=ListPlay
-AverageSkillRating.FriendlyName=Skill Rating
-bAntiCheatProtected.FriendlyName=Anti-Cheat Protected
+NumPublicConnections.FriendlyName=Hámark opinberra plássa
+NumPrivateConnections.FriendlyName=Hámark einkaplássa
+NumOpenPublicConnections.FriendlyName=Laus opinber pláss
+NumOpenPrivateConnections.FriendlyName=Laus einkapláss
+bShouldAdvertise.FriendlyName=Auglýsa
+bIsLanMatch.FriendlyName=LAN-viðureign
+bUsesStats.FriendlyName=Notar tölfræði
+bAllowJoinInProgress.FriendlyName=Þátttaka leyfð á meðan á leik stendur
+bAllowInvites.FriendlyName=Boð leyfð
+bUsesPresence.FriendlyName=Viðvera virk
+bAllowJoinViaPresence.FriendlyName=Þátttaka í gegnum viðveru leyfð
+bUsesArbitration.FriendlyName=Úrskurður
+OwningPlayerName.FriendlyName=Þjónn
+PingInMs.FriendlyName=Svartími
+bIsDedicated.FriendlyName=Hollur
+bIsListPlay.FriendlyName=Listaspilun
+AverageSkillRating.FriendlyName=Færnimat
+bAntiCheatProtected.FriendlyName=Varið gegn svindli
 
 [UIDataStore_OnlineStats]
-PlayerNickData.PlayerNickColumnName=Nom du Joueur
-RankNameMetaData.RankColumnName=Avec Classement
+PlayerNickData.PlayerNickColumnName=Nafn leikmanns
+RankNameMetaData.RankColumnName=Með stöðu
 
 [UIDataProvider_OnlinePartyChatList]
-NatTypes=Unknown
+NatTypes=Óþekkt
 
 [CheatManager]
-ViewingFrom=Now viewing from
-OwnCamera=Now viewing from own camera
+ViewingFrom=Horfi nú frá
+OwnCamera=Horfi nú frá eigin myndavél
 

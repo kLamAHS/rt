@@ -3,77 +3,77 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Paints.Black_00 ProductPaint_TA]
-Label=Noir
+Label=Svart
 
 [Paints.Blue_00 ProductPaint_TA]
-Label=Bleu ciel
+Label=Himinblátt
 
 [Paints.Blue_01 ProductPaint_TA]
-Label=Cobalt
+Label=Kóbalt
 
 [Paints.Brown_00 ProductPaint_TA]
-Label=Terre de Sienne
+Label=Síenna
 
 [Paints.Green_00 ProductPaint_TA]
-Label=Vert profond
+Label=Skóggrænt
 
 [Paints.Green_01 ProductPaint_TA]
-Label=Citron vert
+Label=Limegrænt
 
 [Paints.Grey_00 ProductPaint_TA]
-Label=Gris
+Label=Grátt
 
 [Paints.Orange_00 ProductPaint_TA]
-Label=Orange
+Label=Appelsínugult
 
 [Paints.Pink_00 ProductPaint_TA]
-Label=Rose
+Label=Bleikt
 
 [Paints.Purple_00 ProductPaint_TA]
-Label=Violet
+Label=Fjólublátt
 
 [Paints.Red_00 ProductPaint_TA]
-Label=Pourpre
+Label=Blóðrautt
 
 [Paints.White_00 ProductPaint_TA]
-Label=Blanc titane
+Label=Títanhvítt
 
 [Paints.Yellow_00 ProductPaint_TA]
-Label=Safran
+Label=Saffran
 
 [Paints.GoldMetal_00 ProductPaint_TA]
-Label=Or
+Label=Gull
 
 [Paints.Blue_00_Glow ProductPaint_TA]
-Label=Lueur bleu ciel
+Label=Himinblár ljómi
 
 [Paints.Blue_01_Glow ProductPaint_TA]
-Label=Lueur cobalt
+Label=Kóbaltljómi
 
 [Paints.Brown_00_Glow ProductPaint_TA]
-Label=Lueur terre de Sienne brûlée
+Label=Brennt síenna ljómi
 
 [Paints.Green_00_Glow ProductPaint_TA]
-Label=Lueur vert profond
+Label=Skógrænn ljómi
 
 [Paints.Green_01_Glow ProductPaint_TA]
-Label=Lueur vert citron
+Label=Limegrænn ljómi
 
 [Paints.Orange_00_Glow ProductPaint_TA]
-Label=Lueur orange
+Label=Appelsínugulur ljómi
 
 [Paints.Pink_00_Glow ProductPaint_TA]
-Label=Lueur rose
+Label=Bleikur ljómi
 
 [Paints.Purple_00_Glow ProductPaint_TA]
-Label=Lueur violette
+Label=Fjólublár ljómi
 
 [Paints.Red_00_Glow ProductPaint_TA]
-Label=Lueur pourpre
+Label=Blóðrauður ljómi
 
 [Paints.White_00_Glow ProductPaint_TA]
-Label=Lueur blanc titane
+Label=Títanhvítur ljómi
 
 [Paints.Yellow_00_Glow ProductPaint_TA]
-Label=Lueur safran
+Label=Saffranljómi
 

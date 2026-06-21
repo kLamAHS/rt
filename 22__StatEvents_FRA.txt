@@ -3,331 +3,331 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Events.AerialHit StatEvent_TA]
-Label=Frappe aérienne
-PluralLabel=Frappes aériennes
-Description=Touchez le ballon dans les airs
+Label=Lofthögg
+PluralLabel=Lofthögg
+Description=Snertu boltann í loftinu
 
 [Events.AerialGoal StatEvent_TA]
-Label=But aérien
-PluralLabel=Buts aériens
-Description=Marquez un but dans les airs
+Label=Loftmark
+PluralLabel=Loftmörk
+Description=Skoraðu mark í loftinu
 
 [Events.Assist StatEvent_TA]
-Label=Passe décisive
-PluralLabel=Passes décisives
-Description=Passez le ballon à un joueur juste avant qu'il ne marque
+Label=Stoðsending
+PluralLabel=Stoðsendingar
+Description=Sendu boltann til leikmanns rétt áður en hann skorar
 
 [Events.BackwardsGoal StatEvent_TA]
-Label=But en marche arrière
-PluralLabel=Buts en marche arrière
-Description=Marquez un but en reculant
+Label=Mark á afturábakakstri
+PluralLabel=Mörk á afturábakakstri
+Description=Skoraðu mark á afturábakakstri
 
 [Events.BicycleHit StatEvent_TA]
-Label=Retourné acrobatique
-PluralLabel=Retournés acrobatiques
-Description=Touchez le ballon en effectuant une bicyclette
+Label=Hjólhestaspyrna
+PluralLabel=Hjólhestaspyrnur
+Description=Snertu boltann með því að gera hjólhest
 
 [Events.BicycleGoal StatEvent_TA]
-Label=Retourné gagnant
-PluralLabel=Retournés gagnants
-Description=Marquez en effectuant une bicyclette
+Label=Sigurmark á hjólhesti
+PluralLabel=Sigurmörk á hjólhesti
+Description=Skoraðu með því að gera hjólhest
 
 [Events.BulletHit StatEvent_TA]
-Label=Tir puissant
-PluralLabel=Tirs puissants
-Description=Tirez de toutes vos forces
+Label=Kröftugt skot
+PluralLabel=Kröftug skot
+Description=Skjóttu af öllum mætti
 
 [Events.BulletGoal StatEvent_TA]
-Label=But puissant
-PluralLabel=Buts puissants
-Description=Marquez en tirant de toutes vos forces
+Label=Kröftugt mark
+PluralLabel=Kröftug mörk
+Description=Skoraðu með því að skjóta af öllum mætti
 
 [Events.Center StatEvent_TA]
-Label=Centre
-PluralLabel=Centres
-Description=Passez le ballon au centre du terrain
+Label=Fyrirgjöf
+PluralLabel=Fyrirgjafir
+Description=Sendu boltann inn að miðju vallarins
 
 [Events.Clear StatEvent_TA]
-Label=Dégagement
-PluralLabel=Dégagements
-Description=Empêchez le ballon d'entrer dans votre but
+Label=Hreinsun
+PluralLabel=Hreinsanir
+Description=Komdu í veg fyrir að boltinn fari í markið þitt
 
 [Events.Demolish StatEvent_TA]
-Label=Démolition
-PluralLabel=Démolitions
-Description=Détruisez un autre joueur
+Label=Eyðilegging
+PluralLabel=Eyðileggingar
+Description=Eyðilögðu annan leikmann
 
 [Events.Demolition StatEvent_TA]
-Label=Extermination
-PluralLabel=Exterminations
-Description=Détruisez sept joueurs au cours d'un match
+Label=Útrýming
+PluralLabel=Útrýmingar
+Description=Eyðilögðu sjö leikmenn í einni viðureign
 
 [Events.EpicSave StatEvent_TA]
-Label=Sauvetage miraculeux
-PluralLabel=Sauvetages miraculeux
-Description=Bloquez un tir sur le point de franchir la ligne de but
+Label=Stórkostleg björgun
+PluralLabel=Stórkostlegar bjarganir
+Description=Stöðvaðu skot sem er við það að fara yfir marklínuna
 
 [Events.FirstTouch StatEvent_TA]
-Label=Engagement
-PluralLabel=Engagements
-Description=Soyez le premier à toucher le ballon au début du match
+Label=Upphafsspyrna
+PluralLabel=Upphafsspyrnur
+Description=Vertu fyrstur til að snerta boltann í upphafi viðureignar
 
 [Events.HatTrick StatEvent_TA]
-Label=Coup du chapeau
-PluralLabel=Coups du chapeau
-Description=Marquez 3 buts lors d'un match
+Label=Þrennum
+PluralLabel=Þrennur
+Description=Skoraðu 3 mörk í einni viðureign
 
 [Events.JuggleHit StatEvent_TA]
-Label=Jonglage
-PluralLabel=Jonglages
-Description=Gardez le ballon en l'air en le touchant à plusieurs reprises
+Label=Boltafimi
+PluralLabel=Boltafimi
+Description=Haltu boltanum á lofti með því að snerta hann ítrekað
 
 [Events.LongGoal StatEvent_TA]
-Label=But lointain
-PluralLabel=Buts lointains
-Description=Marquez un but sur un tir lointain
+Label=Fjarlægt mark
+PluralLabel=Fjarlæg mörk
+Description=Skoraðu mark úr fjarlægu skoti
 
 [Events.Loss StatEvent_TA]
-Label=Match terminé
-PluralLabel=Défaites
+Label=Viðureign lokið
+PluralLabel=Töp
 
 [Events.MVP StatEvent_TA]
-Label=Meilleur joueur
-PluralLabel=Meilleurs joueurs
-Description=Obtenez le meilleur score au cours d'un match et remportez la partie
+Label=Besti leikmaður
+PluralLabel=Bestu leikmenn
+Description=Fáðu hæsta skorið í viðureign og vinndu hana
 
 [Events.OvertimeGoal StatEvent_TA]
-Label=But en prolongation
-PluralLabel=Buts en or
-Description=Marquez un but à la fin du temps réglementaire
+Label=Mark í framlengingu
+PluralLabel=Gullmörk
+Description=Skoraðu mark eftir lok venjulegs leiktíma
 
 [Events.Playmaker StatEvent_TA]
-Label=Meneur de jeu
-PluralLabel=Meneurs de jeu
-Description=Faites 3 passes décisives au cours d'un match
+Label=Leikstjórnandi
+PluralLabel=Leikstjórnendur
+Description=Gerðu 3 stoðsendingar í einni viðureign
 
 [Events.PoolShot StatEvent_TA]
-Label=Coup du billard
-PluralLabel=Coups du billard
-Description=Poussez un adversaire sur le ballon afin de marquer un but
+Label=Billjardhögg
+PluralLabel=Billjardhögg
+Description=Ýttu andstæðingi á boltann til að skora mark
 
 [Events.Save StatEvent_TA]
-Label=Arrêt
-PluralLabel=Arrêts
-Description=Arrêtez un tir qui prend la direction des filets
+Label=Vörn
+PluralLabel=Varnir
+Description=Stöðvaðu skot sem stefnir í netið
 
 [Events.Savior StatEvent_TA]
-Label=Gardien
-PluralLabel=Gardiens
-Description=Bloquez 3 tirs au cours d'un match
+Label=Vörður
+PluralLabel=Verðir
+Description=Stöðvaðu 3 skot í einni viðureign
 
 [Events.Goal StatEvent_TA]
-Label=But
-PluralLabel=Buts
-Description=Envoyez la balle au fond des buts de l'adversaire
+Label=Mark
+PluralLabel=Mörk
+Description=Sendu boltann í botn marks andstæðingsins
 
 [Events.Shot StatEvent_TA]
-Label=Tir cadré
-PluralLabel=Tirs cadrés
-Description=Effectuez un tir qui prend la direction des filets
+Label=Marktækt skot
+PluralLabel=Marktæk skot
+Description=Taktu skot sem stefnir í netið
 
 [Events.Win StatEvent_TA]
-Label=Victoire
-PluralLabel=Victoires
-Description=Gagnez un match
+Label=Sigur
+PluralLabel=Sigrar
+Description=Vinndu viðureign
 
 [Events.TurtleGoal StatEvent_TA]
-Label=Coup de la tortue
-PluralLabel=Coups de la tortue
-Description=Marquez en étant sur le dos
+Label=Skjaldbökuhögg
+PluralLabel=Skjaldbökuhögg
+Description=Skoraðu þegar þú liggur á bakinu
 
 [Events.FastestGoal StatEvent_TA]
-Label=but
-PluralLabel=but
-Description=Marquez le but le plus rapide
+Label=mark
+PluralLabel=mark
+Description=Skoraðu hraðasta markið
 
 [Events.SlowestGoal StatEvent_TA]
-Label=but
-PluralLabel=but
-Description=Marquez le but le plus lent
+Label=mark
+PluralLabel=mark
+Description=Skoraðu hægasta markið
 
 [Events.FurthestGoal StatEvent_TA]
-Label=but
-PluralLabel=but
-Description=Marquez le but le plus éloigné
+Label=mark
+PluralLabel=mark
+Description=Skoraðu fjarlægasta markið
 
 [Events.OwnGoal StatEvent_TA]
-Label=But contre votre camp
-PluralLabel=Mes buts
-Description=Marquez contre votre camp
+Label=Sjálfsmark
+PluralLabel=Sjálfsmörkin mín
+Description=Skoraðu gegn eigin liði
 
 [Events.MostBoostPickups StatEvent_TA]
-Label=Ramassage
-PluralLabel=Ramassages
-Description=Éviter les turbos
+Label=Söfnun
+PluralLabel=Safnanir
+Description=Forðastu hröðun
 
 [Events.FewestBoostPickups StatEvent_TA]
-Label=Esquive
-PluralLabel=Esquives
-Description=Éviter les boosts
+Label=Hjásneiðing
+PluralLabel=Hjásneiðingar
+Description=Forðastu hröðun
 
 [Events.MostBallTouches StatEvent_TA]
-Label=Toucher
-PluralLabel=Touchers
-Description=Touchez le ballon
+Label=Snerting
+PluralLabel=Snertingar
+Description=Snertu boltann
 
 [Events.FewestBallTouches StatEvent_TA]
-Label=Toucher
-PluralLabel=Touchers
-Description=Évitez le ballon
+Label=Snerting
+PluralLabel=Snertingar
+Description=Forðastu boltann
 
 [Events.CarTouches StatEvent_TA]
-Label=Choc
-PluralLabel=Chocs
-Description=Rentrez dans d'autres Battle-Cars
+Label=Árekstur
+PluralLabel=Árekstrar
+Description=Rekstu á aðra Battle-Cars
 
 [Events.TimePlayed StatEvent_TA]
-Label=Temps de jeu
-PluralLabel=Temps de jeu
-Description=Temps de jeu dans un match
+Label=Spilatími
+PluralLabel=Spilatími
+Description=Spilatími í viðureign
 
 [Events.BreakoutDamage StatEvent_TA]
-Label=Dégâts
-PluralLabel=Dégâts
-Description=Frappez un panneau quand la balle est dans sa première ou deuxième phase
+Label=Skemmdir
+PluralLabel=Skemmdir
+Description=Sláðu spjald þegar boltinn er á fyrsta eða öðru stigi sínu
 
 [Events.BreakoutDamageLarge StatEvent_TA]
-Label=Méga Dégâts
-PluralLabel=Méga Dégâts
-Description=Frappez un panneau quand la balle est dans sa troisième ou quatrième phase
+Label=Megaskemmdir
+PluralLabel=Megaskemmdir
+Description=Sláðu spjald þegar boltinn er á þriðja eða fjórða stigi sínu
 
 [Events.HoopsSwishGoal StatEvent_TA]
-Label=But cinétique
-PluralLabel=Buts cinétiques
-Description=Marquer un but sans que le ballon ne touche quoi que ce soit en chemin en mode Paniers
+Label=Hreint mark
+PluralLabel=Hrein mörk
+Description=Skoraðu mark án þess að boltinn snerti neitt á leiðinni í Körfur-ham
 
 [Events.LowFive StatEvent_TA]
-Label=Pote-là !
-PluralLabel=Pote-là !
-Description=Féliciter un joueur de votre équipe qui vient de marquer un but en rentrant dans sa voiture.
+Label=Lágt fimm!
+PluralLabel=Lágt fimm!
+Description=Hyltu leikmann í liðinu þínu sem var rétt að skora mark með því að rekast á bílinn hans.
 
 [Events.HighFive StatEvent_TA]
-Label=Tope-là !
-PluralLabel=Tope-là !
-Description=Féliciter un joueur de votre équipe qui vient de marquer un but en rentrant dans sa voiture dans les airs.
+Label=Hátt fimm!
+PluralLabel=Hátt fimm!
+Description=Hyltu leikmann í liðinu þínu sem var rétt að skora mark með því að rekast á bílinn hans í loftinu.
 
 [Events.KO_Knockout StatEvent_TA]
-Label=K.O.
-PluralLabel=K.O.
-Description=En mode Knockout, détruire un joueur adverse
+Label=Rothögg
+PluralLabel=Rothögg
+Description=Í Knockout-ham, eyðilögðu andstæðing
 
 [Events.KO_KnockoutAssist StatEvent_TA]
-Label=Aide au KO
-PluralLabel=Aides au KO
-Description=En mode Knockout, attaquer ou projeter un adversaire peu de temps avant qu'il soit détruit par un autre joueur
+Label=Aðstoð við rothögg
+PluralLabel=Aðstoðir við rothögg
+Description=Í Knockout-ham, ráðstu á eða kastaðu andstæðingi stuttu áður en hann er eyðilagður af öðrum leikmanni
 
 [Events.KO_Death StatEvent_TA]
-Label=Mort
-PluralLabel=Morts
-Description=Total de fois où vous avez été détruit en mode Knockout 
+Label=Dauði
+PluralLabel=Dauðsföll
+Description=Heildarfjöldi skipta sem þú hefur verið eyðilagður í Knockout-ham
 
 [Events.KO_BlockTaken StatEvent_TA]
-Label=Blocage subi
-PluralLabel=Blocages subis
-Description=Total de vos attaques qui ont été bloquées par des joueurs adverses en mode Knockout
+Label=Hindrun varin
+PluralLabel=Hindranir varðar
+Description=Heildarfjöldi árása þinna sem hafa verið hindraðar af andstæðingum í Knockout-ham
 
 [Events.KO_BlockCaused StatEvent_TA]
-Label=Blocage causé
-PluralLabel=Blocages causés
-Description=Blocages que vous avez causés
+Label=Hindrun valdin
+PluralLabel=Hindranir valdnar
+Description=Hindranir sem þú hefur valdið
 
 [Events.K0_DamageCaused StatEvent_TA]
-Label=Dégât infligé
-PluralLabel=Dégâts infligés
-Description=Dégâts que vous avez infligés
+Label=Skemmd valdin
+PluralLabel=Skemmdir valdnar
+Description=Skemmdir sem þú hefur valdið
 
 [Events.KO_DamageTaken StatEvent_TA]
-Label=Dégât subi
-PluralLabel=Dégâts subis
-Description=Dégâts que vous avez subis
+Label=Skemmd hlotin
+PluralLabel=Skemmdir hlotnar
+Description=Skemmdir sem þú hefur hlotið
 
 [Events.KO_PlayerGrabbed StatEvent_TA]
-Label=Adversaire choppé
-PluralLabel=Adversaires choppés
-Description=En mode Knockout, chopper un joueur adverse 
+Label=Andstæðingur gripinn
+PluralLabel=Andstæðingar gripnir
+Description=Í Knockout-ham, gríptu andstæðing
 
 [Events.KO_PlayerThrown StatEvent_TA]
-Label=Adversaire projeté
-PluralLabel=Adversaires projetés
-Description=En mode Knockout, projeter un joueur adverse peu de temps après l'avoir choppé
+Label=Andstæðingi kastað
+PluralLabel=Andstæðingum kastað
+Description=Í Knockout-ham, kastaðu andstæðingi stuttu eftir að hafa gripið hann
 
 [Events.KO_Grabbed StatEvent_TA]
-Label=Saisi
-PluralLabel=Saisi
-Description=Total de fois où un joueur adverse vous a choppé en mode Knockout
+Label=Gripinn
+PluralLabel=Gripinn
+Description=Heildarfjöldi skipta sem andstæðingur hefur gripið þig í Knockout-ham
 
 [Events.KO_Thrown StatEvent_TA]
-Label=Lancé
-PluralLabel=Lancé
-Description=Total de fois où un joueur adverse vous a projeté en mode Knockout
+Label=Kastað
+PluralLabel=Kastað
+Description=Heildarfjöldi skipta sem andstæðingur hefur kastað þér í Knockout-ham
 
 [Events.KO_HeavyHit StatEvent_TA]
-Label=Attaque puissante
-PluralLabel=Attaques puissantes
-Description=En mode Knockout, attaquer un joueur adverse en vous déplaçant à une vitesse supersonique
+Label=Kröftug árás
+PluralLabel=Kröftugar árásir
+Description=Í Knockout-ham, ráðstu á andstæðing á yfirhljóðshraða
 
 [Events.KO_LightHit StatEvent_TA]
-Label=Attaque légère
-PluralLabel=Attaques légères
-Description=En mode Knockout, attaquer un joueur adverse en vous déplaçant à une vitesse subsonique
+Label=Létt árás
+PluralLabel=Léttar árásir
+Description=Í Knockout-ham, ráðstu á andstæðing á undirhljóðshraða
 
 [Events.KO_HitTaken StatEvent_TA]
-Label=Attaques encaissées
-PluralLabel=Attaques encaissées
-Description=Total d'attaques que vous avez encaissées en mode Knockout
+Label=Árásir hlotnar
+PluralLabel=Árásir hlotnar
+Description=Heildarfjöldi árása sem þú hefur hlotið í Knockout-ham
 
 [Events.KO_HeavyBlock StatEvent_TA]
-Label=Blocage puissant
-PluralLabel=Blocages puissants
-Description=En mode Knockout, bloquer l'attaque puissante d'un joueur adverse
+Label=Kröftug hindrun
+PluralLabel=Kröftugar hindranir
+Description=Í Knockout-ham, hindraðu kröftuga árás andstæðings
 
 [Events.KO_LightBlock StatEvent_TA]
-Label=Blocage léger
-PluralLabel=Blocages légers
-Description=En mode Knockout, bloquer l'attaque légère d'un joueur adverse
+Label=Létt hindrun
+PluralLabel=Léttar hindranir
+Description=Í Knockout-ham, hindraðu létta árás andstæðings
 
 [Events.KO_AerialHeavyHit StatEvent_TA]
-Label=Attaque puissante aérienne
-PluralLabel=Attaques puissantes aériennes
-Description=En mode Knockout, attaquer un joueur adverse dans les airs en vous déplaçant à une vitesse supersonique
+Label=Kröftug loftárás
+PluralLabel=Kröftugar loftárásir
+Description=Í Knockout-ham, ráðstu á andstæðing í loftinu á yfirhljóðshraða
 
 [Events.KO_AerialLightHit StatEvent_TA]
-Label=Attaque légère aérienne
-PluralLabel=Attaques légères aériennes
-Description=En mode Knockout, attaquer un joueur adverse dans les airs en vous déplaçant à une vitesse subsonique
+Label=Létt loftárás
+PluralLabel=Léttar loftárásir
+Description=Í Knockout-ham, ráðstu á andstæðing í loftinu á undirhljóðshraða
 
 [Events.KO_DoubleKO StatEvent_TA]
-Label=Double KO
-PluralLabel=Doubles KO
-Description=En mode Knockout, réussir deux KO dans un court laps de temps
+Label=Tvöfalt rothögg
+PluralLabel=Tvöföld rothögg
+Description=Í Knockout-ham, náðu tveimur rothöggum á stuttum tíma
 
 [Events.KO_TripleKO StatEvent_TA]
-Label=Triple KO
-PluralLabel=Triples KO
-Description=En mode Knockout, réussir trois KO dans un court laps de temps
+Label=Þrefalt rothögg
+PluralLabel=Þreföld rothögg
+Description=Í Knockout-ham, náðu þremur rothöggum á stuttum tíma
 
 [Events.KO_MassKO StatEvent_TA]
-Label=KO en masse
-PluralLabel=KO en masse
-Description=En mode Knockout, réussir quatre KO ou plus dans un court laps de temps
+Label=Fjöldarothögg
+PluralLabel=Fjöldarothögg
+Description=Í Knockout-ham, náðu fjórum rothöggum eða fleiri á stuttum tíma
 
 [Events.KO_Winner StatEvent_TA]
-Label=Victoire par KO
-PluralLabel=Victoires par KO
-Description=Gagner des parties en mode Knockout
+Label=Sigur með rothöggi
+PluralLabel=Sigrar með rothöggi
+Description=Vinndu viðureignir í Knockout-ham
 
 [Events.FlipReset StatEvent_TA]
 Label=Flip Reset
 PluralLabel=Flip Resets
-Description=Récupérez votre esquive en vous posant sur le ballon dans les airs.
+Description=Endurheimtu veltuna þína með því að lenda á boltanum í loftinu.
 

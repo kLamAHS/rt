@@ -3,8 +3,8 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Currency]
-ESportsToken=Jetons eSports
-ESportsTokenShortName=Jetons
-Credits=Crédits
+ESportsToken=Rafíþróttapeningar
+ESportsTokenShortName=Peningar
+Credits=Inneign
 AutoTourTokens=Togrogs
 

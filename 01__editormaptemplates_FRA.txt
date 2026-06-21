@@ -3,8 +3,8 @@
 # Keep [section] headers and keys exactly as-is.
 
 [TemplateMapMetadata.DisplayNames]
-Template_Afternoon=Afternoon Lighting
-Template_MidDay=Midday Lighting
-Template_Morning=Morning Lighting
-Template_Night=Night Lighting
+Template_Afternoon=Síðdegislýsing
+Template_MidDay=Hádegislýsing
+Template_Morning=Morgunlýsing
+Template_Night=Næturlýsing
 

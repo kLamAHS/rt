@@ -3,13 +3,13 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Errors]
-Error_RemoteDesktop=This game cannot run with 3D graphics over a Remote Desktop connection.
-Error_ParentalControls=Le niveau de contrôle parental actuel ne vous permet pas de jouer à ce jeu.
-Error_ResolutionTooLow=The current resolution is too low to run this game.
-Error_NotMinSpec=Your hardware does not meet the minimum requiremts. Do you want to continue?
-Error_ModifiedCode=Modified executable code is not allowed. Please reinstall the game.
-Error_PureVirtualsEnabled=The game cannot run with CHECK_PUREVIRTUALS enabled.  Please disable CHECK_PUREVIRTUALS and rebuild the executable.
-Error_FloatingPointBlendingRequired=Your video card does not support alpha blending with floating point render targets (D3DFMT_A16B16G16R16F), which is required to run this game.  Exiting...
-Error_FailedToCreateD3D9Device=Failed to create the D3D9 Device!  This can happen if the desktop is locked.  Exiting...
-Error_RanOutOfVideoMemory=Ran out of video memory!  Exiting...
+Error_RemoteDesktop=Þennan leik er ekki hægt að keyra með 3D grafík yfir Remote Desktop tengingu.
+Error_ParentalControls=Núverandi stig foreldraeftirlits leyfir þér ekki að spila þennan leik.
+Error_ResolutionTooLow=Núverandi upplausn er of lág til að keyra þennan leik.
+Error_NotMinSpec=Vélbúnaðurinn þinn uppfyllir ekki lágmarkskröfur. Viltu halda áfram?
+Error_ModifiedCode=Breytt keyrslukóði er ekki leyfður. Vinsamlegast settu leikinn upp aftur.
+Error_PureVirtualsEnabled=Leikurinn getur ekki keyrt með CHECK_PUREVIRTUALS virkt. Vinsamlegast slökktu á CHECK_PUREVIRTUALS og endurbyggðu keyrsluskrána.
+Error_FloatingPointBlendingRequired=Skjákortið þitt styður ekki alfa-blöndun með fleytitölu-skilum (D3DFMT_A16B16G16R16F), sem er nauðsynlegt til að keyra þennan leik. Hætti...
+Error_FailedToCreateD3D9Device=Tókst ekki að búa til D3D9 tækið! Þetta getur gerst ef skjáborðið er læst. Hætti...
+Error_RanOutOfVideoMemory=Myndminni búið! Hætti...
 

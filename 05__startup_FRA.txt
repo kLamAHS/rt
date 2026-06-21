@@ -3,36 +3,36 @@
 # Keep [section] headers and keys exactly as-is.
 
 [General]
-Run=Run!
-FirstTime=Unreal Engine First-Time Configuration
-SafeMode=Unreal Engine Safe Mode
-RecoveryMode=Unreal Engine Recovery Mode
+Run=Keyra!
+FirstTime=Frumstilling Unreal Engine í fyrsta sinn
+SafeMode=Öruggur hamur Unreal Engine
+RecoveryMode=Endurheimtarhamur Unreal Engine
 WebPage=http://unreal.epicgames.com/versions.htm
-Detecting=Detecting 3D video devices, please wait...
+Detecting=Leita að 3D myndbúnaði, vinsamlegast bíðið...
 
 [IDDIALOG_ConfigPageDetail]
 IDC_ConfigPageDetail=
-IDC_DetailPrompt=Based on your computer's speed, memory, and video card, the Unreal Engine has selected the following detail options in order to optimize performance.
-IDC_DetailNote=You may change these options from the game's "Preferences" window later, if you wish.
+IDC_DetailPrompt=Miðað við hraða, minni og skjákort tölvunnar þinnar hefur Unreal Engine valið eftirfarandi smáatriðastillingar til að hámarka afköst.
+IDC_DetailNote=Þú getur breytt þessum stillingum síðar í "Kjörstillingar" glugga leiksins ef þú vilt.
 
 [IDDIALOG_ConfigPageFirstTime]
 IDC_ConfigPageFirstTime=
-IDC_Prompt=The Unreal Engine is starting up for the first time.  If you experience any problems, please read the release notes in the "Programs / Unreal Tournament" section of the Windows "Start" menu.
+IDC_Prompt=Unreal Engine er að ræsast í fyrsta sinn. Ef þú lendir í vandræðum, vinsamlegast lestu útgáfunóturnar í "Programs / Unreal Tournament" hlutanum í "Start" valmynd Windows.
 
 [IDDIALOG_ConfigPageSafeMode]
 IDC_ConfigPageSafeMode=
-IDC_SafeModePrompt=The previous time the Unreal Engine was run, it was not shut down properly.  In case the shut down was caused by a problem, you may use the options below for recovery.
-IDC_SafeModePrompt2=Unreal Engine safe mode options: If you are experiencing problems, you may use the options below for recovery.
-IDC_Run=Run Unreal Engine
-IDC_SafeMode=Run Unreal Engine in safe mode - for troubleshooting
-IDC_Web=Visit our Web site for troubleshooting tips
+IDC_SafeModePrompt=Síðast þegar Unreal Engine var keyrt var því ekki lokað á réttan hátt. Ef lokunin stafaði af vandamáli geturðu notað valkostina hér að neðan til endurheimtar.
+IDC_SafeModePrompt2=Valkostir örugga hams Unreal Engine: Ef þú lendir í vandræðum geturðu notað valkostina hér að neðan til endurheimtar.
+IDC_Run=Keyra Unreal Engine
+IDC_SafeMode=Keyra Unreal Engine í öruggum ham - til bilanaleitar
+IDC_Web=Heimsæktu vefsíðuna okkar fyrir ráð við bilanaleit
 
 [IDDIALOG_ConfigPageSafeOptions]
 IDC_ConfigPageSafeOptions=
-IDC_SafeOptions=Safe mode options, for diagnosing problems
-IDC_NoSound=Disable all sound
-IDC_Res=Run in standard 640x480 resolution
-IDC_ResetConfig=Reset all configuration options to defaults
-IDC_NoProcessor=Disable Pentium III/3DNow processor extensions
-IDC_NoJoy=Disable joystick support
+IDC_SafeOptions=Valkostir örugga hams, til að greina vandamál
+IDC_NoSound=Slökkva á öllu hljóði
+IDC_Res=Keyra í venjulegri 640x480 upplausn
+IDC_ResetConfig=Endurstilla alla stillingarvalkosti á sjálfgefin gildi
+IDC_NoProcessor=Slökkva á Pentium III/3DNow örgjörvaviðbótum
+IDC_NoJoy=Slökkva á stýripinnastuðningi
 
