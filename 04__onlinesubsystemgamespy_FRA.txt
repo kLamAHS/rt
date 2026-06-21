@@ -3,7 +3,7 @@
 # Keep [section] headers and keys exactly as-is.
 
 [OnlineSubsystemGameSpy]
-LocalProfileName=Player
-DefaultStatus=Playing
-GameInviteMessage=Would you like to play a game?
+LocalProfileName=Leikmaður
+DefaultStatus=Spilar
+GameInviteMessage=Viltu spila leik?
 

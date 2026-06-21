@@ -3,97 +3,97 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Body ProductSlot_TA]
-Label=Châssis
-Description=Choisissez un nouveau châssis pour modifier complètement le style de votre véhicule !
-PluralLabel=Châssis
+Label=Yfirbygging
+Description=Veldu nýja yfirbyggingu til að gjörbreyta útliti bílsins þíns!
+PluralLabel=Yfirbyggingar
 
 [Skin ProductSlot_TA]
-Label=Sticker
-Description=Des rayures de tigre ? Des pois ? C'est vous qui décidez !
-PluralLabel=Stickers
+Label=Skreyting
+Description=Tígrisrendur? Doppur? Þú ræður!
+PluralLabel=Skreytingar
 
 [PaintFinish ProductSlot_TA]
-Label=Peinture
-PluralLabel=Peinture
+Label=Málning
+PluralLabel=Málning
 
 [Wheels ProductSlot_TA]
-Label=Roues
-Description=Apportez la touche finale avec des pneus flambant neufs.
-PluralLabel=Roues
+Label=Hjól
+Description=Bættu lokahnykknum við með glænýjum dekkjum.
+PluralLabel=Hjól
 
 [Boost ProductSlot_TA]
-Label=Accélération turbo
-Description=Laissez des messages dans le ciel avec votre accélération turbo personnalisée !
-PluralLabel=Accélérations turbo
+Label=Hröðun
+Description=Skildu eftir skilaboð á himninum með þinni eigin sérsniðnu hröðun!
+PluralLabel=Hraðanir
 
 [Hat ProductSlot_TA]
-Label=Accessoire
-Description=Un must pour toutes les voitures de combat !
-PluralLabel=Accessoires
+Label=Aukahlutur
+Description=Ómissandi fyrir alla bardagabíla!
+PluralLabel=Aukahlutir
 
 [Front ProductSlot_TA]
-Label=Pare-chocs
-Description=La dernière chose que vos adversaires verront avant d'être réduits en pièces détachées.
-PluralLabel=Pare-chocs
+Label=Stuðari
+Description=Það síðasta sem andstæðingar þínir sjá áður en þeir verða mölbrotnir.
+PluralLabel=Stuðarar
 
 [Antenna ProductSlot_TA]
-Label=Antenne
-Description=La petite touche finale qui met le tout en valeur.
-PluralLabel=Antennes
+Label=Loftnet
+Description=Litli lokahnykkurinn sem klárar heildina.
+PluralLabel=Loftnet
 
 [UnderGlow ProductSlot_TA]
-Label=Éclairage de châssis
-Description=Illuminez votre vie.
+Label=Undirvagnslýsing
+Description=Lýstu upp líf þitt.
 
 [PremiumInventory ProductSlot_TA]
-Label=Caisses
-PluralLabel=Caisses
+Label=Kassar
+PluralLabel=Kassar
 
 [SupersonicTrail ProductSlot_TA]
-Label=Traînée
-PluralLabel=Traînées
+Label=Slóð
+PluralLabel=Slóðir
 
 [GoalExplosion ProductSlot_TA]
-Label=Explosion de but
-PluralLabel=Explosions de but
+Label=Marksprenging
+PluralLabel=Marksprengingar
 
 [EngineAudio ProductSlot_TA]
-Label=Bruit de moteur
-PluralLabel=Bruits de moteur
+Label=Vélarhljóð
+PluralLabel=Vélarhljóð
 
 [PlayerBanner ProductSlot_TA]
-Label=Bannière de joueur
-PluralLabel=Bannières de joueur
+Label=Leikmannaborði
+PluralLabel=Leikmannaborðar
 
 [MusicStingers ProductSlot_TA]
-Label=Hymne de joueur
-PluralLabel=Hymnes de joueurs
+Label=Leikmannasöngur
+PluralLabel=Leikmannasöngvar
 
 [PlayerAvatar ProductSlot_TA]
-Label=Avatar de joueur
-PluralLabel=Avatars de joueur
+Label=Leikmannamynd
+PluralLabel=Leikmannamyndir
 
 [PlayerAvatarBorder ProductSlot_TA]
-Label=Bordure d'avatar
-PluralLabel=Bordures d'avatar
+Label=Myndarammi
+PluralLabel=Myndarammar
 
 [PlayerTitle ProductSlot_TA]
-Label=Titre de joueur
-PluralLabel=Titres de joueur
+Label=Leikmannatitill
+PluralLabel=Leikmannatitlar
 
 [Archive ProductSlot_TA]
-Label=Objets archivés
-PluralLabel=Objets archivés
+Label=Vistaðir hlutir
+PluralLabel=Vistaðir hlutir
 
 [Blueprint ProductSlot_TA]
-Label=Plans
-PluralLabel=Plans
+Label=Teikningar
+PluralLabel=Teikningar
 
 [Currency ProductSlot_TA]
-Label=Devise
-PluralLabel=Devises
+Label=Gjaldmiðill
+PluralLabel=Gjaldmiðlar
 
 [GiftPack ProductSlot_TA]
-Label=Objet en récompense
-PluralLabel=Objets en récompense
+Label=Verðlaunahlutur
+PluralLabel=Verðlaunahlutir
 

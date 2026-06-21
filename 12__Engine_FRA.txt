@@ -3,17 +3,17 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Errors]
-NoDownload=Erreur de contenu (Package `~) (Error: 40)
-InvalidUrl=Erreur de contenu (Error: 41)
-ConnectionFailed=Vous avez perdu la connexion au jeu. (Error: 42)
-Pending=Impossible de vous connecter (Error: 43)
-AdHocError=Échec de la communication sans fil, veuillez réessayer plus tard.
+NoDownload=Villa í efni (Package `~) (Error: 40)
+InvalidUrl=Villa í efni (Error: 41)
+ConnectionFailed=Þú misstir tenginguna við leikinn. (Error: 42)
+Pending=Ekki tókst að tengjast (Error: 43)
+AdHocError=Þráðlaus samskipti mistókust, reyndu aftur síðar.
 
 [AccessControl]
-AuthenticationFailed=Erreur d'authentification (Error: 44)
+AuthenticationFailed=Auðkenningarvilla (Error: 44)
 
 [GameMessage]
-MaxedOutMessage=Serveur complet (Error: 45)
+MaxedOutMessage=Þjónn fullur (Error: 45)
 
 [AkAudio]
 Language=English(US)

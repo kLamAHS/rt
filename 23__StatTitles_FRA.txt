@@ -3,40 +3,40 @@
 # Keep [section] headers and keys exactly as-is.
 
 [StatSingleInstance]
-OvertimeGoal=Finisseur
+OvertimeGoal=Útkljáandi
 
 [StatCompound]
-Goals_9=Force de la nature
-Goals_3_5=Prodige
-Saves_10=Sauveur
-Saves_6_9=Protecteur
-Saves_3_5=Directeur
-EpicSaves=Ange gardien
-PoolShots=Calculateur
-BackwardsGoal=Frimeur
-BicycleGoal=Acrobate
-AerialGoal=Aviateur
-TurtleGoal=Tortue
-OwnGoal=Traître
-Juggles=Jongleur
-Goals_6_8=As
+Goals_9=Náttúruafl
+Goals_3_5=Undrabarn
+Saves_10=Bjargvættur
+Saves_6_9=Verndari
+Saves_3_5=Stjórnandi
+EpicSaves=Verndarengill
+PoolShots=Reiknimeistari
+BackwardsGoal=Sýndarmaður
+BicycleGoal=Loftfimleikamaður
+AerialGoal=Flugmaður
+TurtleGoal=Skjaldbaka
+OwnGoal=Svikari
+Juggles=Fimleikamaður
+Goals_6_8=Ás
 
 [StatStandard]
-Goals=Buteur
-Saves=Gardien de but
-Assists=Meneur de jeu
-Centers=Tacticien
-Shots=Attaquant
-FirstTouches=Agresseur
-Demolitions=Bourreau
+Goals=Markaskorari
+Saves=Markvörður
+Assists=Leikstjórnandi
+Centers=Herkænskumeistari
+Shots=Sóknarmaður
+FirstTouches=Árásarmaður
+Demolitions=Böðull
 
 [StatTracking]
-MostBoostPickups=Bête de course
-FewestBoostPickups=Accumulateur
-MostBallTouches=Squatteur de balle
-FewestBallTouches=Habitué du banc
-CarTouches=Exécuteur
-FurthestGoal=Sniper
-FastestGoal=Frappeur puissant
-SlowestGoal=Escargot
+MostBoostPickups=Kappakstursdýr
+FewestBoostPickups=Safnari
+MostBallTouches=Boltahústökumaður
+FewestBallTouches=Varamaður
+CarTouches=Aftökumaður
+FurthestGoal=Leyniskytta
+FastestGoal=Kröftugur skytti
+SlowestGoal=Snigill
 

@@ -3,85 +3,85 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Editions.Edition_Holographic ProductSpecialEdition_TA]
-Label=Holographique
+Label=Skuggamynd
 
 [Editions.Edition_Inverted ProductSpecialEdition_TA]
-Label=Inverse
+Label=Umsnúið
 
 [Editions.Edition_Infinite ProductSpecialEdition_TA]
-Label=Infini
+Label=Óendanlegt
 
 [Editions.Edition_ColorMatch ProductSpecialEdition_TA]
-Label=Color Match
+Label=Litasamræmi
 
 [Editions.Edition_Anniversary Edition ProductSpecialEdition_TA]
-Label=Édition d'anniversaire
+Label=Afmælisútgáfa
 
 [Editions.Edition_Anodized ProductSpecialEdition_TA]
-Label=Anodisé
+Label=Rafhúðað
 
 [Editions.Edition_Crystallized ProductSpecialEdition_TA]
-Label=Cristallisé
+Label=Kristallað
 
 [Editions.Edition_Flare ProductSpecialEdition_TA]
-Label=Flash
+Label=Blossi
 
 [Editions.Edition_Frosted ProductSpecialEdition_TA]
-Label=givré
+Label=Hrímað
 
 [Editions.Edition_Frozen ProductSpecialEdition_TA]
-Label=Gelé
+Label=Frosið
 
 [Editions.Edition_Gilded ProductSpecialEdition_TA]
-Label=Doré
+Label=Gyllt
 
 [Editions.Edition_Glitched ProductSpecialEdition_TA]
-Label=Bug
+Label=Gallað
 
 [Editions.Edition_GlowTrim ProductSpecialEdition_TA]
-Label=Bordure luminescente
+Label=Ljómandi rönd
 
 [Editions.Edition_Hatch ProductSpecialEdition_TA]
-Label=Hachure
+Label=Strikun
 
 [Editions.Edition_Multichrome ProductSpecialEdition_TA]
-Label=Multichrome
+Label=Marglitað
 
 [Editions.Edition_Neon ProductSpecialEdition_TA]
 Label=Neon
 
 [Editions.Edition_Noire ProductSpecialEdition_TA]
-Label=Noire
+Label=Svart
 
 [Editions.Edition_Obverse ProductSpecialEdition_TA]
-Label=Obverse
+Label=Framhlið
 
 [Editions.Edition_Phased ProductSpecialEdition_TA]
-Label=Phase
+Label=Fasað
 
 [Editions.Edition_Prismatic ProductSpecialEdition_TA]
-Label=Prismatique
+Label=Prismað
 
 [Editions.Edition_Radiant ProductSpecialEdition_TA]
-Label=Radiance
+Label=Geislandi
 
 [Editions.Edition_Remixed ProductSpecialEdition_TA]
-Label=Remix
+Label=Endurblandað
 
 [Editions.Edition_Revolved ProductSpecialEdition_TA]
-Label=Rotation
+Label=Snúið
 
 [Editions.Edition_Roasted ProductSpecialEdition_TA]
-Label=Brûlé
+Label=Ristað
 
 [Editions.Edition_Sacred ProductSpecialEdition_TA]
-Label=Sacré
+Label=Heilagt
 
 [Editions.Edition_Schematized ProductSpecialEdition_TA]
-Label=Schématisé
+Label=Skýringamyndað
 
 [Editions.Edition_Scorched ProductSpecialEdition_TA]
-Label=Calciné
+Label=Sviðið
 
 [Editions.Edition_Yin & Yang ProductSpecialEdition_TA]
 Label=Yin & Yang

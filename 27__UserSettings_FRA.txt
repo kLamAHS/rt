@@ -3,1042 +3,1042 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Resolution]
-Label=Résolution
+Label=Upplausn
 
 [WindowMode]
-Label=Mode d'affichage
+Label=Birtingarhamur
 
 [VSync]
-Label=Synchro verticale
-Description=Synchronise le taux d'images par seconde avec la fréquence de rafraîchissement de l'écran. Réduit les artefacts visuels mais peut augmenter le délai de saisie.
+Label=Lóðrétt samstilling
+Description=Samstillir rammahraða við hressingartíðni skjásins. Dregur úr myndgöllum en getur aukið innsláttartöf.
 
 [AntiAlias]
-Label=Anticrénelage
-Description=Lisse les contours afin de limiter l'effet d'escalier, mais peut provoquer des images floues. Activer cette option est susceptible de réduire les performances.
+Label=Kantmýking
+Description=Mýkir útlínur til að draga úr tröppuáhrifum, en getur valdið óskýrum myndum. Sé þetta virkjað getur það dregið úr afköstum.
 
 [RenderQuality]
-Label=Qualité du rendu
-Description=Réduire cette option augmente les performances en affichant le jeu dans une résolution moindre, puis en l'agrandissant pour convenir à votre écran.
+Label=Myndgæði
+Description=Að lækka þetta eykur afköst með því að sýna leikinn í lægri upplausn og stækka hann síðan til að passa við skjáinn.
 
 [RenderDetail]
-Label=Détails du rendu
-Description=Contrôle le niveau de plusieurs options d'affichage. Diminuer cette option est susceptible d'améliorer les performances.
+Label=Smáatriði myndgerðar
+Description=Stýrir stigi nokkurra birtingarstillinga. Að lækka þetta getur bætt afköst.
 
 [SafeZoneRatio]
-Label=Échelle d'affichage
-Description=Contrôle la taille maximum de l'affichage de l'écran. Réduisez cette option si certains éléments de l'interface apparaissent hors de l'écran.
+Label=Birtingarkvarði
+Description=Stýrir hámarksstærð skjábirtingar. Lækkaðu þetta ef einhver atriði viðmótsins birtast utan skjás.
 
 [TextureDetail]
-Label=Détails des textures
-Description=Ajuste la qualité des textures affichées.
+Label=Smáatriði áferðar
+Description=Stillir gæði þeirra áferða sem birtast.
 
 [WorldDetail]
-Label=Détails du monde
-Description=Ajuste le niveau de détails visibles dans le monde.
+Label=Smáatriði heims
+Description=Stillir stig sýnilegra smáatriða í heiminum.
 
 [HighQualityShaders]
-Label=Nuanceurs de haute qualité
-Description=Active l'affichage matériel de haute qualité. Cette option est susceptible de réduire les performances.
+Label=Hágæða skyggjarar
+Description=Virkjar hágæða vélbúnaðarbirtingu. Þetta getur dregið úr afköstum.
 
 [AmbientOcclusion]
-Label=Occlusion ambiante
-Description=Active l'éclairage et les ombres réalistes. Cette option est susceptible de réduire les performances.
+Label=Umlykjandi skyggni
+Description=Virkjar raunsæa lýsingu og skugga. Þetta getur dregið úr afköstum.
 
 [DepthOfField]
-Label=Profondeur de champ
-Description=Active un effet de flou en profondeur de champ.
+Label=Dýptarskerpa
+Description=Virkjar móðuáhrif í dýptarskerpu.
 
 [Bloom]
-Label=Flou lumineux
-Description=Augmente la luminosité des sources de lumière.
+Label=Ljósmóða
+Description=Eykur birtu ljósgjafa.
 
 [LightShafts]
-Label=Puits de lumière
-Description=Active les cônes de lumière.
+Label=Ljósgeislar
+Description=Virkjar ljóskeilur.
 
 [LensFlares]
-Label=Halos lumineux
-Description=Active les effets de facteur de flare des sources de lumière.
+Label=Ljóshaular
+Description=Virkjar glampaáhrif frá ljósgjöfum.
 
 [DynamicShadows]
-Label=Ombres dynamiques
-Description=Active les ombres des objets mobiles.
+Label=Hreyfanlegir skuggar
+Description=Virkjar skugga hreyfanlegra hluta.
 
 [MotionBlur]
-Label=Flou cinétique
-Description=Active les effets de flou afin de simuler des mouvements réalistes.
+Label=Hreyfimóða
+Description=Virkjar móðuáhrif til að líkja eftir raunsæjum hreyfingum.
 
 [GameVolume]
-Label=Jeu
-Description=Définit le volume général des effets sonores du jeu.
+Label=Leikur
+Description=Stillir heildarstyrk hljóðbrellna leiksins.
 
 [MusicVolume]
-Label=Volume de la musique
-Description=Définit le volume général de la musique du jeu.
+Label=Hljóðstyrkur tónlistar
+Description=Stillir heildarstyrk tónlistar leiksins.
 
 [AmbientVolume]
-Label=Ambiant
-Description=Définit le volume général des sons d'ambiance.
+Label=Umhverfishljóð
+Description=Stillir heildarstyrk umhverfishljóða.
 
 [VoiceVolume]
-Label=Chat vocal
-Description=Définit le volume de la discussion audio.
+Label=Raddspjall
+Description=Stillir hljóðstyrk raddspjallsins.
 
 [OutputType]
-Label=Type de sortie
-Description=Bascule entre les haut-parleurs et le casque.
+Label=Tegund úttaks
+Description=Skiptir á milli hátalara og heyrnartóla.
 
 [ControllerVolume]
-Label=Volume
-Description=Définit le volume des sons émis par votre manette.
+Label=Hljóðstyrkur
+Description=Stillir styrk þeirra hljóða sem stýripinninn gefur frá sér.
 
 [ControllerSoundMode]
-Label=Sons
-Description=Active les sons émis par votre manette.
+Label=Hljóð
+Description=Virkjar þau hljóð sem stýripinninn gefur frá sér.
 
 [VoiceFilter]
-Label=Chat vocal
-Description=Permet de déterminer avec quels joueurs la discussion audio est activée.
+Label=Raddspjall
+Description=Ákvarðar með hvaða leikmönnum raddspjallið er virkt.
 
 [ChatFilter]
-Label=Chat écrit
-Description=Permet de déterminer quels types de messages texte venant des autres joueurs sont visibles.
+Label=Textaspjall
+Description=Ákvarðar hvers konar textaskilaboð frá öðrum leikmönnum eru sýnileg.
 
 [PushToTalk]
-Label=Appuyer pour parler
-Description=Active la fonction « appuyer pour parler » de votre microphone.
+Label=Ýta til að tala
+Description=Virkjar „ýta til að tala“ aðgerð hljóðnemans þíns.
 
 [InvertSwivelPitch]
-Label=Inverser axe de rotation
-Description=Inverse les commandes de rotation de la caméra.
+Label=Snúa snúningsási við
+Description=Snýr við stýringu á snúningi myndavélar.
 
 [InvertSpectatorPitch]
-Label=Spectateur : inverser axe
-Description=Inverse les commandes d'axe en mode spectateur.
+Label=Áhorfandi: snúa ási við
+Description=Snýr við stýringu ása í áhorfandahami.
 
 [CameraShake]
-Label=Secousses de la caméra
-Description=Active les vibrations de l'écran.
+Label=Hristingur myndavélar
+Description=Virkjar titring á skjánum.
 
 [CameraFOV]
-Label=Champ de vision
-Description=Contrôle la taille du champ de vision. Augmenter cette option peut réduire les effets de cinétose.
+Label=Sjónsvið
+Description=Stýrir stærð sjónsviðsins. Að auka þetta getur dregið úr svimaáhrifum.
 
 [CameraHeight]
-Label=Hauteur
-Description=Détermine à quelle hauteur la caméra se situe au-dessus de votre voiture.
+Label=Hæð
+Description=Ákvarðar hversu hátt yfir bílnum myndavélin er staðsett.
 
 [CameraAngle]
-Label=Angle
-Description=Détermine l'angle par défaut adopté par la caméra vers votre voiture.
+Label=Horn
+Description=Ákvarðar sjálfgefið horn myndavélarinnar að bílnum þínum.
 
 [CameraDistance]
-Label=Distance
-Description=Détermine à quelle distance la caméra se situe derrière votre voiture.
+Label=Fjarlægð
+Description=Ákvarðar hversu langt fyrir aftan bílinn myndavélin er staðsett.
 
 [CameraStiffness]
-Label=Rigidité
-Description=Détermine avec quelle rigidité la caméra suit votre voiture.
+Label=Stífni
+Description=Ákvarðar hversu stíft myndavélin fylgir bílnum þínum.
 
 [CameraSwivelSpeed]
-Label=Vitesse de rotation
-Description=Détermine la vitesse à laquelle la caméra peut tourner autour de votre voiture.
+Label=Snúningshraði
+Description=Ákvarðar hversu hratt myndavélin getur snúist um bílinn þinn.
 
 [MouseSensitivity]
-Label=Sensibilité de la souris
-Description=Détermine la sensibilité de la souris lorsqu'elle est utilisée pour la direction et les déplacements.
+Label=Næmni músar
+Description=Ákvarðar næmni músarinnar þegar hún er notuð til stýringar og hreyfinga.
 
 [BallcamIndicator]
-Label=Caméra du ballon - Infos
-Description=Activer cette option permet d'afficher un indicateur à l'écran lorsque la caméra ballon est activée.
+Label=Boltamyndavél - Upplýsingar
+Description=Sé þetta virkjað birtist vísir á skjánum þegar boltamyndavélin er virk.
 
 [HoldBallcam]
-Label=Caméra du ballon - Touche enfoncée
+Label=Boltamyndavél - Halda inni takka
 
 [HorizontalSplitscreen]
-Label=Écran partagé à l'horizontal
+Label=Láréttur skiptiskjár
 
 [DisableCrossPlay]
-Label=Jeu inter-plateforme
-Description=Vous permet de jouer avec des utilisateurs sur d'autres plateformes.
+Label=Þverpalla leikur
+Description=Gerir þér kleift að spila með notendum á öðrum kerfum.
 
 [EnableSaving]
-Label=Activer Sauvegarde Auto.
+Label=Virkja sjálfvirka vistun
 
 [ForceFeedback]
-Label=Vibrations
-Description=Détermine l'intensité des vibrations de la manette.
+Label=Titringur
+Description=Ákvarðar styrk titrings stýripinnans.
 
 [BallIndicator]
-Label=Flèche du ballon
-Description=Active une flèche au-dessus de la voiture qui pointe vers le ballon.
+Label=Boltaör
+Description=Virkjar ör yfir bílnum sem bendir á boltann.
 
 [Metric]
-Label=Système métrique
-Description=Bascule entre l'utilisation du système impérial ou métrique.
+Label=Metrakerfi
+Description=Skiptir á milli notkunar á breska kerfinu eða metrakerfinu.
 
 [Values]
-Off=Désactiver
-FXAALow=FXAA bas
-FXAAMedium=FXAA moyen
-FXAAHigh=FXAA élevé
+Off=Af
+FXAALow=FXAA lágt
+FXAAMedium=FXAA miðlungs
+FXAAHigh=FXAA hátt
 MLAA=MLAA
-Fullscreen=Plein écran
-Windowed=Fenêtré
-Borderless=Sans bords
-HighQuality=Haute qualité
-Quality=Qualité
-Performance=Performance
-HighPerformance=Haute performance
-Custom=Personnalisé
-HearAll=Tout autoriser
-HearTeamOnly=Équipe uniquement
-HearFriendsOnly=Amis uniquement
-DisableVoice=Désactivé
-Speakers=Haut-parleur
-Headphones=Écouteurs
-MultiplayerOnly=Multijoueur uniquement
-AlwaysOn=Toujours activé
-AlwaysOff=Toujours désactivé
-HearPresetsOnly=Chat rapide seulement
-UseNewest=Utiliser la plus récente
-UseOldest=Utiliser la plus ancienne
-AskMe=Me le demander
-HearTeamPresetsOnly=Équipe - Chat rapide seulement
-CameraPresetDefault=Par défaut
-CameraPresetBalanced=Équilibré
-CameraPresetWide=Angle large
-FFDisabled=Désactivées
-FFVeryLight=Super légères
-FFLight=Légères
-FFMedium=Moyenne
-FFHeavy=Forte
-Default=Par défaut
-Low=Faible
-Medium=Moyenne
-High=Forte
-DynamicRangeLow=Faible (Nuit)
-DynamicRangeHigh=Forte (Cinéma)
-Vertical=Vertical
-Horizontal=Horizontal
-Toggle=Activer/Désactiver
-Hold=Maintenir
-AllMessages=Tout
-GameUpdateMessages=Que les mises à jour de temps
-KickoffMessages=Que les coups d'envoi
-AlwaysVisible=Toujours visibles
-Simplified=Simplifiées
-GameplayMusicTraining=Entraînement seulement
-GameplayMusicMatches=Parties seulement
-None=Aucun
-PerfSummary=Résumé des performances
-PerfGraphShort=Graphique des performances (court)
-PerfGraphLong=Graphique des performances (long)
-NetSummary=Résumé du réseau
-NetGraphShort=Graphique du réseau (court)
-NetGraphLong=Graphique du réseau (long)
-Gamepad=Manette
-SteamController=Manette (Steam)
-Xbox360Controller=Manette (Xbox 360)
-XboxOneController=Manette (Xbox One)
-Playstation4Controller=Manette (PlayStation 4)
-Auto=Auto
-SemiAuto=Désactivé/Auto
-NoStats=Aucune
-PrimaryStats=Stats principales seulement
-AllStats=Toutes les stats
-NetworkInputBuffer_ServerConsume=Serveur
+Fullscreen=Allur skjár
+Windowed=Gluggi
+Borderless=Án ramma
+HighQuality=Hágæði
+Quality=Gæði
+Performance=Afköst
+HighPerformance=Há afköst
+Custom=Sérsniðið
+HearAll=Leyfa allt
+HearTeamOnly=Aðeins lið
+HearFriendsOnly=Aðeins vinir
+DisableVoice=Óvirkt
+Speakers=Hátalari
+Headphones=Heyrnartól
+MultiplayerOnly=Aðeins fjölspilun
+AlwaysOn=Alltaf virkt
+AlwaysOff=Alltaf óvirkt
+HearPresetsOnly=Aðeins hraðspjall
+UseNewest=Nota nýjustu
+UseOldest=Nota elstu
+AskMe=Spyrja mig
+HearTeamPresetsOnly=Lið - aðeins hraðspjall
+CameraPresetDefault=Sjálfgefið
+CameraPresetBalanced=Jafnvægi
+CameraPresetWide=Vítt horn
+FFDisabled=Óvirkur
+FFVeryLight=Mjög léttur
+FFLight=Léttur
+FFMedium=Miðlungs
+FFHeavy=Sterkur
+Default=Sjálfgefið
+Low=Lágt
+Medium=Miðlungs
+High=Hátt
+DynamicRangeLow=Lágt (Nótt)
+DynamicRangeHigh=Hátt (Bíó)
+Vertical=Lóðrétt
+Horizontal=Lárétt
+Toggle=Kveikja/slökkva
+Hold=Halda inni
+AllMessages=Allt
+GameUpdateMessages=Aðeins tímauppfærslur
+KickoffMessages=Aðeins upphafsspyrnur
+AlwaysVisible=Alltaf sýnilegt
+Simplified=Einfaldað
+GameplayMusicTraining=Aðeins æfing
+GameplayMusicMatches=Aðeins viðureignir
+None=Ekkert
+PerfSummary=Yfirlit afkasta
+PerfGraphShort=Afkastagraf (stutt)
+PerfGraphLong=Afkastagraf (langt)
+NetSummary=Yfirlit nets
+NetGraphShort=Netgraf (stutt)
+NetGraphLong=Netgraf (langt)
+Gamepad=Stýripinni
+SteamController=Stýripinni (Steam)
+Xbox360Controller=Stýripinni (Xbox 360)
+XboxOneController=Stýripinni (Xbox One)
+Playstation4Controller=Stýripinni (PlayStation 4)
+Auto=Sjálfvirkt
+SemiAuto=Óvirkt/Sjálfvirkt
+NoStats=Engar
+PrimaryStats=Aðeins helstu tölfræði
+AllStats=Öll tölfræði
+NetworkInputBuffer_ServerConsume=Þjónn
 NetworkInputBuffer_STS=STS
 NetworkInputBuffer_CSTS=CSTS
-ImageFilterSepia=Sépia
-ImageFilterGrayscale=Gris
-ImageFilterSceneDepth=Profondeur
-AutodetectController=Sélection auto
-NoControllersFound=Aucune manette trouvée
-IgnoreSteamInput=Désactivées
-ImageFilterGlowy=Lumineux
+ImageFilterSepia=Sepía
+ImageFilterGrayscale=Grátt
+ImageFilterSceneDepth=Dýpt
+AutodetectController=Sjálfvirkt val
+NoControllersFound=Enginn stýripinni fannst
+IgnoreSteamInput=Óvirkt
+ImageFilterGlowy=Ljómandi
 ImageFilterSobel=Sobel
-ImageFilterSobelStriker=Attaquant Sobel
-ImageFilterComicBook=Bande dessinée
+ImageFilterSobelStriker=Sobel sóknarmaður
+ImageFilterComicBook=Myndasaga
 ImageFilterToon=Toon
-ImageFilterOutlines=Contours
-ImageFilterChromatic=Chromatique
-ImageFilterNightVision=Vision nocturne
-ImageFilterSubpar=Inférieur
-Red=Rouge
-Green=Vert
-Blue=Bleu
-Black=Noir
-White=Blanc
+ImageFilterOutlines=Útlínur
+ImageFilterChromatic=Litrófs
+ImageFilterNightVision=Næturskyggni
+ImageFilterSubpar=Lélegra
+Red=Rautt
+Green=Grænt
+Blue=Blátt
+Black=Svart
+White=Hvítt
 SMAA=SMAA
-CameraPresetLegacy=Classique
-DistanceFade=À proximité uniquement
-MSAASampleLabel=Échantillonnage MSAA
-MSAA_Off=MSAA désactivé
+CameraPresetLegacy=Klassískt
+DistanceFade=Aðeins nálægt
+MSAASampleLabel=MSAA sýnataka
+MSAA_Off=MSAA óvirkt
 MSAA_2x=MSAA 2x
 MSAA_4x=MSAA 4x
 MSAA_8x=MSAA 8x
 MSAA_16x=MSAA 16x
-FFImpact=Impact
-FFAll=Tout
-HearTacticalPresetsOnly=Chat rapide tactique seulement
-MusicStingersMatches=Parties seulement
-MenuOnly=Menu uniquement
-LowIntensity=Intensité faible
-PartyRoom=Groupe
-MatchRoom=Équipe
-OpenMic=Micro ouvert
-PushToTalk=Appuyer pour parler
-ToggleMute=Basculer
-BoostFillStandard=Standard
-BoostFillAuto=Remplissage auto
-BoostFillUnlimited=Illimité
-ControlsVisibilityVisible=Toujours visibles
-ControlsVisibilityHidden=Masquées
-ControlsVisibilityFadeOut=Fondu
-VoiceChatFriendsOnly=Autoriser le chat vocal seulement avec les amis
-QuickChatFriendsPresetsOnly=Autoriser le Chat Rapide avec les amis uniquement
-QuickChatPresetsEveryone=Autoriser le chat rapide avec tout le monde
-QuickChatTeamPresetsOnly=Autoriser le chat rapide uniquement avec les coéquipiers
-QuickChatDisabled=Désactivé
-MatchChatEveryone=Autoriser le chat écrit avec tout le monde
-MatchChatFriendsAndTeamOnly=Autoriser le chat écrit uniquement avec les amis et les coéquipiers
-MatchChatFriendsOnly=Autoriser le chat écrit uniquement avec les amis
-MatchChatDisabled=Désactivé
-PartyChatEveryone=Autoriser le chat écrit de groupe avec tout le monde
-PartyChatFriendsOnly=Autoriser le chat écrit de groupe uniquement avec les amis
-PartyChatDisabled=Désactivé
-VoiceChatEveryone=Autoriser le chat vocal avec tout le monde
-VoiceChatFriendsAndTeamOnly=Autoriser le chat vocal uniquement avec les amis et les coéquipiers
-VoiceChatDisabled=Désactivé
-RankInfoDisplayType_None=Aucun
-RankInfoDisplayType_ExtraModesOnly=Modes Extra uniquement
-RankInfoDisplayType_StandardOnly=Modes standard uniquement
-RankInfoDisplayType_All=Tous (par défaut)
-GoalResetStandard=Standard
-GoalResetBallReset=Réinitialisation du ballon
-GoalResetDisabled=Désactivé
-ZeroOutSwivel=Jamais
-AllowKickoffSwivel=Uniquement pendant l'engagement
-AllowAlwaysSwivel=Toujours
-AlwaysReport=Toujours activé
-OffWhenPossible=Désactivé si possible
-VoiceNotifNone=Aucun
-VoiceNotifText=Texte uniquement
-VoiceNotifMatch=Partie uniquement
-VoiceNotifMenu=Menu principal uniquement
-VoiceNotifTextMatch=Texte et partie uniquement
-VoiceNotifTextMenu=Texte et menu principal uniquement
-VoiceNotifMatchMenu=Partie et menu principal uniquement
-VoiceNotifAll=Tout
-VMP_None=Aucun
-VMP_MenuOnly=Menu principal uniquement
-VMP_InGameOnly=En jeu uniquement
-VMP_Everywhere=Partout
-PlayMusic_Menu=Menu principal uniquement
-PlayMusic_Training=Entraînement seulement
-PlayMusic_Game=Parties seulement
-PlayMusic_Menu_Training=Menu principal et Entraînement
-PlayMusic_Game_Training=Parties et Entraînement
-PlayMusic_Game_Menu=Parties et Menu principal
-PlayMusic_Everywhere=Partout
-PlayMusic_Mute=Jamais
-ActorGraphSummary=Résumé de la vitesse
-ActorGraphShort=Graphique de vitesse (court)
-ActorGraphLong=Graphique de vitesse (long)
-FlipResetOff=Désactivé
-FlipResetAudio=Audio uniquement
-FlipResetVisual=Visuels uniquement
-FlipResetOn=Activé
-AnonymizeOff=Désactivé
-AnonymizeTeammates=Coéquipiers uniquement
-AnonymizeOpponents=Adversaires uniquement
-AnonymizeEveryone=Tout le monde
-CameraPresetModern=Moderne
+FFImpact=Högg
+FFAll=Allt
+HearTacticalPresetsOnly=Aðeins taktískt hraðspjall
+MusicStingersMatches=Aðeins viðureignir
+MenuOnly=Aðeins valmynd
+LowIntensity=Lágur styrkur
+PartyRoom=Hópur
+MatchRoom=Lið
+OpenMic=Opinn hljóðnemi
+PushToTalk=Ýta til að tala
+ToggleMute=Skipta
+BoostFillStandard=Staðlað
+BoostFillAuto=Sjálfvirk áfylling
+BoostFillUnlimited=Ótakmarkað
+ControlsVisibilityVisible=Alltaf sýnilegt
+ControlsVisibilityHidden=Falið
+ControlsVisibilityFadeOut=Deyfa út
+VoiceChatFriendsOnly=Leyfa raddspjall aðeins með vinum
+QuickChatFriendsPresetsOnly=Leyfa hraðspjall aðeins með vinum
+QuickChatPresetsEveryone=Leyfa hraðspjall með öllum
+QuickChatTeamPresetsOnly=Leyfa hraðspjall aðeins með liðsfélögum
+QuickChatDisabled=Óvirkt
+MatchChatEveryone=Leyfa textaspjall með öllum
+MatchChatFriendsAndTeamOnly=Leyfa textaspjall aðeins með vinum og liðsfélögum
+MatchChatFriendsOnly=Leyfa textaspjall aðeins með vinum
+MatchChatDisabled=Óvirkt
+PartyChatEveryone=Leyfa hóptextaspjall með öllum
+PartyChatFriendsOnly=Leyfa hóptextaspjall aðeins með vinum
+PartyChatDisabled=Óvirkt
+VoiceChatEveryone=Leyfa raddspjall með öllum
+VoiceChatFriendsAndTeamOnly=Leyfa raddspjall aðeins með vinum og liðsfélögum
+VoiceChatDisabled=Óvirkt
+RankInfoDisplayType_None=Ekkert
+RankInfoDisplayType_ExtraModesOnly=Aðeins Extra-hamir
+RankInfoDisplayType_StandardOnly=Aðeins staðlaðir hamir
+RankInfoDisplayType_All=Allir (sjálfgefið)
+GoalResetStandard=Staðlað
+GoalResetBallReset=Endurstilling bolta
+GoalResetDisabled=Óvirkt
+ZeroOutSwivel=Aldrei
+AllowKickoffSwivel=Aðeins við upphafsspyrnu
+AllowAlwaysSwivel=Alltaf
+AlwaysReport=Alltaf virkt
+OffWhenPossible=Óvirkt ef mögulegt
+VoiceNotifNone=Ekkert
+VoiceNotifText=Aðeins texti
+VoiceNotifMatch=Aðeins viðureign
+VoiceNotifMenu=Aðeins aðalvalmynd
+VoiceNotifTextMatch=Aðeins texti og viðureign
+VoiceNotifTextMenu=Aðeins texti og aðalvalmynd
+VoiceNotifMatchMenu=Aðeins viðureign og aðalvalmynd
+VoiceNotifAll=Allt
+VMP_None=Ekkert
+VMP_MenuOnly=Aðeins aðalvalmynd
+VMP_InGameOnly=Aðeins í leik
+VMP_Everywhere=Alls staðar
+PlayMusic_Menu=Aðeins aðalvalmynd
+PlayMusic_Training=Aðeins æfing
+PlayMusic_Game=Aðeins viðureignir
+PlayMusic_Menu_Training=Aðalvalmynd og æfing
+PlayMusic_Game_Training=Viðureignir og æfing
+PlayMusic_Game_Menu=Viðureignir og aðalvalmynd
+PlayMusic_Everywhere=Alls staðar
+PlayMusic_Mute=Aldrei
+ActorGraphSummary=Yfirlit hraða
+ActorGraphShort=Hraðagraf (stutt)
+ActorGraphLong=Hraðagraf (langt)
+FlipResetOff=Óvirkt
+FlipResetAudio=Aðeins hljóð
+FlipResetVisual=Aðeins myndrænt
+FlipResetOn=Virkt
+AnonymizeOff=Óvirkt
+AnonymizeTeammates=Aðeins liðsfélagar
+AnonymizeOpponents=Aðeins andstæðingar
+AnonymizeEveryone=Allir
+CameraPresetModern=Nútímalegt
 
 [ShowWeatherFX]
-Label=Météo
-Description=Active les effets de météo tels que la pluie ou le brouillard.
+Label=Veður
+Description=Virkjar veðuráhrif á borð við rigningu eða þoku.
 
 [MaxFPS]
-Label=FPS Max
-Description=Limite le taux d'images par seconde maximum que le jeu peut afficher.
+Label=Hámarks FPS
+Description=Takmarkar hámarksrammahraða sem leikurinn getur sýnt.
 
 [UIScale]
-Label=Échelle d'interface
-Description=Ajuste la taille globale des éléments de l'interface utilisateur.
+Label=Viðmótskvarði
+Description=Stillir heildarstærð atriða notendaviðmótsins.
 
 [AutoCamMoveSpeed]
-Label=Réalisateur spectateur - Vitesse horizontale
-Description=Détermine la vitesse de déplacement horizontal de la caméra.
+Label=Áhorfandi-leikstjóri - Láréttur hraði
+Description=Ákvarðar láréttan hreyfihraða myndavélarinnar.
 
 [AutoCamMoveSpeedZ]
-Label=Réalisateur spectateur - Vitesse verticale
-Description=Détermine la vitesse de déplacement vertical de la caméra.
+Label=Áhorfandi-leikstjóri - Lóðréttur hraði
+Description=Ákvarðar lóðréttan hreyfihraða myndavélarinnar.
 
 [AutoCamRotateSpeed]
-Label=Réalisateur spectateur - Vitesse de rotation
-Description=Détermine la vitesse de rotation de la caméra.
+Label=Áhorfandi-leikstjóri - Snúningshraði
+Description=Ákvarðar snúningshraða myndavélarinnar.
 
 [AutoCamPlayerFocusDistance]
-Label=Réalisateur spectateur - Distance du focus aérien
-Description=Détermine la distance entre la caméra et la voiture lors des frappes aériennes.
+Label=Áhorfandi-leikstjóri - Fjarlægð fókuss í lofti
+Description=Ákvarðar fjarlægðina milli myndavélar og bíls í loftspyrnum.
 
 [AutoCamUseReplayCamera]
-Label=Réalisateur spectateur - Utiliser le replay caméra
-Description=Permet de basculer vers le replay caméra standard lors d'un but.
+Label=Áhorfandi-leikstjóri - Nota endursýningarmyndavél
+Description=Gerir kleift að skipta yfir í staðlaða endursýningarmyndavél þegar mark er skorað.
 
 [AutoCamFOV]
-Label=Réalisateur spectateur - Champ de vision
-Description=Contrôle la taille du champ de vision de la caméra.
+Label=Áhorfandi-leikstjóri - Sjónsvið
+Description=Stýrir stærð sjónsviðs myndavélarinnar.
 
 [AutoCamHeight]
-Label=Réalisateur spectateur - Hauteur
-Description=Détermine la hauteur minimum de la caméra au-dessus du sol.
+Label=Áhorfandi-leikstjóri - Hæð
+Description=Ákvarðar lágmarkshæð myndavélarinnar yfir jörðu.
 
 [AutoCamDistance]
-Label=Réalisateur spectateur - Distance
-Description=Détermine la distance entre la caméra et le ballon.
+Label=Áhorfandi-leikstjóri - Fjarlægð
+Description=Ákvarðar fjarlægðina milli myndavélar og bolta.
 
 [AutoCamPlayerFocusBlendSpeed]
-Label=Réalisateur spectateur - Vitesse du focus aérien
-Description=Détermine la vitesse de fondu de la caméra vers les frappes aériennes.
+Label=Áhorfandi-leikstjóri - Hraði fókuss í lofti
+Description=Ákvarðar deyfingarhraða myndavélar að loftspyrnum.
 
 [AutoCamAerialPrediction]
-Label=Réalisateur spectateur - Limite du focus aérien
-Description=Détermine le seuil de prédiction de frappe aérienne des joueurs.
+Label=Áhorfandi-leikstjóri - Mörk fókuss í lofti
+Description=Ákvarðar þröskuld spádóms um loftspyrnur leikmanna.
 
 [AutoCamFocusOnGoals]
-Label=AutoCam spectateur - Focus sur les buts
-Description=Activer cette option permet de garder les buts en vue lorsque le ballon en est proche.
+Label=Áhorfandi-AutoCam - Fókus á mörk
+Description=Sé þetta virkjað haldast mörkin í sjónmáli þegar boltinn er nálægt þeim.
 
 [MuteStatEvents]
-Label=Désactiver les notifications statistiques
+Label=Slökkva á tölfræðitilkynningum
 
 [DisableDivisions]
-Label=Cacher les divisions de compétition
+Label=Fela keppnisdeildir
 
 [DisableContainerNotifications]
-Label=cacher les caisses
-Description=Cache toutes les caisses de votre inventaire et désactive les notifications connexes.
+Label=fela kistur
+Description=Felur allar kistur í eign þinni og slekkur á tengdum tilkynningum.
 
 [ColorBlind]
-Label=Mode daltonien
-Description=Activer cette option remplace toutes les couleurs d'équipe et de voiture par de l'orange et du bleu au contraste élevé.
+Label=Litblinduhamur
+Description=Sé þetta virkjað er öllum liðs- og bíllitum skipt út fyrir appelsínugult og blátt með háu birtuskili.
 
 [AlternateNameplates]
-Label=Contraste élevé des noms
+Label=Há birtuskil nafna
 
 [MasterVolume]
-Label=Général
-Description=Définit le volume général du son.
+Label=Almennt
+Description=Stillir heildarstyrk hljóðsins.
 
 [ControllerDeadzone]
-Label=ZONE MORTE DE LA MANETTE
-Description=Détermine combien le stick doit bouger afin d'affecter la direction et les commandes aériennes.
+Label=DAUÐASVÆÐI STÝRIPINNA
+Description=Ákvarðar hversu mikið stýripinninn þarf að hreyfast til að hafa áhrif á stýringu og loftstýringu.
 
 [KeySelection]
-Label=Choix de la clé
-Description=Détermine les clés utilisées pour ouvrir des caisses.
+Label=Val á lykli
+Description=Ákvarðar þá lykla sem notaðir eru til að opna kistur.
 
 [DodgeInputThreshold]
-Label=ZONE MORTE DIRECTIONNELLE DE L'ESQUIVE
-Description=Détermine combien le stick doit bouger afin de réaliser une esquive au lieu d'un double saut.
+Label=STEFNUDAUÐASVÆÐI VIKS
+Description=Ákvarðar hversu mikið stýripinninn þarf að hreyfast til að framkvæma vik í stað tvístökks.
 
 [KeyboardAxisBlendTime]
-Label=Réponse accélérée de la saisie au clavier
-Description=Définit le temps nécessaire à la saisie du clavier pour passer de zéro à la valeur maximale de façon fluide.
+Label=Hröðuð svörun lyklaborðsinnsláttar
+Description=Stillir þann tíma sem lyklaborðsinnsláttur tekur að fara mjúklega frá núlli upp í hámarksgildi.
 
 [LeftJoystickSensitivity]
-Label=Sensibilité du stick analogique gauche
+Label=Næmni vinstri stýripinna
 
 [RightJoystickSensitivity]
-Label=Sensibilité du stick analogique droit
+Label=Næmni hægri stýripinna
 
 [UseTranslucentArenaShaders]
-Label=Poteaux de but transparents
-Description=Active la transparence des murs lorsque vous êtes proche ou à l'intérieur d'un but.
+Label=Gegnsæjar markstangir
+Description=Virkjar gegnsæi veggja þegar þú ert nálægt eða inni í marki.
 
 [AlwaysShowNameplates]
-Label=Toujours afficher les plaques nominatives
+Label=Sýna nafnspjöld alltaf
 
 [LockSpectatorBallCam]
-Label=Spectateur : caméra ballon
-Description=Détermine si la caméra ballon est toujours utilisée en mode spectateur.
+Label=Áhorfandi: boltamyndavél
+Description=Ákvarðar hvort boltamyndavélin er alltaf notuð í áhorfandahami.
 
 [CameraTransitionSpeed]
-Label=Vitesse de transition
-Description=Détermine la vitesse des transitions entre la caméra de la voiture et la caméra du ballon.
+Label=Skiptingarhraði
+Description=Ákvarðar hraða skiptinga milli bílmyndavélar og boltamyndavélar.
 
 [SteeringSensitivity]
-Label=Sensibilité de la direction
-Description=Détermine la sensibilité du stick lors de la direction.
+Label=Næmni stýringar
+Description=Ákvarðar næmni stýripinnans við stýringu.
 
 [AirControlSensitivity]
-Label=Sensibilité aérienne
-Description=Détermine la sensibilité du stick lors des déplacements aériens.
+Label=Loftnæmni
+Description=Ákvarðar næmni stýripinnans við loftstýringu.
 
 [GameplayMusic]
-Label=Musique en jeu
-Description=Définit le moment où la bande sonore du jeu est jouée.
+Label=Tónlist í leik
+Description=Ákvarðar hvenær hljóðrás leiksins er spiluð.
 
 [DirectorCamAllowBlending]
-Label=Réalisateur spectateur - Autoriser les fondus
-Description=Active un léger fondu lorsque vous passez d'un joueur à l'autre en mode réalisateur.
+Label=Áhorfandi-leikstjóri - Leyfa deyfingar
+Description=Virkjar létta deyfingu þegar þú skiptir milli leikmanna í leikstjórahami.
 
 [DirectorMinSameTeamFocus]
-Label=Réalisateur spectateur - Temps pour une même équipe
-Description=Détermine la durée de focus sur un joueur avant de pouvoir passer à un coéquipier.
+Label=Áhorfandi-leikstjóri - Tími fyrir sama lið
+Description=Ákvarðar hversu lengi fókus er á leikmanni áður en hægt er að skipta yfir á liðsfélaga.
 
 [DirectorMinChangeTeamFocus]
-Label=Réalisateur spectateur - Temps pour changement d'équipe
-Description=Détermine la durée de focus sur une équipe avant de pouvoir passer à l'autre.
+Label=Áhorfandi-leikstjóri - Tími fyrir liðsskipti
+Description=Ákvarðar hversu lengi fókus er á liði áður en hægt er að skipta yfir á hitt.
 
 [BallcamMode]
-Label=Ballon - Mode de caméra
-Description=Détermine si la touche de caméra ballon doit être pressée une fois ou maintenue enfoncée.
+Label=Bolti - Myndavélarhamur
+Description=Ákvarðar hvort ýta þarf á takka boltamyndavélar einu sinni eða halda honum inni.
 
 [SplitscreenMode]
-Label=Paramètres d'écran partagé
-Description=Détermine la façon dont l'écran est séparé lorsque vous jouez en écran partagé.
+Label=Stillingar skiptiskjás
+Description=Ákvarðar hvernig skjánum er skipt þegar þú spilar á skiptiskjá.
 
 [IncomingPacketFrequency]
-Label=Vitesse d'envoi du serveur
-Description=Limite le nombre de paquets par seconde que le serveur envoie au client.
+Label=Sendihraði þjóns
+Description=Takmarkar fjölda pakka á sekúndu sem þjónninn sendir til biðlarans.
 
 [OutgoingPacketFrequency]
-Label=Vitesse d'envoi du client
-Description=Limite le nombre de paquets par seconde que le client envoie au serveur.
+Label=Sendihraði biðlara
+Description=Takmarkar fjölda pakka á sekúndu sem biðlarinn sendir til þjónsins.
 
 [IncomingBandwidth]
-Label=Limite de bande-passante
-Description=Limite le taux d'envoi d'informations du serveur vers le client.
+Label=Bandbreiddartakmark
+Description=Takmarkar hraða upplýsingasendinga frá þjóni til biðlara.
 
 [ConnectionQualityIndicators]
-Label=Indicateurs de connexion
-Description=Active une notification à l'écran lors des problèmes de connexion.
+Label=Tengivísar
+Description=Virkjar tilkynningu á skjánum þegar tengingarvandamál koma upp.
 
 [CompetitiveDivisions]
-Label=Divisions de compétition
-Description=Active l'affichage d'informations sur les divisions de compétition à la fin des parties.
+Label=Keppnisdeildir
+Description=Virkjar birtingu upplýsinga um keppnisdeildir í lok viðureigna.
 
 [ForceFeedbackType]
-Label=Vibrations
+Label=Titringur
 
 [CameraPreset]
-Label=Préréglages de caméra
-Description=Détermine plusieurs options de caméra à la fois. Certains préréglages vous permettent d'avoir une meilleure vue du terrain.
+Label=Forstillingar myndavélar
+Description=Ákvarðar nokkrar myndavélarstillingar í einu. Sumar forstillingar veita þér betra útsýni yfir völlinn.
 
 [NameplateScale]
-Label=Plaque nominative - Taille
-Description=Détermine la taille des plaques nominatives au-dessus des autres voitures.
+Label=Nafnspjald - Stærð
+Description=Ákvarðar stærð nafnspjalda yfir öðrum bílum.
 
 [NameplateMode]
-Label=Plaque nominative - Mode
-Description=Détermine le type de plaques nominatives affichées.
+Label=Nafnspjald - Hamur
+Description=Ákvarðar þá tegund nafnspjalda sem birtast.
 
 [HUDMessageLevel]
-Label=Notifications de partie
-Description=Détermine quels types de messages de jeu apparaissent à l'écran.
+Label=Tilkynningar viðureignar
+Description=Ákvarðar hvers konar leikskilaboð birtast á skjánum.
 
 [ConsoleQualityMode]
-Label=Qualité vidéo
+Label=Myndgæði
 
 [EnableFreeplayUnlimitedBoost]
-Label=Turbo illimité en jeu libre
+Label=Ótakmörkuð hröðun í frjálsum leik
 
 [CrowdVolume]
-Label=Foule
-Description=Définit le volume de la foule.
+Label=Mannfjöldi
+Description=Stillir hljóðstyrk mannfjöldans.
 
 [ParticleDetail]
-Label=Détails des particules
-Description=Ajuste la qualité des particules affichées.
+Label=Smáatriði agna
+Description=Stillir gæði þeirra agna sem birtast.
 
 [ForceDefaultColors]
-Label=Forcer les couleurs d'équipes par défaut
-Description=Impose l'utilisation des couleurs d'équipe orange et bleu par défaut dans les parties privées ou en club.
+Label=Þvinga sjálfgefna liðsliti
+Description=Þvingar notkun á sjálfgefnu liðslitunum appelsínugulu og bláu í einkaviðureignum eða klúbbleikjum.
 
 [CompetitiveDivisionsSports]
-Label=Afficher les rangs Mode extra
-Description=Active l'affichage d'informations de rang en mode Extra.
+Label=Sýna tignir í Extra-ham
+Description=Virkjar birtingu tignarupplýsinga í Extra-ham.
 
 [HDRBrightnessScale]
-Label=Luminosité HDR
-Description=Permet d'ajuster la luminosité maximale affichée des parties les plus lumineuses d'une scène avec HDR.
+Label=HDR-birta
+Description=Gerir þér kleift að stilla hámarksbirtu björtustu hluta senu með HDR.
 
 [HDRPaperWhiteScale]
-Label=Surface blanche HDR
-Description=Ajustez la luminosité d'une surface blanche (en nits) avec HDR.
+Label=HDR hvítt yfirborð
+Description=Stilltu birtu hvíts yfirborðs (í nits) með HDR.
 
 [HDRGammaScale]
-Label=Contraste HDR
-Description=Permet de contrôler le contraste avec HDR. En modifiant ceci, assurez-vous de ne pas perdre de détails dans les zones sombres d'une scène.
+Label=HDR-birtuskil
+Description=Gerir kleift að stýra birtuskilum með HDR. Þegar þú breytir þessu skaltu gæta þess að missa ekki smáatriði á dökkum svæðum senu.
 
 [EnableHDRSideBySideVisualizer]
-Label=Comparatif HDR
-Description=Permet d'activer le comparatif SDR (à gauche) et HDR (à droite).
+Label=HDR-samanburður
+Description=Gerir kleift að virkja samanburð á SDR (vinstra megin) og HDR (hægra megin).
 
 [UseSteamInput]
-Label=Utiliser la configuration de commandes Steam (BÊTA)
+Label=Nota Steam-stýringaruppsetningu (BETA)
 
 [InputBufferType]
-Label=Mémoire tampon d'entrée
-Description=Méthode utilisée pour contrôler la taille de la mémoire tampon d'entrée. Choisissez STS ou CSTS pour aider à réduire la latence pendant une partie.
+Label=Innsláttarbiðminni
+Description=Aðferð notuð til að stýra stærð innsláttarbiðminnisins. Veldu STS eða CSTS til að draga úr biðtíma í viðureign.
 
 [ShowInGameNotifications]
-Label=Notifications d'amis en jeu
-Description=Affiche les notifications d'amis pendant que vous jouez. Si l'option est désactivée, il est toujours possible de consulter les notifications depuis le menu Amis.
+Label=Vinatilkynningar í leik
+Description=Birtir vinatilkynningar á meðan þú spilar. Sé þetta óvirkt er enn hægt að skoða tilkynningar í Vinir-valmyndinni.
 
 [ShowInGameStats]
-Label=Niveau d'affichage des statistiques de jeu
-Description=Affiche les diverses notifications de stats pendant que vous jouez. 
+Label=Birtingarstig leiktölfræði
+Description=Birtir ýmsar tölfræðitilkynningar á meðan þú spilar.
 
 [CameraDOF]
-Label=Distance de mise au point
-Description=Permet de régler la profondeur de champ.
+Label=Fókusfjarlægð
+Description=Gerir kleift að stilla dýptarskerpuna.
 
 [CameraDOFKernel]
-Label=Flou de la mise au point
-Description=Permet de régler l'intensité du flou.
+Label=Fókusmóða
+Description=Gerir kleift að stilla styrk móðunnar.
 
 [CameraDOFTranslucent]
-Label=Translucide
-Description=Améliore le rendu des objets translucides avec la profondeur de champ.
+Label=Hálfgegnsætt
+Description=Bætir myndgerð hálfgegnsærra hluta með dýptarskerpu.
 
 [CameraDOFMaxFar]
-Label=Grain de l'arrière-plan
-Description=Permet de régler le grain de l'arrière-plan.
+Label=Korn bakgrunns
+Description=Gerir kleift að stilla korn bakgrunnsins.
 
 [CameraDOFMaxNear]
-Label=Grain du premier-plan
-Description=Permet de régler le grain du premier-plan.
+Label=Korn forgrunns
+Description=Gerir kleift að stilla korn forgrunnsins.
 
 [CameraBloomScale]
-Label=Échelle du Bloom
-Description=Détermine l'intensité de l'effet de flou lumineux
+Label=Kvarði ljósmóðu
+Description=Ákvarðar styrk ljósmóðuáhrifanna
 
 [CameraGreenScreen]
-Label=Utiliser un écran vert
+Label=Nota grænan skjá
 
 [CameraGreenScreenColor]
-Label=Couleur de l'écran vert
+Label=Litur græns skjás
 
 [ImageColorFilter]
-Label=Filtre d'image
+Label=Myndsía
 
 [CameraImageFilterIntensity]
-Label=Intensité du filtre d'image
+Label=Styrkur myndsíu
 
 [CameraImageOverlayIntensity]
-Label=Vignette
+Label=Vinjetta
 
 [DynamicRange]
-Label=Portée dynamique
-Description=Avec le réglage « Faible », le volume des sons bruyants diminue et celui des sons plus discrets augmente. Le réglage « Fort » est destiné aux utilisateurs qui jouent avec un volume élevé et un système sonore de haute qualité.
+Label=Hljóðsvið
+Description=Með stillingunni „Lágt“ minnkar styrkur háværra hljóða og styrkur lágværari hljóða eykst. Stillingin „Hátt“ er ætluð notendum sem spila með háum hljóðstyrk og hágæða hljóðkerfi.
 
 [TeamColoredBoostMeter]
-Label=Couleur d'équipe du réservoir de turbo
-Description=Modifie la couleur du réservoir de turbo en fonction de celle de votre équipe.
+Label=Liðslitur hröðunarmælis
+Description=Breytir lit hröðunarmælisins í samræmi við lit liðsins þíns.
 
 [ForceFeedbackScale]
-Label=Intensité des vibrations
-Description=Détermine l'intensité des vibrations de la manette.
+Label=Styrkur titrings
+Description=Ákvarðar styrk titrings stýripinnans.
 
 [MuteOnFocusLost]
-Label=Sourdine quand réduit
-Description=Met le son du jeu en sourdine quand la fenêtre du jeu est réduite.
+Label=Þagga þegar minnkað
+Description=Þaggar hljóð leiksins þegar leikglugginn er minnkaður.
 
 [TourScheduleRegion]
-Label=Région de programme de tournoi
-Description=Détermine quel programme de tournoi verra un joueur en fonction de sa région. Ce paramètre peut être modifié seulement une fois toutes les 24 heures.
+Label=Svæði mótadagskrár
+Description=Ákvarðar hvaða mótadagskrá leikmaður sér eftir svæði sínu. Aðeins er hægt að breyta þessari stillingu einu sinni á sólarhring.
 
 [AirPitchSafetyEnabled]
-Label=Sécurité aérienne au clavier
-Description=Lorsque vous jouez au clavier, empêche la voiture de piquer du nez une fois en l'air à moins de cabrer, de lâcher la touche de descente ou d'effectuer un tonneau aérien.
+Label=Loftöryggi á lyklaborði
+Description=Þegar þú spilar á lyklaborði kemur þetta í veg fyrir að bíllinn dúfi niður þegar hann er kominn á loft, nema þú lyftir trjónunni, sleppir niðurtakkanum eða framkvæmir loftveltu.
 
 [ConvertPlatformFriends]
-Label=Convertir les amis de plateforme
-Description=Envoie et accepte automatiquement les invitations d'amis Epic de la part de vos amis de plateforme.
+Label=Umbreyta vinum af kerfi
+Description=Sendir og samþykkir sjálfkrafa Epic-vinabeiðnir frá vinum þínum af kerfinu.
 
 [ControlPresets]
-Label=Préréglages des commandes
+Label=Forstillingar stýringa
 
 [MusicStingers]
-Label=Hymnes de joueurs
-Description=Détermine quand jouer les hymnes de joueurs.
+Label=Söngvar leikmanna
+Description=Ákvarðar hvenær söngvar leikmanna eru spilaðir.
 
 [UncappedFramerate]
-Label=Images par secondes non plafonnées
-Description=Permet au jeu d'ignorer le plafond d'images/s lorsque la synchronisation verticale est désactivée, ce qui permet à votre ordinateur de produire un maximum d'images. Cette option peut réduire la latence des commandes.
+Label=Ótakmarkaður rammahraði
+Description=Gerir leiknum kleift að hunsa rammahraðaþakið þegar lóðrétt samstilling er óvirk, sem gerir tölvunni þinni kleift að framleiða sem flesta ramma. Þetta getur dregið úr biðtíma stýringa.
 
 [SoundtrackVolume]
-Label=Musique - Listes de lecture
-Description=Définit le volume du lecteur de musique de Rocket League.
+Label=Tónlist - Spilunarlistar
+Description=Stillir hljóðstyrk tónlistarspilara Rocket League.
 
 [GameplayMusicVolume]
-Label=Musique - Jeu
-Description=Définit le volume des hymnes de joueurs et de la musique en jeu.
+Label=Tónlist - Leikur
+Description=Stillir hljóðstyrk söngva leikmanna og tónlistar í leik.
 
 [Soundtrack]
-Label=Liste de lecture
-Description=Détermine quand jouer la musique des listes de lecture.
+Label=Spilunarlisti
+Description=Ákvarðar hvenær tónlist spilunarlista er spiluð.
 
 [FramesPerSecond]
-Label=Images par seconde
-Description=Définit le maximum d'images par seconde du jeu. Non plafonné passe outre le plafond d'images/s quand la synchro verticale est désactivée, mais peut provoquer des artefacts visuels.
+Label=Rammar á sekúndu
+Description=Stillir hámarksfjölda ramma á sekúndu í leiknum. Ótakmarkað hunsar rammahraðaþakið þegar lóðrétt samstilling er óvirk, en getur valdið myndgöllum.
 
 [EffectIntensity]
-Label=Intensité des effets
-Description=Détermine l'intensité des effets visuels environnementaux.
+Label=Styrkur áhrifa
+Description=Ákvarðar styrk myndrænna umhverfisáhrifa.
 
 [PlayMusicInMenu]
-Label=Lire la bande-son dans le menu
-Description=Lit la musique des listes de lecture quand vous parcourez le menu.
+Label=Spila hljóðrás í valmynd
+Description=Spilar tónlist spilunarlista þegar þú vafrar um valmyndina.
 
 [PlayMusicInTraining]
-Label=Lire la bande-son en entraînement
-Description=Lit la musique des listes de lecture quand vous vous entraînez.
+Label=Spila hljóðrás í æfingu
+Description=Spilar tónlist spilunarlista þegar þú ert að æfa.
 
 [PlayMusicInGame]
-Label=Lire la bande-son en jeu
-Description=Lit la musique des listes de lecture pendant un match.
+Label=Spila hljóðrás í leik
+Description=Spilar tónlist spilunarlista á meðan á viðureign stendur.
 
 [StreamerSafeAudio]
-Label=Pistes libres de diffusion
-Description=Couper/Remplacer les pistes et hymnes non libres de droits.
+Label=Útsendingaröruggar lög
+Description=Þagga/skipta út lögum og söngvum sem ekki eru lausir undan höfundarrétti.
 
 [OutputVoiceVolume]
-Label=Chat vocal
-Description=Définit le volume des messages audio entrants.
+Label=Raddspjall
+Description=Stillir hljóðstyrk innkominna raddskilaboða.
 
 [VoiceChat]
-Label=Activer le chat vocal
-Description=Détermine si vous pourrez rejoindre des salons vocaux.
+Label=Virkja raddspjall
+Description=Ákvarðar hvort þú getir gengið til liðs við raddsalir.
 
 [PreferredVoiceRoom]
-Label=Canal vocal favori
-Description=Détermine quel canal favoriser lorsqu'un nouveau canal devient disponible.
+Label=Uppáhalds raddrás
+Description=Ákvarðar hvaða rás á að taka fram yfir þegar ný rás verður tiltæk.
 
 [MainMenuNotifications]
-Label=Notifications du menu principal
-Description=Active la visibilité des joueurs qui parlent lorsque vous êtes au menu principal.
+Label=Tilkynningar aðalvalmyndar
+Description=Virkjar sýnileika leikmanna sem tala þegar þú ert í aðalvalmyndinni.
 
 [MatchNotifications]
-Label=Notifications de partie
-Description=Active la visibilité des joueurs qui parlent lorsque vous êtes en jeu.
+Label=Tilkynningar viðureignar
+Description=Virkjar sýnileika leikmanna sem tala þegar þú ert í leik.
 
 [TextChatNotifications]
-Label=Notifications du chat écrit
-Description=Active les messages du chat écrit qui sont envoyés lorsqu'un joueur quitte ou rejoint le salon vocal.
+Label=Tilkynningar textaspjalls
+Description=Virkjar þau textaspjallskilaboð sem send eru þegar leikmaður yfirgefur eða gengur í raddsalinn.
 
 [VoiceInputDevice]
-Label=Périphérique d'entrée de chat vocal
-Description=Détermine quel appareil transmet votre voix lorsque vous êtes dans un salon vocal.
+Label=Inntakstæki raddspjalls
+Description=Ákvarðar hvaða tæki sendir rödd þína þegar þú ert í raddsal.
 
 [VoiceOutputDevice]
-Label=Périphérique de sortie de chat vocal
-Description=Détermine quel appareil émet les voix des autres joueurs lorsque vous êtes dans un salon vocal.
+Label=Úttakstæki raddspjalls
+Description=Ákvarðar hvaða tæki gefur frá sér raddir annarra leikmanna þegar þú ert í raddsal.
 
 [MaxProximityDistance]
-Label=Proximité avec les joueurs maximum
-Description=Détermine le degré d'éloignement de la caméra en fonction de la proximité avec les joueurs.
+Label=Hámarksnánd við leikmenn
+Description=Ákvarðar hversu mikið myndavélin fjarlægist eftir nánd við leikmenn.
 
 [VoiceInputMode]
-Label=Méthode de chat vocal
-Description=Détermine si votre microphone fonctionne en continu ou s'il est nécessaire d'appuyer sur un bouton pour parler.
+Label=Aðferð raddspjalls
+Description=Ákvarðar hvort hljóðneminn virkar samfellt eða hvort nauðsynlegt er að ýta á takka til að tala.
 
 [TrainingGameSpeed]
-Label=Vitesse de jeu
-Description=Contrôle la vitesse du jeu en entraînement.
+Label=Leikhraði
+Description=Stýrir hraða leiksins í æfingu.
 
 [TrainingControlsDisplay]
-Label=Affichage des commandes
-Description=Contrôle l'affichage des commandes en entraînement.
+Label=Birting stýringa
+Description=Stýrir birtingu stýringa í æfingu.
 
 [TrainingBoostOptions]
-Label=Options de turbo
-Description=Personnaliser le comportement du turbo en jeu libre.
+Label=Hröðunarvalkostir
+Description=Sérsníddu hegðun hröðunar í frjálsum leik.
 
 [TrainingDisableGoals]
-Label=Désactiver la réinitialisation des buts
-Description=Désactive la réinitialisation des buts en jeu libre. Ne s'applique pas aux modes Paniers ou Dropshot.
+Label=Slökkva á endurstillingu marka
+Description=Slekkur á endurstillingu marka í frjálsum leik. Á ekki við um Körfur eða Dropshot ham.
 
 [VoiceChatFilter]
-Description=Détermine le type de joueurs avec qui vous souhaitez utiliser le chat vocal.
-Label=Chat vocal
+Description=Ákvarðar þá tegund leikmanna sem þú vilt nota raddspjall með.
+Label=Raddspjall
 
 [TradingEnabled]
-Label=Autoriser les échanges entre joueurs
-Description=Détermine si vous pouvez lancer ou recevoir des demandes d'échange. Si l'option est désactivée, vous ne pourrez pas échanger avec les autres joueurs. 
+Label=Leyfa viðskipti milli leikmanna
+Description=Ákvarðar hvort þú getur sent eða tekið á móti viðskiptabeiðnum. Sé þetta óvirkt geturðu ekki verslað við aðra leikmenn.
 
 [QuickChatFilter]
-Label=Chat rapide
-Description=Permet de déterminer quels types de messages de chat rapide venant des autres joueurs sont visibles.
+Label=Hraðspjall
+Description=Ákvarðar hvers konar hraðspjallskilaboð frá öðrum leikmönnum eru sýnileg.
 
 [MatchChatFilter]
-Label=Chat de partie
-Description=Permet de déterminer quels types de messages texte venant des autres joueurs sont visibles dans le chat de partie.
+Label=Viðureignarspjall
+Description=Ákvarðar hvers konar textaskilaboð frá öðrum leikmönnum eru sýnileg í viðureignarspjalli.
 
 [PartyChatFilter]
-Label=Chat de groupe
-Description=Permet de déterminer quels types de messages texte venant des autres joueurs sont visibles dans le chat de groupe.
+Label=Hópspjall
+Description=Ákvarðar hvers konar textaskilaboð frá öðrum leikmönnum eru sýnileg í hópspjalli.
 
 [NonTacticalQuickChatFilter]
-Label=Bloquer le chat rapide non tactique
-Description=Masque les messages de chat rapide non tactiques venant des autres joueurs pendant une partie. Ne s'applique pas au chat rapide avant ou après une partie.
+Label=Loka á ótaktískt hraðspjall
+Description=Felur ótaktísk hraðspjallskilaboð frá öðrum leikmönnum í viðureign. Á ekki við um hraðspjall fyrir eða eftir viðureign.
 
 [TrainingBoostFillDelay]
-Label=Délai de recharge du turbo
-Description=Détermine le temps avant la recharge du turbo lorsque l'option "Remplissage auto" est activée.
+Label=Töf á áfyllingu hröðunar
+Description=Ákvarðar tímann fyrir áfyllingu hröðunar þegar valkosturinn „Sjálfvirk áfylling“ er virkur.
 
 [ShowItemShopNotifications]
-Label=Notifications de la boutique d'objets
-Description=Affiche les notifications de la boutique d'objets sur le menu principal. Elles ne seront pas affichées si l'option est désactivée.
+Label=Tilkynningar hlutaverslunar
+Description=Birtir tilkynningar hlutaverslunar í aðalvalmyndinni. Þær birtast ekki sé valkosturinn óvirkur.
 
 [RankInfoDisplayType]
-Label=Afficher les infos de rang
-Description=Active l'affichage d'informations de rang pour différents modes de jeux.
+Label=Sýna tignarupplýsingar
+Description=Virkjar birtingu tignarupplýsinga fyrir mismunandi leikhami.
 
 [PrespawnLerpSpeed]
-Label=Transition après démolition
-Description=Détermine la durée (en secondes) des transitions après démolition. Choisissez 0.00 pour une coupure nette.
+Label=Skipting eftir eyðileggingu
+Description=Ákvarðar lengd (í sekúndum) skiptinga eftir eyðileggingu. Veldu 0.00 fyrir snögga klippingu.
 
 [TrainingGoalResetOptions]
-Label=Réinitialisation des buts
-Description=Personnaliser le comportement de la réinitialisation des buts en jeu libre. Désactiver l'option ne s'applique pas aux modes Paniers ou Dropshot.
+Label=Endurstilling marka
+Description=Sérsníddu hegðun endurstillingar marka í frjálsum leik. Að gera valkostinn óvirkan á ekki við um Körfur eða Dropshot ham.
 
 [TargetCamSwivelMode]
-Label=Rotation de la caméra cible
-Description=Détermine si la rotation de la caméra est permise lorsque le changement de cible occupe la même touche que plusieurs cibles.
+Label=Snúningur markmyndavélar
+Description=Ákvarðar hvort snúningur myndavélar er leyfður þegar skipting milli skotmarka deilir sama takka og mörg skotmörk.
 
 [PickupActivationBuffer]
-Label=Délai d'activation de Rumble
-Description=Détermine combien de secondes la commande d'activation doit être maintenue afin d'activer les power-ups de Rumble.
+Label=Töf á virkjun Rumble
+Description=Ákvarðar hversu margar sekúndur þarf að halda virkjunartakkanum inni til að virkja Rumble power-ups.
 
 [VoiceReportingLevel]
-Label=Signalement vocal
+Label=Raddkæra
 
 [VoiceNotificationLevel]
-Label=Notifications
-Description=Détermine quelles notifications vocales sont jouées.
+Label=Tilkynningar
+Description=Ákvarðar hvaða raddtilkynningar eru spilaðar.
 
 [TextReportingLevel]
-Label=Signalement textuel
+Label=Textakæra
 
 [FilterTextChat]
-Label=Filtrer les obscénités
-Description=Cette option permet de filtrer les obscénités dans les messages textuels des canaux de groupe. Le filtre à obscénités est toujours actif dans tous les canaux pour les joueurs de moins de 13 ans, ou si un utilisateur en écran partagé a activé cette option.
+Label=Sía blótsyrði
+Description=Þessi valkostur síar blótsyrði í textaskilaboðum hóprása. Blótsyrðasían er alltaf virk í öllum rásum fyrir leikmenn yngri en 13 ára, eða ef notandi á skiptiskjá hefur virkjað þennan valkost.
 
 [DisplayPartyLeaderLeftModal]
-Label=Affichage d'un message de sortie du chef de groupe
-Description=Affiche un message lorsque le chef de groupe quitte une partie dans laquelle vous vous trouvez.
+Label=Birta skilaboð þegar hópstjóri fer
+Description=Birtir skilaboð þegar hópstjóri yfirgefur viðureign sem þú ert í.
 
 [QuickDropOpeningPreference]
-Label=Passer l'animation d'ouverture du butin
-Description=Passe l'animation jouée lorsque vous ouvrez un butin.
+Label=Sleppa opnunarhreyfingu fengs
+Description=Sleppir hreyfingunni sem spiluð er þegar þú opnar feng.
 
 [TrainingRestartRoundInputDelay]
-Label=Délai de saisie avant début de manche
-Description=Le temps d'attente avant de traiter les saisies des véhicules au début d'une manche.
+Label=Innsláttartöf fyrir upphaf umferðar
+Description=Biðtíminn áður en innsláttur ökutækja er meðhöndlaður í upphafi umferðar.
 
 [TrainingBallSpeedModifier]
-Label=Modificateur de vitesse du ballon
-Description=Modifie la vitesse initiale du ballon d'une valeur aléatoire allant jusqu'à ce maximum.
+Label=Hraðabreytir bolta
+Description=Breytir upphafshraða boltans um tilviljanakennt gildi allt að þessu hámarki.
 
 [TrainingBallLocationModifier]
-Label=Modificateur de position du ballon
-Description=Modifie la position horizontale initiale du ballon d'une valeur aléatoire allant jusqu'à ce maximum.
+Label=Staðsetningarbreytir bolta
+Description=Breytir láréttri upphafsstaðsetningu boltans um tilviljanakennt gildi allt að þessu hámarki.
 
 [TrainingBallHeightModifier]
-Label=Modificateur de hauteur du ballon
-Description=Modifie la position verticale initiale du ballon d'une valeur aléatoire allant jusqu'à ce maximum.
+Label=Hæðarbreytir bolta
+Description=Breytir lóðréttri upphafsstaðsetningu boltans um tilviljanakennt gildi allt að þessu hámarki.
 
 [TrainingVehicleLocationModifier]
-Label=Modificateur de position du véhicule
-Description=Modifie la position horizontale initiale du véhicule d'une valeur aléatoire allant jusqu'à ce maximum.
+Label=Staðsetningarbreytir ökutækis
+Description=Breytir láréttri upphafsstaðsetningu ökutækisins um tilviljanakennt gildi allt að þessu hámarki.
 
 [TrainingVehicleRotationModifier]
-Label=Modificateur de rotation du véhicule
-Description=Modifie l'angle de direction initial du véhicule d'une valeur aléatoire allant jusqu'à ce maximum.
+Label=Snúningsbreytir ökutækis
+Description=Breytir upphafsstefnu ökutækisins um tilviljanakennt gildi allt að þessu hámarki.
 
 [TrainingVehicleForceGround]
-Label=Apparition du véhicule au sol
-Description=Force le véhicule à apparaître sur le sol.
+Label=Ökutæki birtist á jörðu
+Description=Þvingar ökutækið til að birtast á jörðinni.
 
 [TrainingSkipGoalReplay]
-Label=Passer le replay du but
-Description=Saute le replay après avoir marqué un but et passe directement au tir suivant.
+Label=Sleppa endursýningu marks
+Description=Sleppir endursýningunni eftir að mark er skorað og fer beint að næsta skoti.
 
 [FlipResetIndicator]
-Label=Indicateur de Flip Reset
-Description=Produit un effet local lorsque votre voiture récupère une esquive en atterrissant sur le ballon. Cela s'applique également aux véhicules observés.
+Label=Vísir fyrir Flip Reset
+Description=Framkallar staðbundin áhrif þegar bíllinn þinn endurheimtir vik við lendingu á boltanum. Þetta á einnig við um ökutæki sem fylgst er með.
 
 [VisibleMMRPreference]
-Label=Afficher le MMR compétitif
-Description=Active l'affichage du MMR pour les modes classés dans le menu principal et les scores.
+Label=Sýna keppnis-MMR
+Description=Virkjar birtingu MMR fyrir stigaviðureignahami í aðalvalmyndinni og stigatöflum.
 
 [OverrideBoostSound]
-Label=Utiliser le son de turbo standard
-Description=Remplace le son du turbo que vous avez choisi par celui du turbo standard.
+Label=Nota staðlað hröðunarhljóð
+Description=Skiptir út því hröðunarhljóði sem þú hefur valið fyrir staðlaða hröðunarhljóðið.
 
 [CameraAutoRecenter]
-Description=Active le recentrage automatique de la caméra une fois le délai de recentrage de la caméra écoulé.
-Label=Recentrage automatique
+Description=Virkjar sjálfvirka miðjun myndavélar þegar töf miðjunar myndavélar er liðin.
+Label=Sjálfvirk miðjun
 
 [CameraRecenterDelay]
-Description=Détermine le délai (en secondes) avant de recentrer la caméra automatiquement. Le délai est réinitialisé si vous tournez la caméra autour de la voiture.
-Label=Délai de recentrage
+Description=Ákvarðar töfina (í sekúndum) áður en myndavélin miðjast sjálfkrafa. Töfin endurstillist ef þú snýrð myndavélinni um bílinn.
+Label=Töf miðjunar
 
 [CameraRecenterSpeed]
-Description=Détermine la vitesse à laquelle la caméra se recentre automatiquement.
-Label=Vitesse de recentrage
+Description=Ákvarðar hraðann sem myndavélin miðjast sjálfkrafa á.
+Label=Hraði miðjunar
 
 [PlayMusic]
-Label=Paramètres de la musique en jeu
-Description=Détermine le moment où la musique est jouée.
+Label=Stillingar tónlistar í leik
+Description=Ákvarðar hvenær tónlistin er spiluð.
 
 [CameraUnconstrainRotation]
-Label=Débrider la rotation de la caméra
-Description=Permet la rotation libre de la caméra sans aucune contrainte.
+Label=Losa snúning myndavélar
+Description=Leyfir frjálsan snúning myndavélar án nokkurra takmarkana.
 
 [TargetFindAvailable]
-Label=Activer la visée automatique
-Description=[DÉV UNIQUEMENT] Visez en direction du ballon quand vous accélérez.
+Label=Virkja sjálfvirka miðun
+Description=[AÐEINS ÞRÓUN] Miðaðu í átt að boltanum þegar þú flýtir þér.
 
 [NewsDataTracking_Functional]
-Label=Suivi des données d'actualités - Fonctionnel
-Description=Permet au suivi des données de proposer un flux d'actualités personnalisé. Suivi des aspects fonctionnels
+Label=Rakning fréttagagna - Virkni
+Description=Gerir gagnarakningu kleift að bjóða upp á sérsniðna fréttaveitu. Rakning á virkniþáttum
 
 [NewsDataTracking_Marketing]
-Label=Permet de personnaliser les recommandations d'achat.
-Description=Permet de personnaliser les recommandations d'achat.
+Label=Gerir kleift að sérsníða kauptillögur.
+Description=Gerir kleift að sérsníða kauptillögur.
 
 [NewsDataTracking_Experience]
-Label=Permet de personnaliser les recommandations d'expérience.
-Description=Permet de personnaliser les recommandations d'expérience.
+Label=Gerir kleift að sérsníða upplifunartillögur.
+Description=Gerir kleift að sérsníða upplifunartillögur.
 
 [EnableHighContrastMode]
-Label=Mode contraste élevé
-Description=Active le mode contraste élevé.
+Label=Hábirtuskilahamur
+Description=Virkjar hábirtuskilaham.
 
 [StatGraphLevel]
-Label=Graphiques des statistiques
-Description=Affiche ou masque les graphiques des statistiques.
+Label=Tölfræðigröf
+Description=Birtir eða felur tölfræðigröfin.
 
 [UseFreeplayColors]
-Label=Utiliser les couleurs d'équipes par défaut
-Description=Utilise les couleurs d'équipes par défaut en jeu libre.
+Label=Nota sjálfgefna liðsliti
+Description=Notar sjálfgefnu liðslitina í frjálsum leik.
 
 [CameraFreeLookSmoothing]
-Label=Lissage de la caméra libre
-Description=Active l'accélération et la décélération de la caméra libre afin de rendre la rotation plus fluide. Désactivez l'option pour passer à la rotation brute.
+Label=Mýking frjálsrar myndavélar
+Description=Virkjar hröðun og hraðaminnkun frjálsrar myndavélar til að gera snúninginn mýkri. Slökktu á valkostinum til að skipta yfir í hráan snúning.
 
 [CameraAccelRate]
-Label=Accélération de la caméra
-Description=Définit la vitesse d'accélération de la caméra si le lissage est activé. Plus l'accélération est élevée, moins la caméra met de temps pour atteindre sa vitesse de rotation maximum.
+Label=Hröðun myndavélar
+Description=Stillir hröðunarhraða myndavélarinnar ef mýking er virk. Því meiri sem hröðunin er, því skemmri tíma tekur myndavélin að ná hámarkssnúningshraða sínum.
 
 [CameraDecelRate]
-Label=Décélération de la caméra
-Description=Définit la vitesse de décélération de la caméra si le lissage est activé. Plus la décélération est élevée, moins la caméra met de temps à s'arrêter lorsque vous cessez de la faire pivoter.
+Label=Hraðaminnkun myndavélar
+Description=Stillir hraðaminnkun myndavélarinnar ef mýking er virk. Því meiri sem hraðaminnkunin er, því skemmri tíma tekur myndavélin að stöðvast þegar þú hættir að snúa henni.
 
 [ControllerFreeLookDeadzone]
-Label=Zone morte de la caméra libre
-Description=Détermine de combien le joystick doit bouger afin d'affecter la rotation de la caméra libre.
+Label=Dauðasvæði frjálsrar myndavélar
+Description=Ákvarðar hversu mikið stýripinninn þarf að hreyfast til að hafa áhrif á snúning frjálsrar myndavélar.
 
 [DrawVehicleHitbox]
-Label=Matérialiser la hitbox du véhicule
-Description=Fait apparaître une boîte qui représente le masque de collision du véhicule.
+Label=Sýna hitbox ökutækis
+Description=Lætur kassa birtast sem táknar árekstrarmask ökutækisins.
 
 [TrainingStartingVelocityImpulse]
-Label=Vitesse initiale
-Description=Au début de chaque manche, applique une impulsion de vitesse dans la direction vers laquelle la voiture fait face. Une valeur négative repousse la voiture vers l'arrière.
+Label=Upphafshraði
+Description=Í upphafi hverrar umferðar beitir þetta hraðaátaki í þá átt sem bíllinn snýr. Neikvætt gildi ýtir bílnum aftur á bak.
 
 [TrainingUnlimitedBoost]
-Label=Turbo illimité
-Description=Détermine si la voiture commence avec un turbo illimité.
+Label=Ótakmörkuð hröðun
+Description=Ákvarðar hvort bíllinn byrjar með ótakmarkaðri hröðun.
 
 [TrainingStartingBoost]
-Label=Turbo initial
-Description=La quantité de turbo avec laquelle la voiture commence si le turbo illimité est désactivé.
+Label=Upphafshröðun
+Description=Það magn hröðunar sem bíllinn byrjar með ef ótakmörkuð hröðun er óvirk.
 
 [HideHUDOption]
-Label=Masquer l'interface en jeu
-Description=Masque les interfaces de jeu, de rediffusion et de spectateur.
+Label=Fela viðmótið í leik
+Description=Felur viðmót leiks, endursýningar og áhorfanda.
 
 [AnonymizeOwnName]
-Label=Anonymiser mon nom
-Description=Anonymise votre nom en jeu pour vos adversaires, vos coéquipiers ou tout le monde.
+Label=Nafnleynd á nafni mínu
+Description=Setur nafn þitt í nafnleynd í leik fyrir andstæðinga þína, liðsfélaga eða alla.
 
 [AnonymizeTeammates]
-Label=Coéquipiers anonymisés
-Description=Anonymise le nom de vos coéquipiers en jeu.
+Label=Nafnleynd liðsfélaga
+Description=Setur nafn liðsfélaga þinna í nafnleynd í leik.
 
 [AnonymizeOpponents]
-Label=Adversaires anonymisés
-Description=Anonymise le nom de vos adversaires en jeu.
+Label=Nafnleynd andstæðinga
+Description=Setur nafn andstæðinga þinna í nafnleynd í leik.
 
 [HideMatchmakingStatus]
-Label=Masquer le statut de la recherche de partie
-Description=Retire les régions et annonces visibles de la fenêtre de recherche de partie initiale ainsi que de sa bannière.
+Label=Fela stöðu leikjaleitar
+Description=Fjarlægir sýnileg svæði og tilkynningar úr upphaflega leikjaleitarglugganum sem og úr borða hans.
 
 [MaxMatchmakingDelay]
-Label=Délai de recherche de partie maximum
-Description=Reporte l'activation de la recherche de partie d'un nombre de secondes aléatoire entre 1 et le maximum sélectionné.
+Label=Hámarkstöf leikjaleitar
+Description=Frestar virkjun leikjaleitar um tilviljanakenndan fjölda sekúndna milli 1 og valins hámarks.
 
 [SpecialEventVisuals]
-Label=Afficher les visuels d'événement dans la partie
-Description=Activer cette option permet d'afficher les effets visuels des événements spéciaux pendant une partie.
+Label=Sýna myndefni viðburðar í viðureign
+Description=Sé þetta virkjað birtast myndræn áhrif sérstakra viðburða í viðureign.
 
 [InvertSwivelPitchKBM]
-Label=Inverser axe de rotation (clavier-souris)
-Description=Inverse les commandes de rotation de la caméra en utilisant une souris et un clavier.
+Label=Snúa snúningsási við (lyklaborð-mús)
+Description=Snýr við stýringu á snúningi myndavélar þegar mús og lyklaborð eru notuð.
 
 [InvertSwivelPitchController]
-Label=Inverser axe de rotation (manette)
-Description=Inverse les commandes de rotation de la caméra en utilisant une manette.
+Label=Snúa snúningsási við (stýripinni)
+Description=Snýr við stýringu á snúningi myndavélar þegar stýripinni er notaður.
 
 [FreelookCameraKBM]
-Label=Caméra libre (clavier-souris)
-Description=Permet la rotation libre de la caméra sans aucune contrainte en utilisant une souris et un clavier.
+Label=Frjáls myndavél (lyklaborð-mús)
+Description=Leyfir frjálsan snúning myndavélar án nokkurra takmarkana þegar mús og lyklaborð eru notuð.
 
 [FreelookCameraController]
-Label=Caméra libre (manette)
-Description=Permet la rotation libre de la caméra sans aucune contrainte en utilisant une manette.
+Label=Frjáls myndavél (stýripinni)
+Description=Leyfir frjálsan snúning myndavélar án nokkurra takmarkana þegar stýripinni er notaður.
 
 [CameraFreeLookSmoothingKBM]
-Label=Lissage de la caméra libre (clavier-souris)
-Description=Active l'accélération/décélération de la caméra libre en utilisant une souris et un clavier.
+Label=Mýking frjálsrar myndavélar (lyklaborð-mús)
+Description=Virkjar hröðun/hraðaminnkun frjálsrar myndavélar þegar mús og lyklaborð eru notuð.
 
 [CameraFreeLookSmoothingController]
-Label=Lissage de la caméra libre (manette)
-Description=Active l'accélération/décélération de la caméra libre en utilisant une manette.
+Label=Mýking frjálsrar myndavélar (stýripinni)
+Description=Virkjar hröðun/hraðaminnkun frjálsrar myndavélar þegar stýripinni er notaður.
 
 [CameraAccelRateKBM]
-Label=Accélération de la caméra (clavier-souris)
-Description=Définit la vitesse d'accélération de la caméra si le lissage est activé en utilisant une souris et un clavier. Plus l'accélération est élevée, moins la caméra met de temps pour atteindre sa vitesse de rotation maximum.
+Label=Hröðun myndavélar (lyklaborð-mús)
+Description=Stillir hröðunarhraða myndavélarinnar ef mýking er virk þegar mús og lyklaborð eru notuð. Því meiri sem hröðunin er, því skemmri tíma tekur myndavélin að ná hámarkssnúningshraða sínum.
 
 [CameraAccelRateController]
-Label=Accélération de la caméra (manette)
-Description=Définit la vitesse d'accélération de la caméra si le lissage est activé en utilisant une manette. Plus l'accélération est élevée, moins la caméra met de temps pour atteindre sa vitesse de rotation maximum.
+Label=Hröðun myndavélar (stýripinni)
+Description=Stillir hröðunarhraða myndavélarinnar ef mýking er virk þegar stýripinni er notaður. Því meiri sem hröðunin er, því skemmri tíma tekur myndavélin að ná hámarkssnúningshraða sínum.
 
 [CameraDecelRateKBM]
-Label=Décélération de la caméra (clavier-souris)
-Description=Définit la vitesse de décélération de la caméra si le lissage est activé en utilisant une souris et un clavier. Plus la décélération est élevée, moins la caméra met de temps à s'arrêter lorsque vous cessez de la faire pivoter.
+Label=Hraðaminnkun myndavélar (lyklaborð-mús)
+Description=Stillir hraðaminnkun myndavélarinnar ef mýking er virk þegar mús og lyklaborð eru notuð. Því meiri sem hraðaminnkunin er, því skemmri tíma tekur myndavélin að stöðvast þegar þú hættir að snúa henni.
 
 [CameraDecelRateController]
-Label=Décélération de la caméra (manette)
-Description=Définit la vitesse de décélération de la caméra si le lissage est activé en utilisant une manette. Plus la décélération est élevée, moins la caméra met de temps à s'arrêter lorsque vous cessez de la faire pivoter.
+Label=Hraðaminnkun myndavélar (stýripinni)
+Description=Stillir hraðaminnkun myndavélarinnar ef mýking er virk þegar stýripinni er notaður. Því meiri sem hraðaminnkunin er, því skemmri tíma tekur myndavélin að stöðvast þegar þú hættir að snúa henni.
 
 [DemoSelectLerpTime]
-Label=Aperçu de la transition de réapparition
-Description=Détermine la durée (en secondes) des transitions de la caméra afin d'afficher le terrain après démolition. Choisissez 0,00 pour une coupure nette.
+Label=Forsýn skiptingar við endurkomu
+Description=Ákvarðar lengd (í sekúndum) skiptinga myndavélar til að sýna völlinn eftir eyðileggingu. Veldu 0,00 fyrir snögga klippingu.
 
 [DemoSelectChangeSpawnTime]
-Label=Aperçu de la transition de changement de réapparition
-Description=Détermine la durée (en secondes) des transitions de la caméra afin d'afficher les différents points de réapparition après démolition. Choisissez 0,00 pour une coupure nette.
+Label=Forsýn skiptingar við breytingu á endurkomu
+Description=Ákvarðar lengd (í sekúndum) skiptinga myndavélar til að sýna mismunandi endurkomustaði eftir eyðileggingu. Veldu 0,00 fyrir snögga klippingu.
 
 [AutoSkipGoalReplay]
-Label=Passer le replay du but
-Description=Vote automatiquement pour passer le replay des buts.
+Label=Sleppa endursýningu marks
+Description=Greiðir sjálfkrafa atkvæði með því að sleppa endursýningu marka.
 

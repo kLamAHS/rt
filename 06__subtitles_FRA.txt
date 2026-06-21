@@ -3,5 +3,5 @@
 # Keep [section] headers and keys exactly as-is.
 
 [Subtitles]
-MovieIsPaused=PAUSED
+MovieIsPaused=Í BIÐ
 
