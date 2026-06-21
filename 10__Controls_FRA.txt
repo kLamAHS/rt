@@ -1,0 +1,563 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\Controls.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[ThrottleForward]
+Label=Avancer
+
+[ThrottleReverse]
+Label=Reculer
+
+[SteerRight]
+Label=Tourner à droite
+
+[SteerLeft]
+Label=Tourner à gauche
+
+[Jump]
+Label=Sauter
+
+[Boost]
+Label=Turbo
+
+[HandbrakeRoll]
+Label=Dérapage/tonneau
+
+[Handbrake]
+Label=Dérapage
+
+[ReadyUp]
+Label=Passer le replay
+
+[YawRight]
+Label=Tourner à droite (dans les airs)
+
+[YawLeft]
+Label=Tourner à gauche (dans les airs)
+
+[PitchUp]
+Label=Monter (dans les airs)
+
+[PitchDown]
+Label=Descendre (dans les airs)
+
+[ToggleRoll]
+Label=Tonneau aérien
+
+[LookUp]
+Label=Regarder en haut (spectateur)
+
+[LookDown]
+Label=Regarder en bas (spectateur)
+
+[LookLeft]
+Label=Regarder à gauche (spectateur)
+
+[LookRight]
+Label=Regarder à droite (spectateur)
+
+[SwivelUp]
+Label=Faire pivoter la caméra vers le haut
+
+[SwivelDown]
+Label=Faire pivoter la caméra vers le bas
+
+[SwivelRight]
+Label=Faire pivoter la caméra vers la droite
+
+[SwivelLeft]
+Label=Faire pivoter la caméra vers la gauche
+
+[SecondaryCamera]
+Label=Viser le ballon
+
+[RearCamera]
+Label=Vue arrière
+
+[ToggleMidGameMenu]
+Label=Pause
+
+[ToggleScoreboard]
+Label=Score
+
+[MusicNextTrack]
+Label=Passer le morceau
+
+[PushToTalk]
+Label=Chat vocal (appuyer pour parler/basculer)
+
+[Chat]
+Label=Chat écrit
+
+[TeamChat]
+Label=Chat d'équipe
+
+[ReplayMoveForward]
+Label=Avancer
+
+[ReplayMoveBackward]
+Label=Reculer
+
+[ReplayMoveRight]
+Label=Déplacer à droite
+
+[ReplayMoveLeft]
+Label=Déplacer à gauche
+
+[ReplayMoveUp]
+Label=Déplacer vers le haut
+
+[ReplayMoveDown]
+Label=Déplacer vers le bas
+
+[ReplayRollRight]
+Label=Tonneau droit
+
+[ReplayRollLeft]
+Label=Tonneau gauche
+
+[ReplayResetView]
+Label=Réinitialiser tonneau
+
+[ReplayToggleRoll]
+Label=Maintenir pour faire un tonneau
+
+[ReplayZoomIn]
+Label=Zoomer
+
+[ReplayZoomOut]
+Label=Dézoomer
+
+[ReplayViewT0P0]
+Label=Vue joueur 1
+
+[ReplayViewT0P1]
+Label=Vue joueur 2
+
+[ReplayViewT0P2]
+Label=Vue joueur 3
+
+[ReplayViewT0P3]
+Label=Vue joueur 4
+
+[ReplayViewT1P0]
+Label=Vue joueur 5
+
+[ReplayViewT1P1]
+Label=Vue joueur 6
+
+[ReplayViewT1P2]
+Label=Vue joueur 7
+
+[ReplayViewT1P3]
+Label=Vue joueur 8
+
+[ReplayViewBall]
+Label=AutoCam
+
+[ReplayViewNone]
+Label=Caméra libre
+
+[ReplayViewNext]
+Label=Vue joueur suivant
+
+[ReplayViewPrev]
+Label=Vue joueur précédent
+
+[ReplayAddKeyframe]
+Label=Ajouter une image-clé
+
+[ReplayRemoveKeyframe]
+Label=Retirer une image-clé
+
+[ReplayNextKeyframe]
+Label=Image-clé suivante
+
+[ReplayPrevKeyframe]
+Label=Image-clé précédente
+
+[ReplayScrubBackward]
+Label=Retour rapide
+
+[ReplayScrubForward]
+Label=Avance rapide
+
+[ReplayCycleHUD]
+Label=Affichage IU
+
+[ReplayPause]
+Label=Pause
+
+[ReplaySpeedMenu]
+Label=Menu vitesse
+
+[ReplayCycleFocus]
+Label=Changement d'orientation
+
+[ReplayFocusMenu]
+Label=Menu orientation
+
+[ReplayCycleCamera]
+Label=Changer de caméra
+
+[ReplayCameraMenu]
+Label=Menu caméra
+
+[ChatPreset1]
+Label=Chat Rapide - Informations
+
+[ChatPreset2]
+Label=Chat Rapide - Compliments
+
+[ChatPreset3]
+Label=Chat Rapide - Réactions
+
+[ChatPreset4]
+Label=Chat Rapide - Excuses
+
+[Categories]
+Driving=Conduite
+AirControl=Commandes aériennes
+Camera=Caméra
+Misc=Divers
+Replay=Replay
+
+[ResetTraining]
+Label=réinitialiser le tir
+
+[AutoSaveReplay]
+Label=Sauvegarder le replay
+
+[RollRight]
+Label=Tonneau droit
+
+[RollLeft]
+Label=Tonneau gauche
+
+[ResetMouseCenter]
+Label=Réinitialiser centrage souris
+
+[PartyChat]
+Label=Chat de groupe
+
+[UsePickup]
+Label=Utiliser article
+
+[Presets]
+None=Personnalisé
+Preset1=Preset1
+Preset2=Paramètres prédéfinis 2
+Preset3=Paramètres prédéfinis 3
+Preset4=Paramètres prédéfinis 4
+Preset5=Paramètres prédéfinis 5
+Preset6=Paramètres prédéfinis 6
+Preset7=Paramètres prédéfinis 7
+Preset8=Paramètres prédéfinis 8
+Preset9=Paramètres prédéfinis 9
+Legacy=Classique
+Standard=Standard
+Modern=Moderne
+
+[EditorTestShot]
+Label=Test de tir
+
+[EditorPreviewTrajectory]
+Label=Aperçu de la trajectoire
+
+[EditorToggleCamera]
+Label=Changer la position de la caméra
+
+[EditorReleaseActor]
+Label=Caméra libre
+
+[EditorCycleActor]
+Label=Modifier l'objet
+
+[EditorIncreasePower]
+Label=Augmenter la puissance de tir
+
+[EditorDecreasePower]
+Label=Diminuer la puissance de tir
+
+[EditorIncreasePowerToggle]
+Label=Augmenter la puissance de tir
+
+[EditorDecreasePowerToggle]
+Label=Diminuer la puissance de tir
+
+[StopEditing]
+Label=Retour à la liste de tir
+
+[EditorNextRound]
+Label=Tir suivant
+
+[EditorPrevRound]
+Label=Tir précédent
+
+[EditorIncreaseTime]
+Label=Augmenter la limite de temps
+
+[EditorDecreaseTime]
+Label=Diminuer la limite de temps
+
+[EditorShowControls]
+Label=Montrer les commandes
+
+[EditorUndo]
+Label=Annuler
+
+[EditorRedo]
+Label=Restaurer
+
+[MouseThrottleForward]
+Label=Avancer avec la souris
+
+[MouseThrottleReverse]
+Label=Reculer avec la souris
+
+[MouseSteerRight]
+Label=Tourner à droite avec la souris
+
+[MouseSteerLeft]
+Label=Tourner à gauche avec la souris
+
+[DodgeForward]
+Label=Esquiver vers l'avant
+
+[DodgeReverse]
+Label=Esquiver vers l'arrière
+
+[DodgeRight]
+Label=Esquiver vers la droite
+
+[DodgeLeft]
+Label=Esquiver vers la gauche
+
+[MusicTogglePlaylistSelection]
+Label=Sélectionner des listes de lecture
+
+[SkipTutorial]
+Label=Passer le tutoriel
+
+[TutorialHelper]
+Label=Aide au didacticiel !
+
+[ShiftGarageRowUp]
+Label=Monter de rangée de garage
+
+[ShiftGarageRowDown]
+Label=Descendre de rangée de garage
+
+[ReplayCycleNameplate]
+Label=Activer/désactiver les raccourcis joueur
+
+[ResetPlayer]
+Label=Réinitialiser le joueur
+
+[ShowControllerApplet]
+Label=Afficher la console de commandes
+
+[ShowAccountPicker]
+Label=Afficher le sélectionneur de compte
+
+[ToggleStatGraphs]
+Label=Activer/désactiver les statistiques
+
+[Steer]
+Label=Tourner/Tourner dans les airs
+
+[JoinGame]
+Label=Rejoindre partie
+
+[Yaw]
+Label=Tourner dans les airs
+
+[Look]
+Label=Regarder
+
+[CameraLookUp]
+Label=Regarder en haut
+
+[CameraLookDown]
+Label=Regarder en bas
+
+[CameraLookLeft]
+Label=Regarder à gauche
+
+[CameraLookRight]
+Label=Regarder à droite
+
+[MenuBack]
+Label=Retour/Annuler
+
+[MenuForward]
+Label=Avancer/Accepter
+
+[MenuInteract_00]
+Label=Interaction 1
+
+[MenuInteract_01]
+Label=Interaction 2
+
+[MenuInteract_02]
+Label=Interaction 3
+
+[MenuInteract_03]
+Label=Interaction 4
+
+[MenuMoveDown]
+Label=Vers le bas (menu)
+
+[MenuMoveLeft]
+Label=Vers la gauche (menu)
+
+[MenuMoveRight]
+Label=Vers la droite (menu)
+
+[MenuMoveUp]
+Label=Vers le haut (menu)
+
+[MenuSecondaryInteract_00]
+Label=Interaction secondaire 1
+
+[MenuSecondaryInteract_01]
+Label=Interaction secondaire 2
+
+[MenuTabLeft]
+Label=Onglet de gauche
+
+[MenuTabRight]
+Label=Onglet de droite
+
+[Swivel]
+Label=Rotation de la caméra
+
+[MenuSecondaryInteract_02]
+Label=Interaction secondaire 3
+
+[MenuSecondaryInteract_03]
+Label=Interaction secondaire 4
+
+[InGame]
+Label=En jeu
+
+[Menus]
+Label=Menus
+
+[ReplayViewer]
+Label=Lecteur de replay
+
+[TrainingEditor]
+Label=Éditeur d'entraînement
+
+[StartEditing]
+Label=Éditer le tir
+
+[SteamControlsTitle]
+Label=Commandes standard de Rocket League
+
+[SteamControlsTitle_Legacy]
+Label=(HÉRITAGE) Contrôles standard de Rocket League
+
+[SteamControlsDescription]
+Label=Commandes recommandées pour Rocket League.
+
+[ToggleReplayFXMenu]
+Label=Menu des effets du replay
+
+[NextPickup]
+Label=Objet suivant
+
+[FreeplayPopBallUp]
+Label=Lancer le ballon
+
+[FreeplayBallOnCar]
+Label=Commencer à dribbler
+
+[FreeplayRedirectPass]
+Label=Passer le ballon
+
+[FreeplayDefendShot]
+Label=Intercepter un tir
+
+[FreeplayBallInFront]
+Label=S'emparer du ballon
+
+[Block]
+Label=Bloquer
+
+[PostMatchRequeue]
+Label=Rejouer
+
+[TargetSelectRight]
+Label=Changer de cible (droite)
+
+[TargetSelectLeft]
+Label=Changer de cible (gauche)
+
+[ClipInGoalReplay]
+Label=Enregistrer le replay de but
+
+[ClipInGameplay]
+Label=Enregistrer une vidéo (maintenir)
+
+[TrainingPreviousShot]
+Label=Tir précédent
+
+[TrainingNextShot]
+Label=Tir suivant
+
+[TrainingMirrorShot]
+Label=Tir miroir
+
+[Grab]
+Label=Chopper (KO)
+
+[TrainingOpenShotSelectionMenu]
+Label=Menu de sélection de tir
+
+[TrainingToggleShuffle]
+Label=Activer/Désactiver le mélange
+
+[ButtonMash]
+Label=Reprendre ses esprits (KO)
+
+[DanceForward]
+Label=Danser en avant
+
+[DanceBackward]
+Label=Danser en arrière
+
+[DanceRight]
+Label=Danser vers la droite
+
+[DanceLeft]
+Label=Danser vers la gauche
+
+[TargetSelectNext]
+Label=Cible suivante
+
+[FastFreeplay]
+Label=Jeu libre d'après-partie
+
+[SelectDemoSpawnLeft]
+Label=Apparition à gauche après démolition
+
+[SelectDemoSpawnRight]
+Label=Apparition à droite après démolition
+
+[JumpAlternative]
+Label=Sauter (alternative)
+
+[ToggleScoreView]
+Label=Activer/Désactiver l'affichage du score
+
+[LookAtBall]
+Label=Regarder le ballon
+
+[EditorToggleRotatePitch]
+Label=Débloquer/Bloquer le tangage de la voiture
+
+[EditorResetPitch]
+Label=Réinitialiser la rotation de la voiture
+

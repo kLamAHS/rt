@@ -1,0 +1,42 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\StatTitles.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[StatSingleInstance]
+OvertimeGoal=Finisseur
+
+[StatCompound]
+Goals_9=Force de la nature
+Goals_3_5=Prodige
+Saves_10=Sauveur
+Saves_6_9=Protecteur
+Saves_3_5=Directeur
+EpicSaves=Ange gardien
+PoolShots=Calculateur
+BackwardsGoal=Frimeur
+BicycleGoal=Acrobate
+AerialGoal=Aviateur
+TurtleGoal=Tortue
+OwnGoal=Traître
+Juggles=Jongleur
+Goals_6_8=As
+
+[StatStandard]
+Goals=Buteur
+Saves=Gardien de but
+Assists=Meneur de jeu
+Centers=Tacticien
+Shots=Attaquant
+FirstTouches=Agresseur
+Demolitions=Bourreau
+
+[StatTracking]
+MostBoostPickups=Bête de course
+FewestBoostPickups=Accumulateur
+MostBallTouches=Squatteur de balle
+FewestBallTouches=Habitué du banc
+CarTouches=Exécuteur
+FurthestGoal=Sniper
+FastestGoal=Frappeur puissant
+SlowestGoal=Escargot
+

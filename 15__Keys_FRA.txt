@@ -1,0 +1,60 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\Keys.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Keys]
+LShift=Maj gauche
+RShift=Maj droite
+LCtrl=Ctrl gauche
+RCtrl=Ctrl droite
+LAlt=Alt gauche
+RAlt=Alt droite
+SpaceBar=Espace
+Mouse=Souris
+CapsLock=Verr maj
+BackSpace=Retour
+Delete=Suppr
+Insert=Inser
+End=Fin
+PageU=Pg préc
+PageD=Pg suiv
+NumLock=Verr num
+ScrollLock=Arrêt défil
+Enter=Entrée
+Divide=Diviser
+Multiply=Multiplier
+Subtract=Moins
+Add=Plus
+Decimal=Décimale
+NumPadZero=PavNumZéro
+NumPadOne=PavNumUn
+NumPadTwo=PavNumDeux
+NumPadThree=PavNumTrois
+NumPadFour=PavNumQuatre
+NumPadFive=PavNumCinq
+NumPadSix=PavNumSix
+NumPadSeven=PavNumSept
+NumPadEight=PavNumHuit
+NumPadNine=PavNumNeuf
+Tilde=`
+Comma=,
+Period=.
+Slash=/
+Semicolon=;
+Quote='
+LBracket=[
+RBracket=]
+Backslash=\\
+Underscore=_
+Equals==
+Zero=0
+One=1
+Two=2
+Three=3
+Four=4
+Five=5
+Six=6
+Seven=7
+Eight=8
+Nine=9
+

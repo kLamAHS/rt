@@ -1,0 +1,7 @@
+# SOURCE: ..\..\Engine\Localization\FRA\subtitles.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Subtitles]
+MovieIsPaused=PAUSED
+

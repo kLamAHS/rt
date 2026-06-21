@@ -1,0 +1,78 @@
+# SOURCE: ..\..\ProjectX\Localization\FRA\UIText.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Global]
+Apr=Avr
+April=Avril
+Aug=Août
+August=Août
+D=J
+Day=Jour
+Days=Jours
+Dec=Déc
+December=Décembre
+Feb=Fév
+February=Février
+H=H
+Hour=Heure
+Hours=Heures
+Jan=Jan
+January=Janvier
+Jul=Juil
+July=Juillet
+Jun=Juin
+June=Juin
+M= min
+Mar=Mar
+March=Mars
+May=Mai
+Minute=Minute
+Minutes=Minutes
+Month=Mois
+Months=Mois
+Nov=Nov
+November=Novembre
+Oct=Oct
+October=Octobre
+S= s
+Second=Seconde
+Seconds=Secondes
+Sep=Sep
+September=Septembre
+W=S
+Week=Semaine
+Weeks=Semaines
+Y=A
+Year=Année
+Years=Années
+AM=AM
+DateLongFormat={3?Hours}:{4?Minutes}, le {1?Day} {0?Month} {2?Year}
+PM=PM
+Fri=Ven
+Friday=Vendredi
+Mon=Lun
+Monday=Lundi
+Sat=Sam
+Saturday=Samedi
+Sunday=Dimanche
+Thu=Jeu
+Thursday=Jeudi
+Tue=Mar
+Tuesday=Mardi
+Wed=Mer
+Wednesday=Mercredi
+MonthDayFormat={0?Month} {1?Day}
+Sun=Soleil
+back=Retour
+Next=Suivant
+OK=OK
+WeekdayMonthDayFormat={0?Weekday} {2?Day} {1?Month}
+
+[Platform]
+NintendoSwitch=Nintendo Switch™
+PS4=PS4™
+Steam=Steam
+XboxOne=Xbox One
+Epic=Epic
+

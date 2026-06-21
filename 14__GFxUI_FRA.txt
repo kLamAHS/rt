@@ -1,0 +1,19 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\GFxUI.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[FontLib]
+FontLib=GFX_Fonts.Fonts_EFIGS
+
+[Fonts]
+SmallFont=Arial Narrow
+SmallBoldFont=Arial Narrow Bold,Bold
+NormalFont=Arial
+HeaderFont=Bourgeois Medium
+HeaderThinFont=Bourgeois Thin
+NumbersWideFont=Dashboard Numbers Wide
+SymbolReplace=Noto Sans Symbols RL-Minimalist Regular
+
+[Translation]
+Enable=0
+

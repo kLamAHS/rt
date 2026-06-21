@@ -1,0 +1,10 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\Currency.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Currency]
+ESportsToken=Jetons eSports
+ESportsTokenShortName=Jetons
+Credits=Crédits
+AutoTourTokens=Togrogs
+

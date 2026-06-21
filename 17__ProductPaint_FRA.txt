@@ -1,0 +1,79 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\ProductPaint.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Paints.Black_00 ProductPaint_TA]
+Label=Noir
+
+[Paints.Blue_00 ProductPaint_TA]
+Label=Bleu ciel
+
+[Paints.Blue_01 ProductPaint_TA]
+Label=Cobalt
+
+[Paints.Brown_00 ProductPaint_TA]
+Label=Terre de Sienne
+
+[Paints.Green_00 ProductPaint_TA]
+Label=Vert profond
+
+[Paints.Green_01 ProductPaint_TA]
+Label=Citron vert
+
+[Paints.Grey_00 ProductPaint_TA]
+Label=Gris
+
+[Paints.Orange_00 ProductPaint_TA]
+Label=Orange
+
+[Paints.Pink_00 ProductPaint_TA]
+Label=Rose
+
+[Paints.Purple_00 ProductPaint_TA]
+Label=Violet
+
+[Paints.Red_00 ProductPaint_TA]
+Label=Pourpre
+
+[Paints.White_00 ProductPaint_TA]
+Label=Blanc titane
+
+[Paints.Yellow_00 ProductPaint_TA]
+Label=Safran
+
+[Paints.GoldMetal_00 ProductPaint_TA]
+Label=Or
+
+[Paints.Blue_00_Glow ProductPaint_TA]
+Label=Lueur bleu ciel
+
+[Paints.Blue_01_Glow ProductPaint_TA]
+Label=Lueur cobalt
+
+[Paints.Brown_00_Glow ProductPaint_TA]
+Label=Lueur terre de Sienne brûlée
+
+[Paints.Green_00_Glow ProductPaint_TA]
+Label=Lueur vert profond
+
+[Paints.Green_01_Glow ProductPaint_TA]
+Label=Lueur vert citron
+
+[Paints.Orange_00_Glow ProductPaint_TA]
+Label=Lueur orange
+
+[Paints.Pink_00_Glow ProductPaint_TA]
+Label=Lueur rose
+
+[Paints.Purple_00_Glow ProductPaint_TA]
+Label=Lueur violette
+
+[Paints.Red_00_Glow ProductPaint_TA]
+Label=Lueur pourpre
+
+[Paints.White_00_Glow ProductPaint_TA]
+Label=Lueur blanc titane
+
+[Paints.Yellow_00_Glow ProductPaint_TA]
+Label=Lueur safran
+

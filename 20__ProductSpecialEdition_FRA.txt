@@ -1,0 +1,88 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\ProductSpecialEdition.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Editions.Edition_Holographic ProductSpecialEdition_TA]
+Label=Holographique
+
+[Editions.Edition_Inverted ProductSpecialEdition_TA]
+Label=Inverse
+
+[Editions.Edition_Infinite ProductSpecialEdition_TA]
+Label=Infini
+
+[Editions.Edition_ColorMatch ProductSpecialEdition_TA]
+Label=Color Match
+
+[Editions.Edition_Anniversary Edition ProductSpecialEdition_TA]
+Label=Édition d'anniversaire
+
+[Editions.Edition_Anodized ProductSpecialEdition_TA]
+Label=Anodisé
+
+[Editions.Edition_Crystallized ProductSpecialEdition_TA]
+Label=Cristallisé
+
+[Editions.Edition_Flare ProductSpecialEdition_TA]
+Label=Flash
+
+[Editions.Edition_Frosted ProductSpecialEdition_TA]
+Label=givré
+
+[Editions.Edition_Frozen ProductSpecialEdition_TA]
+Label=Gelé
+
+[Editions.Edition_Gilded ProductSpecialEdition_TA]
+Label=Doré
+
+[Editions.Edition_Glitched ProductSpecialEdition_TA]
+Label=Bug
+
+[Editions.Edition_GlowTrim ProductSpecialEdition_TA]
+Label=Bordure luminescente
+
+[Editions.Edition_Hatch ProductSpecialEdition_TA]
+Label=Hachure
+
+[Editions.Edition_Multichrome ProductSpecialEdition_TA]
+Label=Multichrome
+
+[Editions.Edition_Neon ProductSpecialEdition_TA]
+Label=Neon
+
+[Editions.Edition_Noire ProductSpecialEdition_TA]
+Label=Noire
+
+[Editions.Edition_Obverse ProductSpecialEdition_TA]
+Label=Obverse
+
+[Editions.Edition_Phased ProductSpecialEdition_TA]
+Label=Phase
+
+[Editions.Edition_Prismatic ProductSpecialEdition_TA]
+Label=Prismatique
+
+[Editions.Edition_Radiant ProductSpecialEdition_TA]
+Label=Radiance
+
+[Editions.Edition_Remixed ProductSpecialEdition_TA]
+Label=Remix
+
+[Editions.Edition_Revolved ProductSpecialEdition_TA]
+Label=Rotation
+
+[Editions.Edition_Roasted ProductSpecialEdition_TA]
+Label=Brûlé
+
+[Editions.Edition_Sacred ProductSpecialEdition_TA]
+Label=Sacré
+
+[Editions.Edition_Schematized ProductSpecialEdition_TA]
+Label=Schématisé
+
+[Editions.Edition_Scorched ProductSpecialEdition_TA]
+Label=Calciné
+
+[Editions.Edition_Yin & Yang ProductSpecialEdition_TA]
+Label=Yin & Yang
+

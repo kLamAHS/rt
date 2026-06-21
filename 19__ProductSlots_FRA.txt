@@ -1,0 +1,99 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\ProductSlots.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Body ProductSlot_TA]
+Label=Châssis
+Description=Choisissez un nouveau châssis pour modifier complètement le style de votre véhicule !
+PluralLabel=Châssis
+
+[Skin ProductSlot_TA]
+Label=Sticker
+Description=Des rayures de tigre ? Des pois ? C'est vous qui décidez !
+PluralLabel=Stickers
+
+[PaintFinish ProductSlot_TA]
+Label=Peinture
+PluralLabel=Peinture
+
+[Wheels ProductSlot_TA]
+Label=Roues
+Description=Apportez la touche finale avec des pneus flambant neufs.
+PluralLabel=Roues
+
+[Boost ProductSlot_TA]
+Label=Accélération turbo
+Description=Laissez des messages dans le ciel avec votre accélération turbo personnalisée !
+PluralLabel=Accélérations turbo
+
+[Hat ProductSlot_TA]
+Label=Accessoire
+Description=Un must pour toutes les voitures de combat !
+PluralLabel=Accessoires
+
+[Front ProductSlot_TA]
+Label=Pare-chocs
+Description=La dernière chose que vos adversaires verront avant d'être réduits en pièces détachées.
+PluralLabel=Pare-chocs
+
+[Antenna ProductSlot_TA]
+Label=Antenne
+Description=La petite touche finale qui met le tout en valeur.
+PluralLabel=Antennes
+
+[UnderGlow ProductSlot_TA]
+Label=Éclairage de châssis
+Description=Illuminez votre vie.
+
+[PremiumInventory ProductSlot_TA]
+Label=Caisses
+PluralLabel=Caisses
+
+[SupersonicTrail ProductSlot_TA]
+Label=Traînée
+PluralLabel=Traînées
+
+[GoalExplosion ProductSlot_TA]
+Label=Explosion de but
+PluralLabel=Explosions de but
+
+[EngineAudio ProductSlot_TA]
+Label=Bruit de moteur
+PluralLabel=Bruits de moteur
+
+[PlayerBanner ProductSlot_TA]
+Label=Bannière de joueur
+PluralLabel=Bannières de joueur
+
+[MusicStingers ProductSlot_TA]
+Label=Hymne de joueur
+PluralLabel=Hymnes de joueurs
+
+[PlayerAvatar ProductSlot_TA]
+Label=Avatar de joueur
+PluralLabel=Avatars de joueur
+
+[PlayerAvatarBorder ProductSlot_TA]
+Label=Bordure d'avatar
+PluralLabel=Bordures d'avatar
+
+[PlayerTitle ProductSlot_TA]
+Label=Titre de joueur
+PluralLabel=Titres de joueur
+
+[Archive ProductSlot_TA]
+Label=Objets archivés
+PluralLabel=Objets archivés
+
+[Blueprint ProductSlot_TA]
+Label=Plans
+PluralLabel=Plans
+
+[Currency ProductSlot_TA]
+Label=Devise
+PluralLabel=Devises
+
+[GiftPack ProductSlot_TA]
+Label=Objet en récompense
+PluralLabel=Objets en récompense
+

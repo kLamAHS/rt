@@ -1,0 +1,20 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\OnlineErrors.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[OnlineServerConnectionErrors]
+ServerOptionsMismatch=Les paramètres du serveur ne correspondent plus à vos paramètres. (Error: 51)
+ServerFull=Le serveur est complet (Error: 52)
+LoginTimeout=La connexion a été interrompue après le délai. (Error: 53)
+ServerShutdown=Le serveur est fermé pour maintenance. (Error: 56)
+ServerRestarting=Redémarrage du serveur en cours (Error: 57)
+NoReservation=Aucune réservation trouvée (Error: 58)
+ReservationTimedOut=Délai de réservation dépassé (Error: 59)
+PrivateMatch=Il faut 2 joueurs pour lancer un match privé.
+IdleKick=Vous avez été expulsé pour inactivité.
+RankedMatchKick=Le match classé est terminé
+MatchNotStarted=La partie n'a pas commencé (erreur : 60)
+TournamentMatchKick=La partie de tournoi s'est terminée.
+FaceItMatchKick=La partie FaceIt est terminée.
+MatchKick=La partie est terminée.
+

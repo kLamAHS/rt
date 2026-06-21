@@ -1,0 +1,1044 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\UserSettings.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Resolution]
+Label=Résolution
+
+[WindowMode]
+Label=Mode d'affichage
+
+[VSync]
+Label=Synchro verticale
+Description=Synchronise le taux d'images par seconde avec la fréquence de rafraîchissement de l'écran. Réduit les artefacts visuels mais peut augmenter le délai de saisie.
+
+[AntiAlias]
+Label=Anticrénelage
+Description=Lisse les contours afin de limiter l'effet d'escalier, mais peut provoquer des images floues. Activer cette option est susceptible de réduire les performances.
+
+[RenderQuality]
+Label=Qualité du rendu
+Description=Réduire cette option augmente les performances en affichant le jeu dans une résolution moindre, puis en l'agrandissant pour convenir à votre écran.
+
+[RenderDetail]
+Label=Détails du rendu
+Description=Contrôle le niveau de plusieurs options d'affichage. Diminuer cette option est susceptible d'améliorer les performances.
+
+[SafeZoneRatio]
+Label=Échelle d'affichage
+Description=Contrôle la taille maximum de l'affichage de l'écran. Réduisez cette option si certains éléments de l'interface apparaissent hors de l'écran.
+
+[TextureDetail]
+Label=Détails des textures
+Description=Ajuste la qualité des textures affichées.
+
+[WorldDetail]
+Label=Détails du monde
+Description=Ajuste le niveau de détails visibles dans le monde.
+
+[HighQualityShaders]
+Label=Nuanceurs de haute qualité
+Description=Active l'affichage matériel de haute qualité. Cette option est susceptible de réduire les performances.
+
+[AmbientOcclusion]
+Label=Occlusion ambiante
+Description=Active l'éclairage et les ombres réalistes. Cette option est susceptible de réduire les performances.
+
+[DepthOfField]
+Label=Profondeur de champ
+Description=Active un effet de flou en profondeur de champ.
+
+[Bloom]
+Label=Flou lumineux
+Description=Augmente la luminosité des sources de lumière.
+
+[LightShafts]
+Label=Puits de lumière
+Description=Active les cônes de lumière.
+
+[LensFlares]
+Label=Halos lumineux
+Description=Active les effets de facteur de flare des sources de lumière.
+
+[DynamicShadows]
+Label=Ombres dynamiques
+Description=Active les ombres des objets mobiles.
+
+[MotionBlur]
+Label=Flou cinétique
+Description=Active les effets de flou afin de simuler des mouvements réalistes.
+
+[GameVolume]
+Label=Jeu
+Description=Définit le volume général des effets sonores du jeu.
+
+[MusicVolume]
+Label=Volume de la musique
+Description=Définit le volume général de la musique du jeu.
+
+[AmbientVolume]
+Label=Ambiant
+Description=Définit le volume général des sons d'ambiance.
+
+[VoiceVolume]
+Label=Chat vocal
+Description=Définit le volume de la discussion audio.
+
+[OutputType]
+Label=Type de sortie
+Description=Bascule entre les haut-parleurs et le casque.
+
+[ControllerVolume]
+Label=Volume
+Description=Définit le volume des sons émis par votre manette.
+
+[ControllerSoundMode]
+Label=Sons
+Description=Active les sons émis par votre manette.
+
+[VoiceFilter]
+Label=Chat vocal
+Description=Permet de déterminer avec quels joueurs la discussion audio est activée.
+
+[ChatFilter]
+Label=Chat écrit
+Description=Permet de déterminer quels types de messages texte venant des autres joueurs sont visibles.
+
+[PushToTalk]
+Label=Appuyer pour parler
+Description=Active la fonction « appuyer pour parler » de votre microphone.
+
+[InvertSwivelPitch]
+Label=Inverser axe de rotation
+Description=Inverse les commandes de rotation de la caméra.
+
+[InvertSpectatorPitch]
+Label=Spectateur : inverser axe
+Description=Inverse les commandes d'axe en mode spectateur.
+
+[CameraShake]
+Label=Secousses de la caméra
+Description=Active les vibrations de l'écran.
+
+[CameraFOV]
+Label=Champ de vision
+Description=Contrôle la taille du champ de vision. Augmenter cette option peut réduire les effets de cinétose.
+
+[CameraHeight]
+Label=Hauteur
+Description=Détermine à quelle hauteur la caméra se situe au-dessus de votre voiture.
+
+[CameraAngle]
+Label=Angle
+Description=Détermine l'angle par défaut adopté par la caméra vers votre voiture.
+
+[CameraDistance]
+Label=Distance
+Description=Détermine à quelle distance la caméra se situe derrière votre voiture.
+
+[CameraStiffness]
+Label=Rigidité
+Description=Détermine avec quelle rigidité la caméra suit votre voiture.
+
+[CameraSwivelSpeed]
+Label=Vitesse de rotation
+Description=Détermine la vitesse à laquelle la caméra peut tourner autour de votre voiture.
+
+[MouseSensitivity]
+Label=Sensibilité de la souris
+Description=Détermine la sensibilité de la souris lorsqu'elle est utilisée pour la direction et les déplacements.
+
+[BallcamIndicator]
+Label=Caméra du ballon - Infos
+Description=Activer cette option permet d'afficher un indicateur à l'écran lorsque la caméra ballon est activée.
+
+[HoldBallcam]
+Label=Caméra du ballon - Touche enfoncée
+
+[HorizontalSplitscreen]
+Label=Écran partagé à l'horizontal
+
+[DisableCrossPlay]
+Label=Jeu inter-plateforme
+Description=Vous permet de jouer avec des utilisateurs sur d'autres plateformes.
+
+[EnableSaving]
+Label=Activer Sauvegarde Auto.
+
+[ForceFeedback]
+Label=Vibrations
+Description=Détermine l'intensité des vibrations de la manette.
+
+[BallIndicator]
+Label=Flèche du ballon
+Description=Active une flèche au-dessus de la voiture qui pointe vers le ballon.
+
+[Metric]
+Label=Système métrique
+Description=Bascule entre l'utilisation du système impérial ou métrique.
+
+[Values]
+Off=Désactiver
+FXAALow=FXAA bas
+FXAAMedium=FXAA moyen
+FXAAHigh=FXAA élevé
+MLAA=MLAA
+Fullscreen=Plein écran
+Windowed=Fenêtré
+Borderless=Sans bords
+HighQuality=Haute qualité
+Quality=Qualité
+Performance=Performance
+HighPerformance=Haute performance
+Custom=Personnalisé
+HearAll=Tout autoriser
+HearTeamOnly=Équipe uniquement
+HearFriendsOnly=Amis uniquement
+DisableVoice=Désactivé
+Speakers=Haut-parleur
+Headphones=Écouteurs
+MultiplayerOnly=Multijoueur uniquement
+AlwaysOn=Toujours activé
+AlwaysOff=Toujours désactivé
+HearPresetsOnly=Chat rapide seulement
+UseNewest=Utiliser la plus récente
+UseOldest=Utiliser la plus ancienne
+AskMe=Me le demander
+HearTeamPresetsOnly=Équipe - Chat rapide seulement
+CameraPresetDefault=Par défaut
+CameraPresetBalanced=Équilibré
+CameraPresetWide=Angle large
+FFDisabled=Désactivées
+FFVeryLight=Super légères
+FFLight=Légères
+FFMedium=Moyenne
+FFHeavy=Forte
+Default=Par défaut
+Low=Faible
+Medium=Moyenne
+High=Forte
+DynamicRangeLow=Faible (Nuit)
+DynamicRangeHigh=Forte (Cinéma)
+Vertical=Vertical
+Horizontal=Horizontal
+Toggle=Activer/Désactiver
+Hold=Maintenir
+AllMessages=Tout
+GameUpdateMessages=Que les mises à jour de temps
+KickoffMessages=Que les coups d'envoi
+AlwaysVisible=Toujours visibles
+Simplified=Simplifiées
+GameplayMusicTraining=Entraînement seulement
+GameplayMusicMatches=Parties seulement
+None=Aucun
+PerfSummary=Résumé des performances
+PerfGraphShort=Graphique des performances (court)
+PerfGraphLong=Graphique des performances (long)
+NetSummary=Résumé du réseau
+NetGraphShort=Graphique du réseau (court)
+NetGraphLong=Graphique du réseau (long)
+Gamepad=Manette
+SteamController=Manette (Steam)
+Xbox360Controller=Manette (Xbox 360)
+XboxOneController=Manette (Xbox One)
+Playstation4Controller=Manette (PlayStation 4)
+Auto=Auto
+SemiAuto=Désactivé/Auto
+NoStats=Aucune
+PrimaryStats=Stats principales seulement
+AllStats=Toutes les stats
+NetworkInputBuffer_ServerConsume=Serveur
+NetworkInputBuffer_STS=STS
+NetworkInputBuffer_CSTS=CSTS
+ImageFilterSepia=Sépia
+ImageFilterGrayscale=Gris
+ImageFilterSceneDepth=Profondeur
+AutodetectController=Sélection auto
+NoControllersFound=Aucune manette trouvée
+IgnoreSteamInput=Désactivées
+ImageFilterGlowy=Lumineux
+ImageFilterSobel=Sobel
+ImageFilterSobelStriker=Attaquant Sobel
+ImageFilterComicBook=Bande dessinée
+ImageFilterToon=Toon
+ImageFilterOutlines=Contours
+ImageFilterChromatic=Chromatique
+ImageFilterNightVision=Vision nocturne
+ImageFilterSubpar=Inférieur
+Red=Rouge
+Green=Vert
+Blue=Bleu
+Black=Noir
+White=Blanc
+SMAA=SMAA
+CameraPresetLegacy=Classique
+DistanceFade=À proximité uniquement
+MSAASampleLabel=Échantillonnage MSAA
+MSAA_Off=MSAA désactivé
+MSAA_2x=MSAA 2x
+MSAA_4x=MSAA 4x
+MSAA_8x=MSAA 8x
+MSAA_16x=MSAA 16x
+FFImpact=Impact
+FFAll=Tout
+HearTacticalPresetsOnly=Chat rapide tactique seulement
+MusicStingersMatches=Parties seulement
+MenuOnly=Menu uniquement
+LowIntensity=Intensité faible
+PartyRoom=Groupe
+MatchRoom=Équipe
+OpenMic=Micro ouvert
+PushToTalk=Appuyer pour parler
+ToggleMute=Basculer
+BoostFillStandard=Standard
+BoostFillAuto=Remplissage auto
+BoostFillUnlimited=Illimité
+ControlsVisibilityVisible=Toujours visibles
+ControlsVisibilityHidden=Masquées
+ControlsVisibilityFadeOut=Fondu
+VoiceChatFriendsOnly=Autoriser le chat vocal seulement avec les amis
+QuickChatFriendsPresetsOnly=Autoriser le Chat Rapide avec les amis uniquement
+QuickChatPresetsEveryone=Autoriser le chat rapide avec tout le monde
+QuickChatTeamPresetsOnly=Autoriser le chat rapide uniquement avec les coéquipiers
+QuickChatDisabled=Désactivé
+MatchChatEveryone=Autoriser le chat écrit avec tout le monde
+MatchChatFriendsAndTeamOnly=Autoriser le chat écrit uniquement avec les amis et les coéquipiers
+MatchChatFriendsOnly=Autoriser le chat écrit uniquement avec les amis
+MatchChatDisabled=Désactivé
+PartyChatEveryone=Autoriser le chat écrit de groupe avec tout le monde
+PartyChatFriendsOnly=Autoriser le chat écrit de groupe uniquement avec les amis
+PartyChatDisabled=Désactivé
+VoiceChatEveryone=Autoriser le chat vocal avec tout le monde
+VoiceChatFriendsAndTeamOnly=Autoriser le chat vocal uniquement avec les amis et les coéquipiers
+VoiceChatDisabled=Désactivé
+RankInfoDisplayType_None=Aucun
+RankInfoDisplayType_ExtraModesOnly=Modes Extra uniquement
+RankInfoDisplayType_StandardOnly=Modes standard uniquement
+RankInfoDisplayType_All=Tous (par défaut)
+GoalResetStandard=Standard
+GoalResetBallReset=Réinitialisation du ballon
+GoalResetDisabled=Désactivé
+ZeroOutSwivel=Jamais
+AllowKickoffSwivel=Uniquement pendant l'engagement
+AllowAlwaysSwivel=Toujours
+AlwaysReport=Toujours activé
+OffWhenPossible=Désactivé si possible
+VoiceNotifNone=Aucun
+VoiceNotifText=Texte uniquement
+VoiceNotifMatch=Partie uniquement
+VoiceNotifMenu=Menu principal uniquement
+VoiceNotifTextMatch=Texte et partie uniquement
+VoiceNotifTextMenu=Texte et menu principal uniquement
+VoiceNotifMatchMenu=Partie et menu principal uniquement
+VoiceNotifAll=Tout
+VMP_None=Aucun
+VMP_MenuOnly=Menu principal uniquement
+VMP_InGameOnly=En jeu uniquement
+VMP_Everywhere=Partout
+PlayMusic_Menu=Menu principal uniquement
+PlayMusic_Training=Entraînement seulement
+PlayMusic_Game=Parties seulement
+PlayMusic_Menu_Training=Menu principal et Entraînement
+PlayMusic_Game_Training=Parties et Entraînement
+PlayMusic_Game_Menu=Parties et Menu principal
+PlayMusic_Everywhere=Partout
+PlayMusic_Mute=Jamais
+ActorGraphSummary=Résumé de la vitesse
+ActorGraphShort=Graphique de vitesse (court)
+ActorGraphLong=Graphique de vitesse (long)
+FlipResetOff=Désactivé
+FlipResetAudio=Audio uniquement
+FlipResetVisual=Visuels uniquement
+FlipResetOn=Activé
+AnonymizeOff=Désactivé
+AnonymizeTeammates=Coéquipiers uniquement
+AnonymizeOpponents=Adversaires uniquement
+AnonymizeEveryone=Tout le monde
+CameraPresetModern=Moderne
+
+[ShowWeatherFX]
+Label=Météo
+Description=Active les effets de météo tels que la pluie ou le brouillard.
+
+[MaxFPS]
+Label=FPS Max
+Description=Limite le taux d'images par seconde maximum que le jeu peut afficher.
+
+[UIScale]
+Label=Échelle d'interface
+Description=Ajuste la taille globale des éléments de l'interface utilisateur.
+
+[AutoCamMoveSpeed]
+Label=Réalisateur spectateur - Vitesse horizontale
+Description=Détermine la vitesse de déplacement horizontal de la caméra.
+
+[AutoCamMoveSpeedZ]
+Label=Réalisateur spectateur - Vitesse verticale
+Description=Détermine la vitesse de déplacement vertical de la caméra.
+
+[AutoCamRotateSpeed]
+Label=Réalisateur spectateur - Vitesse de rotation
+Description=Détermine la vitesse de rotation de la caméra.
+
+[AutoCamPlayerFocusDistance]
+Label=Réalisateur spectateur - Distance du focus aérien
+Description=Détermine la distance entre la caméra et la voiture lors des frappes aériennes.
+
+[AutoCamUseReplayCamera]
+Label=Réalisateur spectateur - Utiliser le replay caméra
+Description=Permet de basculer vers le replay caméra standard lors d'un but.
+
+[AutoCamFOV]
+Label=Réalisateur spectateur - Champ de vision
+Description=Contrôle la taille du champ de vision de la caméra.
+
+[AutoCamHeight]
+Label=Réalisateur spectateur - Hauteur
+Description=Détermine la hauteur minimum de la caméra au-dessus du sol.
+
+[AutoCamDistance]
+Label=Réalisateur spectateur - Distance
+Description=Détermine la distance entre la caméra et le ballon.
+
+[AutoCamPlayerFocusBlendSpeed]
+Label=Réalisateur spectateur - Vitesse du focus aérien
+Description=Détermine la vitesse de fondu de la caméra vers les frappes aériennes.
+
+[AutoCamAerialPrediction]
+Label=Réalisateur spectateur - Limite du focus aérien
+Description=Détermine le seuil de prédiction de frappe aérienne des joueurs.
+
+[AutoCamFocusOnGoals]
+Label=AutoCam spectateur - Focus sur les buts
+Description=Activer cette option permet de garder les buts en vue lorsque le ballon en est proche.
+
+[MuteStatEvents]
+Label=Désactiver les notifications statistiques
+
+[DisableDivisions]
+Label=Cacher les divisions de compétition
+
+[DisableContainerNotifications]
+Label=cacher les caisses
+Description=Cache toutes les caisses de votre inventaire et désactive les notifications connexes.
+
+[ColorBlind]
+Label=Mode daltonien
+Description=Activer cette option remplace toutes les couleurs d'équipe et de voiture par de l'orange et du bleu au contraste élevé.
+
+[AlternateNameplates]
+Label=Contraste élevé des noms
+
+[MasterVolume]
+Label=Général
+Description=Définit le volume général du son.
+
+[ControllerDeadzone]
+Label=ZONE MORTE DE LA MANETTE
+Description=Détermine combien le stick doit bouger afin d'affecter la direction et les commandes aériennes.
+
+[KeySelection]
+Label=Choix de la clé
+Description=Détermine les clés utilisées pour ouvrir des caisses.
+
+[DodgeInputThreshold]
+Label=ZONE MORTE DIRECTIONNELLE DE L'ESQUIVE
+Description=Détermine combien le stick doit bouger afin de réaliser une esquive au lieu d'un double saut.
+
+[KeyboardAxisBlendTime]
+Label=Réponse accélérée de la saisie au clavier
+Description=Définit le temps nécessaire à la saisie du clavier pour passer de zéro à la valeur maximale de façon fluide.
+
+[LeftJoystickSensitivity]
+Label=Sensibilité du stick analogique gauche
+
+[RightJoystickSensitivity]
+Label=Sensibilité du stick analogique droit
+
+[UseTranslucentArenaShaders]
+Label=Poteaux de but transparents
+Description=Active la transparence des murs lorsque vous êtes proche ou à l'intérieur d'un but.
+
+[AlwaysShowNameplates]
+Label=Toujours afficher les plaques nominatives
+
+[LockSpectatorBallCam]
+Label=Spectateur : caméra ballon
+Description=Détermine si la caméra ballon est toujours utilisée en mode spectateur.
+
+[CameraTransitionSpeed]
+Label=Vitesse de transition
+Description=Détermine la vitesse des transitions entre la caméra de la voiture et la caméra du ballon.
+
+[SteeringSensitivity]
+Label=Sensibilité de la direction
+Description=Détermine la sensibilité du stick lors de la direction.
+
+[AirControlSensitivity]
+Label=Sensibilité aérienne
+Description=Détermine la sensibilité du stick lors des déplacements aériens.
+
+[GameplayMusic]
+Label=Musique en jeu
+Description=Définit le moment où la bande sonore du jeu est jouée.
+
+[DirectorCamAllowBlending]
+Label=Réalisateur spectateur - Autoriser les fondus
+Description=Active un léger fondu lorsque vous passez d'un joueur à l'autre en mode réalisateur.
+
+[DirectorMinSameTeamFocus]
+Label=Réalisateur spectateur - Temps pour une même équipe
+Description=Détermine la durée de focus sur un joueur avant de pouvoir passer à un coéquipier.
+
+[DirectorMinChangeTeamFocus]
+Label=Réalisateur spectateur - Temps pour changement d'équipe
+Description=Détermine la durée de focus sur une équipe avant de pouvoir passer à l'autre.
+
+[BallcamMode]
+Label=Ballon - Mode de caméra
+Description=Détermine si la touche de caméra ballon doit être pressée une fois ou maintenue enfoncée.
+
+[SplitscreenMode]
+Label=Paramètres d'écran partagé
+Description=Détermine la façon dont l'écran est séparé lorsque vous jouez en écran partagé.
+
+[IncomingPacketFrequency]
+Label=Vitesse d'envoi du serveur
+Description=Limite le nombre de paquets par seconde que le serveur envoie au client.
+
+[OutgoingPacketFrequency]
+Label=Vitesse d'envoi du client
+Description=Limite le nombre de paquets par seconde que le client envoie au serveur.
+
+[IncomingBandwidth]
+Label=Limite de bande-passante
+Description=Limite le taux d'envoi d'informations du serveur vers le client.
+
+[ConnectionQualityIndicators]
+Label=Indicateurs de connexion
+Description=Active une notification à l'écran lors des problèmes de connexion.
+
+[CompetitiveDivisions]
+Label=Divisions de compétition
+Description=Active l'affichage d'informations sur les divisions de compétition à la fin des parties.
+
+[ForceFeedbackType]
+Label=Vibrations
+
+[CameraPreset]
+Label=Préréglages de caméra
+Description=Détermine plusieurs options de caméra à la fois. Certains préréglages vous permettent d'avoir une meilleure vue du terrain.
+
+[NameplateScale]
+Label=Plaque nominative - Taille
+Description=Détermine la taille des plaques nominatives au-dessus des autres voitures.
+
+[NameplateMode]
+Label=Plaque nominative - Mode
+Description=Détermine le type de plaques nominatives affichées.
+
+[HUDMessageLevel]
+Label=Notifications de partie
+Description=Détermine quels types de messages de jeu apparaissent à l'écran.
+
+[ConsoleQualityMode]
+Label=Qualité vidéo
+
+[EnableFreeplayUnlimitedBoost]
+Label=Turbo illimité en jeu libre
+
+[CrowdVolume]
+Label=Foule
+Description=Définit le volume de la foule.
+
+[ParticleDetail]
+Label=Détails des particules
+Description=Ajuste la qualité des particules affichées.
+
+[ForceDefaultColors]
+Label=Forcer les couleurs d'équipes par défaut
+Description=Impose l'utilisation des couleurs d'équipe orange et bleu par défaut dans les parties privées ou en club.
+
+[CompetitiveDivisionsSports]
+Label=Afficher les rangs Mode extra
+Description=Active l'affichage d'informations de rang en mode Extra.
+
+[HDRBrightnessScale]
+Label=Luminosité HDR
+Description=Permet d'ajuster la luminosité maximale affichée des parties les plus lumineuses d'une scène avec HDR.
+
+[HDRPaperWhiteScale]
+Label=Surface blanche HDR
+Description=Ajustez la luminosité d'une surface blanche (en nits) avec HDR.
+
+[HDRGammaScale]
+Label=Contraste HDR
+Description=Permet de contrôler le contraste avec HDR. En modifiant ceci, assurez-vous de ne pas perdre de détails dans les zones sombres d'une scène.
+
+[EnableHDRSideBySideVisualizer]
+Label=Comparatif HDR
+Description=Permet d'activer le comparatif SDR (à gauche) et HDR (à droite).
+
+[UseSteamInput]
+Label=Utiliser la configuration de commandes Steam (BÊTA)
+
+[InputBufferType]
+Label=Mémoire tampon d'entrée
+Description=Méthode utilisée pour contrôler la taille de la mémoire tampon d'entrée. Choisissez STS ou CSTS pour aider à réduire la latence pendant une partie.
+
+[ShowInGameNotifications]
+Label=Notifications d'amis en jeu
+Description=Affiche les notifications d'amis pendant que vous jouez. Si l'option est désactivée, il est toujours possible de consulter les notifications depuis le menu Amis.
+
+[ShowInGameStats]
+Label=Niveau d'affichage des statistiques de jeu
+Description=Affiche les diverses notifications de stats pendant que vous jouez. 
+
+[CameraDOF]
+Label=Distance de mise au point
+Description=Permet de régler la profondeur de champ.
+
+[CameraDOFKernel]
+Label=Flou de la mise au point
+Description=Permet de régler l'intensité du flou.
+
+[CameraDOFTranslucent]
+Label=Translucide
+Description=Améliore le rendu des objets translucides avec la profondeur de champ.
+
+[CameraDOFMaxFar]
+Label=Grain de l'arrière-plan
+Description=Permet de régler le grain de l'arrière-plan.
+
+[CameraDOFMaxNear]
+Label=Grain du premier-plan
+Description=Permet de régler le grain du premier-plan.
+
+[CameraBloomScale]
+Label=Échelle du Bloom
+Description=Détermine l'intensité de l'effet de flou lumineux
+
+[CameraGreenScreen]
+Label=Utiliser un écran vert
+
+[CameraGreenScreenColor]
+Label=Couleur de l'écran vert
+
+[ImageColorFilter]
+Label=Filtre d'image
+
+[CameraImageFilterIntensity]
+Label=Intensité du filtre d'image
+
+[CameraImageOverlayIntensity]
+Label=Vignette
+
+[DynamicRange]
+Label=Portée dynamique
+Description=Avec le réglage « Faible », le volume des sons bruyants diminue et celui des sons plus discrets augmente. Le réglage « Fort » est destiné aux utilisateurs qui jouent avec un volume élevé et un système sonore de haute qualité.
+
+[TeamColoredBoostMeter]
+Label=Couleur d'équipe du réservoir de turbo
+Description=Modifie la couleur du réservoir de turbo en fonction de celle de votre équipe.
+
+[ForceFeedbackScale]
+Label=Intensité des vibrations
+Description=Détermine l'intensité des vibrations de la manette.
+
+[MuteOnFocusLost]
+Label=Sourdine quand réduit
+Description=Met le son du jeu en sourdine quand la fenêtre du jeu est réduite.
+
+[TourScheduleRegion]
+Label=Région de programme de tournoi
+Description=Détermine quel programme de tournoi verra un joueur en fonction de sa région. Ce paramètre peut être modifié seulement une fois toutes les 24 heures.
+
+[AirPitchSafetyEnabled]
+Label=Sécurité aérienne au clavier
+Description=Lorsque vous jouez au clavier, empêche la voiture de piquer du nez une fois en l'air à moins de cabrer, de lâcher la touche de descente ou d'effectuer un tonneau aérien.
+
+[ConvertPlatformFriends]
+Label=Convertir les amis de plateforme
+Description=Envoie et accepte automatiquement les invitations d'amis Epic de la part de vos amis de plateforme.
+
+[ControlPresets]
+Label=Préréglages des commandes
+
+[MusicStingers]
+Label=Hymnes de joueurs
+Description=Détermine quand jouer les hymnes de joueurs.
+
+[UncappedFramerate]
+Label=Images par secondes non plafonnées
+Description=Permet au jeu d'ignorer le plafond d'images/s lorsque la synchronisation verticale est désactivée, ce qui permet à votre ordinateur de produire un maximum d'images. Cette option peut réduire la latence des commandes.
+
+[SoundtrackVolume]
+Label=Musique - Listes de lecture
+Description=Définit le volume du lecteur de musique de Rocket League.
+
+[GameplayMusicVolume]
+Label=Musique - Jeu
+Description=Définit le volume des hymnes de joueurs et de la musique en jeu.
+
+[Soundtrack]
+Label=Liste de lecture
+Description=Détermine quand jouer la musique des listes de lecture.
+
+[FramesPerSecond]
+Label=Images par seconde
+Description=Définit le maximum d'images par seconde du jeu. Non plafonné passe outre le plafond d'images/s quand la synchro verticale est désactivée, mais peut provoquer des artefacts visuels.
+
+[EffectIntensity]
+Label=Intensité des effets
+Description=Détermine l'intensité des effets visuels environnementaux.
+
+[PlayMusicInMenu]
+Label=Lire la bande-son dans le menu
+Description=Lit la musique des listes de lecture quand vous parcourez le menu.
+
+[PlayMusicInTraining]
+Label=Lire la bande-son en entraînement
+Description=Lit la musique des listes de lecture quand vous vous entraînez.
+
+[PlayMusicInGame]
+Label=Lire la bande-son en jeu
+Description=Lit la musique des listes de lecture pendant un match.
+
+[StreamerSafeAudio]
+Label=Pistes libres de diffusion
+Description=Couper/Remplacer les pistes et hymnes non libres de droits.
+
+[OutputVoiceVolume]
+Label=Chat vocal
+Description=Définit le volume des messages audio entrants.
+
+[VoiceChat]
+Label=Activer le chat vocal
+Description=Détermine si vous pourrez rejoindre des salons vocaux.
+
+[PreferredVoiceRoom]
+Label=Canal vocal favori
+Description=Détermine quel canal favoriser lorsqu'un nouveau canal devient disponible.
+
+[MainMenuNotifications]
+Label=Notifications du menu principal
+Description=Active la visibilité des joueurs qui parlent lorsque vous êtes au menu principal.
+
+[MatchNotifications]
+Label=Notifications de partie
+Description=Active la visibilité des joueurs qui parlent lorsque vous êtes en jeu.
+
+[TextChatNotifications]
+Label=Notifications du chat écrit
+Description=Active les messages du chat écrit qui sont envoyés lorsqu'un joueur quitte ou rejoint le salon vocal.
+
+[VoiceInputDevice]
+Label=Périphérique d'entrée de chat vocal
+Description=Détermine quel appareil transmet votre voix lorsque vous êtes dans un salon vocal.
+
+[VoiceOutputDevice]
+Label=Périphérique de sortie de chat vocal
+Description=Détermine quel appareil émet les voix des autres joueurs lorsque vous êtes dans un salon vocal.
+
+[MaxProximityDistance]
+Label=Proximité avec les joueurs maximum
+Description=Détermine le degré d'éloignement de la caméra en fonction de la proximité avec les joueurs.
+
+[VoiceInputMode]
+Label=Méthode de chat vocal
+Description=Détermine si votre microphone fonctionne en continu ou s'il est nécessaire d'appuyer sur un bouton pour parler.
+
+[TrainingGameSpeed]
+Label=Vitesse de jeu
+Description=Contrôle la vitesse du jeu en entraînement.
+
+[TrainingControlsDisplay]
+Label=Affichage des commandes
+Description=Contrôle l'affichage des commandes en entraînement.
+
+[TrainingBoostOptions]
+Label=Options de turbo
+Description=Personnaliser le comportement du turbo en jeu libre.
+
+[TrainingDisableGoals]
+Label=Désactiver la réinitialisation des buts
+Description=Désactive la réinitialisation des buts en jeu libre. Ne s'applique pas aux modes Paniers ou Dropshot.
+
+[VoiceChatFilter]
+Description=Détermine le type de joueurs avec qui vous souhaitez utiliser le chat vocal.
+Label=Chat vocal
+
+[TradingEnabled]
+Label=Autoriser les échanges entre joueurs
+Description=Détermine si vous pouvez lancer ou recevoir des demandes d'échange. Si l'option est désactivée, vous ne pourrez pas échanger avec les autres joueurs. 
+
+[QuickChatFilter]
+Label=Chat rapide
+Description=Permet de déterminer quels types de messages de chat rapide venant des autres joueurs sont visibles.
+
+[MatchChatFilter]
+Label=Chat de partie
+Description=Permet de déterminer quels types de messages texte venant des autres joueurs sont visibles dans le chat de partie.
+
+[PartyChatFilter]
+Label=Chat de groupe
+Description=Permet de déterminer quels types de messages texte venant des autres joueurs sont visibles dans le chat de groupe.
+
+[NonTacticalQuickChatFilter]
+Label=Bloquer le chat rapide non tactique
+Description=Masque les messages de chat rapide non tactiques venant des autres joueurs pendant une partie. Ne s'applique pas au chat rapide avant ou après une partie.
+
+[TrainingBoostFillDelay]
+Label=Délai de recharge du turbo
+Description=Détermine le temps avant la recharge du turbo lorsque l'option "Remplissage auto" est activée.
+
+[ShowItemShopNotifications]
+Label=Notifications de la boutique d'objets
+Description=Affiche les notifications de la boutique d'objets sur le menu principal. Elles ne seront pas affichées si l'option est désactivée.
+
+[RankInfoDisplayType]
+Label=Afficher les infos de rang
+Description=Active l'affichage d'informations de rang pour différents modes de jeux.
+
+[PrespawnLerpSpeed]
+Label=Transition après démolition
+Description=Détermine la durée (en secondes) des transitions après démolition. Choisissez 0.00 pour une coupure nette.
+
+[TrainingGoalResetOptions]
+Label=Réinitialisation des buts
+Description=Personnaliser le comportement de la réinitialisation des buts en jeu libre. Désactiver l'option ne s'applique pas aux modes Paniers ou Dropshot.
+
+[TargetCamSwivelMode]
+Label=Rotation de la caméra cible
+Description=Détermine si la rotation de la caméra est permise lorsque le changement de cible occupe la même touche que plusieurs cibles.
+
+[PickupActivationBuffer]
+Label=Délai d'activation de Rumble
+Description=Détermine combien de secondes la commande d'activation doit être maintenue afin d'activer les power-ups de Rumble.
+
+[VoiceReportingLevel]
+Label=Signalement vocal
+
+[VoiceNotificationLevel]
+Label=Notifications
+Description=Détermine quelles notifications vocales sont jouées.
+
+[TextReportingLevel]
+Label=Signalement textuel
+
+[FilterTextChat]
+Label=Filtrer les obscénités
+Description=Cette option permet de filtrer les obscénités dans les messages textuels des canaux de groupe. Le filtre à obscénités est toujours actif dans tous les canaux pour les joueurs de moins de 13 ans, ou si un utilisateur en écran partagé a activé cette option.
+
+[DisplayPartyLeaderLeftModal]
+Label=Affichage d'un message de sortie du chef de groupe
+Description=Affiche un message lorsque le chef de groupe quitte une partie dans laquelle vous vous trouvez.
+
+[QuickDropOpeningPreference]
+Label=Passer l'animation d'ouverture du butin
+Description=Passe l'animation jouée lorsque vous ouvrez un butin.
+
+[TrainingRestartRoundInputDelay]
+Label=Délai de saisie avant début de manche
+Description=Le temps d'attente avant de traiter les saisies des véhicules au début d'une manche.
+
+[TrainingBallSpeedModifier]
+Label=Modificateur de vitesse du ballon
+Description=Modifie la vitesse initiale du ballon d'une valeur aléatoire allant jusqu'à ce maximum.
+
+[TrainingBallLocationModifier]
+Label=Modificateur de position du ballon
+Description=Modifie la position horizontale initiale du ballon d'une valeur aléatoire allant jusqu'à ce maximum.
+
+[TrainingBallHeightModifier]
+Label=Modificateur de hauteur du ballon
+Description=Modifie la position verticale initiale du ballon d'une valeur aléatoire allant jusqu'à ce maximum.
+
+[TrainingVehicleLocationModifier]
+Label=Modificateur de position du véhicule
+Description=Modifie la position horizontale initiale du véhicule d'une valeur aléatoire allant jusqu'à ce maximum.
+
+[TrainingVehicleRotationModifier]
+Label=Modificateur de rotation du véhicule
+Description=Modifie l'angle de direction initial du véhicule d'une valeur aléatoire allant jusqu'à ce maximum.
+
+[TrainingVehicleForceGround]
+Label=Apparition du véhicule au sol
+Description=Force le véhicule à apparaître sur le sol.
+
+[TrainingSkipGoalReplay]
+Label=Passer le replay du but
+Description=Saute le replay après avoir marqué un but et passe directement au tir suivant.
+
+[FlipResetIndicator]
+Label=Indicateur de Flip Reset
+Description=Produit un effet local lorsque votre voiture récupère une esquive en atterrissant sur le ballon. Cela s'applique également aux véhicules observés.
+
+[VisibleMMRPreference]
+Label=Afficher le MMR compétitif
+Description=Active l'affichage du MMR pour les modes classés dans le menu principal et les scores.
+
+[OverrideBoostSound]
+Label=Utiliser le son de turbo standard
+Description=Remplace le son du turbo que vous avez choisi par celui du turbo standard.
+
+[CameraAutoRecenter]
+Description=Active le recentrage automatique de la caméra une fois le délai de recentrage de la caméra écoulé.
+Label=Recentrage automatique
+
+[CameraRecenterDelay]
+Description=Détermine le délai (en secondes) avant de recentrer la caméra automatiquement. Le délai est réinitialisé si vous tournez la caméra autour de la voiture.
+Label=Délai de recentrage
+
+[CameraRecenterSpeed]
+Description=Détermine la vitesse à laquelle la caméra se recentre automatiquement.
+Label=Vitesse de recentrage
+
+[PlayMusic]
+Label=Paramètres de la musique en jeu
+Description=Détermine le moment où la musique est jouée.
+
+[CameraUnconstrainRotation]
+Label=Débrider la rotation de la caméra
+Description=Permet la rotation libre de la caméra sans aucune contrainte.
+
+[TargetFindAvailable]
+Label=Activer la visée automatique
+Description=[DÉV UNIQUEMENT] Visez en direction du ballon quand vous accélérez.
+
+[NewsDataTracking_Functional]
+Label=Suivi des données d'actualités - Fonctionnel
+Description=Permet au suivi des données de proposer un flux d'actualités personnalisé. Suivi des aspects fonctionnels
+
+[NewsDataTracking_Marketing]
+Label=Permet de personnaliser les recommandations d'achat.
+Description=Permet de personnaliser les recommandations d'achat.
+
+[NewsDataTracking_Experience]
+Label=Permet de personnaliser les recommandations d'expérience.
+Description=Permet de personnaliser les recommandations d'expérience.
+
+[EnableHighContrastMode]
+Label=Mode contraste élevé
+Description=Active le mode contraste élevé.
+
+[StatGraphLevel]
+Label=Graphiques des statistiques
+Description=Affiche ou masque les graphiques des statistiques.
+
+[UseFreeplayColors]
+Label=Utiliser les couleurs d'équipes par défaut
+Description=Utilise les couleurs d'équipes par défaut en jeu libre.
+
+[CameraFreeLookSmoothing]
+Label=Lissage de la caméra libre
+Description=Active l'accélération et la décélération de la caméra libre afin de rendre la rotation plus fluide. Désactivez l'option pour passer à la rotation brute.
+
+[CameraAccelRate]
+Label=Accélération de la caméra
+Description=Définit la vitesse d'accélération de la caméra si le lissage est activé. Plus l'accélération est élevée, moins la caméra met de temps pour atteindre sa vitesse de rotation maximum.
+
+[CameraDecelRate]
+Label=Décélération de la caméra
+Description=Définit la vitesse de décélération de la caméra si le lissage est activé. Plus la décélération est élevée, moins la caméra met de temps à s'arrêter lorsque vous cessez de la faire pivoter.
+
+[ControllerFreeLookDeadzone]
+Label=Zone morte de la caméra libre
+Description=Détermine de combien le joystick doit bouger afin d'affecter la rotation de la caméra libre.
+
+[DrawVehicleHitbox]
+Label=Matérialiser la hitbox du véhicule
+Description=Fait apparaître une boîte qui représente le masque de collision du véhicule.
+
+[TrainingStartingVelocityImpulse]
+Label=Vitesse initiale
+Description=Au début de chaque manche, applique une impulsion de vitesse dans la direction vers laquelle la voiture fait face. Une valeur négative repousse la voiture vers l'arrière.
+
+[TrainingUnlimitedBoost]
+Label=Turbo illimité
+Description=Détermine si la voiture commence avec un turbo illimité.
+
+[TrainingStartingBoost]
+Label=Turbo initial
+Description=La quantité de turbo avec laquelle la voiture commence si le turbo illimité est désactivé.
+
+[HideHUDOption]
+Label=Masquer l'interface en jeu
+Description=Masque les interfaces de jeu, de rediffusion et de spectateur.
+
+[AnonymizeOwnName]
+Label=Anonymiser mon nom
+Description=Anonymise votre nom en jeu pour vos adversaires, vos coéquipiers ou tout le monde.
+
+[AnonymizeTeammates]
+Label=Coéquipiers anonymisés
+Description=Anonymise le nom de vos coéquipiers en jeu.
+
+[AnonymizeOpponents]
+Label=Adversaires anonymisés
+Description=Anonymise le nom de vos adversaires en jeu.
+
+[HideMatchmakingStatus]
+Label=Masquer le statut de la recherche de partie
+Description=Retire les régions et annonces visibles de la fenêtre de recherche de partie initiale ainsi que de sa bannière.
+
+[MaxMatchmakingDelay]
+Label=Délai de recherche de partie maximum
+Description=Reporte l'activation de la recherche de partie d'un nombre de secondes aléatoire entre 1 et le maximum sélectionné.
+
+[SpecialEventVisuals]
+Label=Afficher les visuels d'événement dans la partie
+Description=Activer cette option permet d'afficher les effets visuels des événements spéciaux pendant une partie.
+
+[InvertSwivelPitchKBM]
+Label=Inverser axe de rotation (clavier-souris)
+Description=Inverse les commandes de rotation de la caméra en utilisant une souris et un clavier.
+
+[InvertSwivelPitchController]
+Label=Inverser axe de rotation (manette)
+Description=Inverse les commandes de rotation de la caméra en utilisant une manette.
+
+[FreelookCameraKBM]
+Label=Caméra libre (clavier-souris)
+Description=Permet la rotation libre de la caméra sans aucune contrainte en utilisant une souris et un clavier.
+
+[FreelookCameraController]
+Label=Caméra libre (manette)
+Description=Permet la rotation libre de la caméra sans aucune contrainte en utilisant une manette.
+
+[CameraFreeLookSmoothingKBM]
+Label=Lissage de la caméra libre (clavier-souris)
+Description=Active l'accélération/décélération de la caméra libre en utilisant une souris et un clavier.
+
+[CameraFreeLookSmoothingController]
+Label=Lissage de la caméra libre (manette)
+Description=Active l'accélération/décélération de la caméra libre en utilisant une manette.
+
+[CameraAccelRateKBM]
+Label=Accélération de la caméra (clavier-souris)
+Description=Définit la vitesse d'accélération de la caméra si le lissage est activé en utilisant une souris et un clavier. Plus l'accélération est élevée, moins la caméra met de temps pour atteindre sa vitesse de rotation maximum.
+
+[CameraAccelRateController]
+Label=Accélération de la caméra (manette)
+Description=Définit la vitesse d'accélération de la caméra si le lissage est activé en utilisant une manette. Plus l'accélération est élevée, moins la caméra met de temps pour atteindre sa vitesse de rotation maximum.
+
+[CameraDecelRateKBM]
+Label=Décélération de la caméra (clavier-souris)
+Description=Définit la vitesse de décélération de la caméra si le lissage est activé en utilisant une souris et un clavier. Plus la décélération est élevée, moins la caméra met de temps à s'arrêter lorsque vous cessez de la faire pivoter.
+
+[CameraDecelRateController]
+Label=Décélération de la caméra (manette)
+Description=Définit la vitesse de décélération de la caméra si le lissage est activé en utilisant une manette. Plus la décélération est élevée, moins la caméra met de temps à s'arrêter lorsque vous cessez de la faire pivoter.
+
+[DemoSelectLerpTime]
+Label=Aperçu de la transition de réapparition
+Description=Détermine la durée (en secondes) des transitions de la caméra afin d'afficher le terrain après démolition. Choisissez 0,00 pour une coupure nette.
+
+[DemoSelectChangeSpawnTime]
+Label=Aperçu de la transition de changement de réapparition
+Description=Détermine la durée (en secondes) des transitions de la caméra afin d'afficher les différents points de réapparition après démolition. Choisissez 0,00 pour une coupure nette.
+
+[AutoSkipGoalReplay]
+Label=Passer le replay du but
+Description=Vote automatiquement pour passer le replay des buts.
+

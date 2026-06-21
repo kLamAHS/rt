@@ -1,0 +1,20 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\Engine.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Errors]
+NoDownload=Erreur de contenu (Package `~) (Error: 40)
+InvalidUrl=Erreur de contenu (Error: 41)
+ConnectionFailed=Vous avez perdu la connexion au jeu. (Error: 42)
+Pending=Impossible de vous connecter (Error: 43)
+AdHocError=Échec de la communication sans fil, veuillez réessayer plus tard.
+
+[AccessControl]
+AuthenticationFailed=Erreur d'authentification (Error: 44)
+
+[GameMessage]
+MaxedOutMessage=Serveur complet (Error: 45)
+
+[AkAudio]
+Language=English(US)
+

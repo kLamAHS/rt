@@ -1,0 +1,90 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\ProjectX.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[OnlinePlatformNames]
+PS4=PlayStation™Network
+Steam=Steam
+PS3=PlayStation™Network
+XboxOne=Xbox Live
+Switch=compte
+Epic=Epic Games
+
+[OnlineGameMatchmakingBase_X]
+PingingRegionsString=Mise à jour du ping des régions...
+
+[OnlineGamePrivateMatch_X]
+SearchingString=Recherche de match privé en : [Region]
+StartSearchFailString=Impossible de se connecter au serveur. Veuillez réessayer plus tard... (Error: 88)
+FoundServerString=Serveur de jeu trouvé ! Connexion à [GameServerName] pour un match privé...
+AlreadyJoiningGameString=Vous essayez déjà de rejoindre une autre partie, veuillez réessayer plus tard... (Error: 89)
+TimeoutString=Impossible de trouver un serveur de jeu. Veuillez réessayer plus tard... (Error: 90)
+WrongRegionString=Le serveur n'est pas dans la bonne région. Veuillez réessayer plus tard. (Error: 91)
+
+[OnlineGameMatchmaking_X]
+SearchingString=Recherche de [Playlists] en : [Regions]
+StartSearchFailString=Impossible de contacter le serveur de recherche des joueurs. Essaye une nouvelle fois… (Error: 68)
+FoundServerString=Serveur de jeu trouvé ! Connexion à [GameServerName] pour [PlaylistName]...
+PlaylistsHaveChangedString=La sélection de types de match a changée. La recherche de matchs sera réinitialisée dans... (Error: 66)
+MatchmakingAttemptString=Recherche de match : 
+RegionsHaveChangedString=Les régions ont été modifiées, réinitialisation de la recherche des matchs... (Error: 91)
+
+[OnlineGameServerBrowser_X]
+StartSearchFailString=Impossible de trouver un serveur. Veuillez réessayer plus tard.
+NoResultsFound=Impossible de trouver un serveur
+NotLoggedInToPsynet=Connexion au serveur impossible. Vérifiez votre connexion réseau.
+
+[OnlineGameJoinGame_X]
+WaitingForPlayersString=En attente de plus de joueurs...
+ReservationNotRespondingString=Le serveur de jeu ne répond pas. (Error: 62)
+ReservationFullString=Le serveur de jeu est complet. (Error: 63)
+PartyTeamReservationFullString=L'équipe du chef de groupe est complète. (Error: 69)
+NoFriendJoinPrivateMatchString=Vous devez faire partie du même groupe pour rejoindre le match privé d'un ami. (Error: 70)
+BeaconTimedOutString=Délai de connexion au serveur dépassé. (Error: 67)
+NotAllPlayersJoinedString=Certains joueurs ne se sont pas connectés. (Error: 64)
+FailedConnectionToGameServerString=Délai de connexion au serveur de jeu dépassé. (Error: 65)
+CanceledString=Annulé par l'utilisateur. (Error: 83)
+SendingReservationMessage=Envoi de la réservation au serveur de jeu.
+JoiningPartyLeadersGame=Vous rejoignez le match du chef de groupe.
+InvalidPassword=Impossible de rejoindre le match. Mot de passe incorrect.
+WrongPlaylistString=Le serveur utilise une liste différente. (Error: 86)
+MatchEndedString=La partie est terminée. (Error: 85)
+SecurityKeyAcquisitionFailed=Connexion au serveur impossible. (Error: 72)
+SecurityKeyVerificationFailed=Connexion au serveur impossible. (Error: 82)
+CrossplayDisabled=Certains joueurs sur ce serveur n'ont pas accès à la fonctionnalité Cross-Platform Play. (Error: 87)
+AnotherPlayerCanceled=Un autre joueur a annulé. (Error: 92)
+WrongRankedMatchString=Le serveur utilise une partie classée différente. (Error: 93)
+MatchSetupFailedString=Une erreur est survenue lors de la configuration de la partie. (Error: 94)
+
+[OnlineGameBlog_X]
+DefaultBlogTitle=Bienvenue dans Rocket League®!
+DefaultBlogBody=Vous faites partie des premiers joueurs à expérimenter (et à donner forme à) la suite très anticipée et très explosive du Supersonic Acrobatic Rocket-Powered Battle-Cars!\n\nN'oubliez pas de jeter un oeil sur les <a href="http://psyonix.com/forum/viewforum.php?f=33">Forums officiels de Rocket League®</a> pour plus de détails !
+DefaultMotD=Bienvenue dans Rocket League®!\nN'oubliez pas de visiter les forums officiels de Rocket League® pour plus de détails !
+
+[OnlineGameInvite_X]
+AlreadyInSameServerString=Vous jouez déjà avec un ami.
+NotAllPartyMembersInSameOnlineGameString=Impossible de rejoindre une partie parce qu'au moins un des membres de votre groupe participe à un match en ligne.
+NotAllPartyMembersAgreedToPrivacy=Impossible de rejoindre le match parce qu'au moins un des membres du groupe n'a pas accepté la politique de confidentialité.
+UnableToFindFriendsGameString=Impossible de trouver la partie d'un ami, veuillez réessayer plus tard.
+
+[GFxModal_X]
+ConfirmString=Ok
+
+[RPC_Test_X]
+TestParamLocalizedString=Harcèlement Verbal/Écrit
+
+[OnlineGameParty_X]
+NotLoggedInPsynetError=[PlayerName] n'est pas connecté(e) aux serveurs de Rocket League®.
+NotInSameOnlineGameError=[PlayerName] est dans une partie en ligne.
+MissingLicenseAgreementError=[PlayerName] n'a pas accepté le contrat d'utilisateur.
+
+[OnlineGamePlaylists_X]
+CompetitiveCategory=Compétitif
+CasualCategory=Occasionnel
+ExtraModeCategory=Modes Extra
+PrivateCategory=Privé
+TournamentCategory=Tournoi
+
+[EpicLogin_X]
+Unknown=Inconnu
+

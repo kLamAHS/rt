@@ -1,0 +1,251 @@
+# SOURCE: ..\..\TAGame\Localization\FRA\CertifiedStat.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[Goals]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos buts.
+Rank0=Buteur
+Rank1=Buteur compétent
+Rank2=Buteur doué
+Rank3=Buteur vétéran
+Rank4=Buteur fantastique
+Rank5=Buteur extraordinaire
+Rank6=Buteur improbable
+Rank7=Buteur irréel
+Rank8=Buteur supersonique
+Rank9=Force imparable
+
+[Saves]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos arrêts.
+Rank0=Gardien de but
+Rank1=Gardien de but compétent
+Rank2=Gardien de but doué
+Rank3=Gardien de but vétéran
+Rank4=Gardien de but fantastique
+Rank5=Gardien de but de folie
+Rank6=Gardien de but incroyable
+Rank7=Gardien de but insensé
+Rank8=Gardien de but impénétrable
+Rank9=Objet immobile
+
+[Assists]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos passes décisives.
+Rank0=Meneur de jeu
+Rank1=Meneur de jeu compétent
+Rank2=Meneur de jeu doué
+Rank3=Meneur de jeu vétéran
+Rank4=Meneur de jeu fantastique
+Rank5=Meneur de jeu extraordinaire
+Rank6=Meneur de jeu de l'absurde
+Rank7=Meneur de jeu irréel
+Rank8=Meneur de jeu médium
+Rank9=Héros méconnu
+
+[Clears]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos dégagements en défense.
+Rank0=Libéro
+Rank1=Libéro compétent
+Rank2=Libéro doué
+Rank3=Libéro vétéran
+Rank4=Libéro fantastique
+Rank5=Libéro de folie
+Rank6=Libéro incroyable
+Rank7=Libéro insensé
+Rank8=Libéro fulgurant
+Rank9=Capitaine
+
+[ShotsOnGoal]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos tirs cadrés.
+Rank0=Attaquant
+Rank1=Attaquant compétent
+Rank2=Attaquant doué
+Rank3=Attaquant vétéran
+Rank4=Attaquant fantastique
+Rank5=Attaquant extraordinaire
+Rank6=Attaquant de l'absurde
+Rank7=Attaquant irréel
+Rank8=Attaquant implacable
+Rank9=Sauvage
+
+[Centers]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos centres en attaque.
+Rank0=Tacticien
+Rank1=Tacticien compétent
+Rank2=Tacticien doué
+Rank3=Tacticien vétéran
+Rank4=Tacticien fantastique
+Rank5=Tacticien de folie
+Rank6=Tacticien incroyable
+Rank7=Tacticien insensé
+Rank8=Tacticien prodigieux
+Rank9=Maître planificateur
+
+[Wins]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos victoires.
+Rank0=Vainqueur
+Rank1=Vainqueur compétent
+Rank2=Vainqueur doué
+Rank3=Vainqueur vétéran
+Rank4=Vainqueur fantastique
+Rank5=Vainqueur audacieux
+Rank6=Vainqueur impitoyable
+Rank7=Vainqueur intrépide
+Rank8=Vainqueur vaillant
+Rank9=Imbattable
+
+[MVPs]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos titres de Meilleur Joueur.
+Rank0=Modèle
+Rank1=Modèle compétent
+Rank2=Modèle doué
+Rank3=Modèle vétéran
+Rank4=Modèle fantastique
+Rank5=Modèle déterminé
+Rank6=Modèle éblouissant
+Rank7=Modèle merveilleux
+Rank8=Modèle absolu
+Rank9=Le plus précieux
+
+[AerialGoals]
+Description=Cet article va enregistrer le nombre de buts aériens effectués quand il est équipé dans un match en ligne.
+Rank0=Aviateur
+Rank1=Aviateur compétent
+Rank2=Aviateur doué
+Rank3=Aviateur vétéran
+Rank4=Aviateur fantastique
+Rank5=Aviateur extraordinaire
+Rank6=Aviateur de l'absurde
+Rank7=Aviateur irréel
+Rank8=Aviateur audacieux
+Rank9=As des as
+
+[BicycleGoals]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos bicyclettes marquées.
+Rank0=Acrobate
+Rank1=Acrobate compétent
+Rank2=Acrobate doué
+Rank3=Acrobate vétéran
+Rank4=Acrobate fantastique
+Rank5=Acrobate dingue
+Rank6=Acrobate incroyable
+Rank7=Acrobate insensé
+Rank8=Acrobate époustouflant
+Rank9=Cycliste
+
+[BackwardsGoals]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos buts en marche arrière.
+Rank0=Frimeur
+Rank1=Frimeur compétent
+Rank2=Frimeur doué
+Rank3=Frimeur vétéran
+Rank4=Frimeur fantastique
+Rank5=Frimeur audacieux
+Rank6=Frimeur impitoyable
+Rank7=Frimeur exténuant
+Rank8=Frimeur insolent
+Rank9=Crâneur ultime
+
+[TurtleGoals]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos buts marqués par coups de la tortue.
+Rank0=Tortue
+Rank1=Tortue compétente
+Rank2=Tortue douée
+Rank3=Tortue vétéran
+Rank4=Tortue fantastique
+Rank5=Tortue de folie
+Rank6=Tortue incroyable
+Rank7=Tortue casse-cou
+Rank8=Tortue intemporelle
+Rank9=Dieu tortue
+
+[LongGoals]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de buts tirés en profondeur.
+Rank0=Sniper
+Rank1=Sniper compétent
+Rank2=Sniper doué
+Rank3=Sniper vétéran
+Rank4=Sniper fantastique
+Rank5=Sniper extraordinaire
+Rank6=Sniper de l'absurde
+Rank7=Sniper irréel
+Rank8=Sniper rancunier
+Rank9=Tueur de sang-froid
+
+[EpicSaves]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos arrêts épiques.
+Rank0=Gardien
+Rank1=Gardien compétent
+Rank2=Gardien doué
+Rank3=Gardien vétéran
+Rank4=Gardien fantastique
+Rank5=Gardien de folie
+Rank6=Gardien incroyable
+Rank7=Gardien insensé
+Rank8=Gardien courageux
+Rank9=Ange gardien
+
+[Juggles]
+Description=Équipé lors de matchs en ligne, il enregistre le nombre de vos jongleries.
+Rank0=Jongleur
+Rank1=Jongleur compétent
+Rank2=Jongleur doué
+Rank3=Jongleur vétéran
+Rank4=Jongleur fantastique
+Rank5=Jongleur extraordinaire
+Rank6=Jongleur de l'absurde
+Rank7=Jongleur irréel
+Rank8=Jongleur merveilleux
+Rank9=Magicien
+
+[InfectedPlayersDefeated]
+Rank0=Suppresseur
+Rank1=Suppresseur compétent
+Rank2=Suppresseur doué
+Rank3=Suppresseur vétéran
+Rank4=Suppresseur fantastique
+Rank5=Suppresseur extraordinaire
+Rank6=Suppresseur impitoyable
+Rank7=Suppresseur extraordinaire
+Rank8=Suppresseur prolifique
+Rank9=Annihilateur d'écho
+Description=Une fois équipé dans une partie en ligne, cet objet vous permet de suivre le nombre de joueurs avec l'objet Écho que vous avez vaincus pendant la Chasse aux échos.
+
+[PlayersInfected]
+Rank0=Répercuteur
+Rank1=Répercuteur compétent
+Rank2=Répercuteur doué
+Rank3=Répercuteur vétéran
+Rank4=Répercuteur fantastique
+Rank5=Répercuteur ridicule
+Rank6=Répercuteur absurde
+Rank7=Répercuteur impitoyable
+Rank8=Répercuteur retentissant
+Rank9=Résonateur radieux
+Description=Une fois équipé dans une partie en ligne, cet objet vous permet de suivre le nombre de joueurs auxquels vous avez donné l'objet Écho pendant la Chasse aux échos.
+
+[Losses]
+Description=Équipé lors des matchs en ligne, il enregistre le nombre de vos défaites.
+Rank1=Outsider compétent
+Rank2=Outsider doué
+Rank3=Outsider vétéran
+Rank4=Outsider fantastique
+Rank5=Outsider extraordinaire
+Rank6=Outsider de l'absurde
+Rank7=Outsider irréel
+Rank8=Outsider ultime
+Rank9=Seigneur de la défaite
+Rank0=Outsider
+
+[Demolished]
+Description=Une fois équipé dans une partie en ligne, cet objet vous permet de suivre le nombre de fois où vous vous êtes fait démolir.
+Rank1=Exploseur compétent
+Rank2=Exploseur doué
+Rank3=Exploseur vétéran
+Rank4=Exploseur fantastique
+Rank5=Exploseur déterminé
+Rank6=Exploseur éblouissant
+Rank7=Exploseur intrépide
+Rank8=Exploseur instable
+Rank9=Seigneur de la réapparition
+Rank0=Exploseur
+

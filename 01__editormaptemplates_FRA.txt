@@ -1,0 +1,10 @@
+# SOURCE: ..\..\Engine\Localization\FRA\editormaptemplates.FRA
+# Edit ONLY the text after '=' on value lines.
+# Keep [section] headers and keys exactly as-is.
+
+[TemplateMapMetadata.DisplayNames]
+Template_Afternoon=Afternoon Lighting
+Template_MidDay=Midday Lighting
+Template_Morning=Morning Lighting
+Template_Night=Night Lighting
+
